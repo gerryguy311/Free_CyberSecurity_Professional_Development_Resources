@@ -6,11 +6,13 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
   3. WEBINAR/LABS/WORKSHOPS
   
 ## Conferences
-1. **GRIMMCON**	April 14 - 2 tracks - top tier infosec professionals talking	https://www.grimm-co.com/grimmcon
+* **GRIMMCON**	April 14 - 2 tracks - top tier infosec professionals talking	https://www.grimm-co.com/grimmcon
 
-2. **InfosecOasis** - April 18, 2020 - (FROM CON Page) InfoSecOASIS is a free, online information security conference. We wanted to create a space to participate in the social aspects of conferences, all while respecting the guidelines for social distancing. While VR is highly recommended, it is not required to use AltspaceVR (our platform of choice). https://infosecoasis.com/
+* **InfosecOasis** - April 18, 2020 - (FROM CON Page) InfoSecOASIS is a free, online information security conference. We wanted to create a space to participate in the social aspects of conferences, all while respecting the guidelines for social distancing. While VR is highly recommended, it is not required to use AltspaceVR (our platform of choice). https://infosecoasis.com/
 
-3. **FWD:CLOUDSEC** June 29 - a new cloud security practitioners conference which will be held online - https://fwdcloudsec.org/
+* **IsolationCon** - 19TH APRIL (14:00 UTC, 10AM EST) - We are not just another infosec con; our vision is to be the online conference for information security people from all teams and different backgrounds all over the world. We actively want to encourage collaboration and participation. We want our Attendees and Speakers to be immersed in this online event, with activities and debates around the challenges we all face in our working and personal lives, and how they are adapting to the current situation we all face. https://themanyhats.club/the-many-hats-club-presents-isolationcon/
+
+* **FWD:CLOUDSEC** June 29 - a new cloud security practitioners conference which will be held online - https://fwdcloudsec.org/
 ## Training
 1.	**Pluralsight**	Free for April 2020. Massive top tier library of content including lots of cyber training	www.pluralsight.com
 2.	**EC-Council Hacking** 	"Per vendor: Use our Free Resource Pass to a wide range of
