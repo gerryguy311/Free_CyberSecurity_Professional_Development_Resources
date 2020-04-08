@@ -19,5 +19,5 @@ online cybersecurity resources."	https://www.eccouncil.org/free-cybersecurity-re
   * Why it’s challenging to store ATT&CK-mapped data and what you should consider when doing that
   * How to perform CTI analysis using ATT&CK-mapped data
   * How to make defensive recommendations based on CTI analysis
-
+7. Coursera -"Coursera Together: Free online learning during COVID-19" Lots of different types of free training. https://blog.coursera.org/coursera-together-free-online-learning-during-covid-19/
 
