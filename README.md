@@ -5,6 +5,7 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
   2. TRAINING
 ## Conferences
 1.	GRIMMCON	April 14 - 2 tracks - top tier infosec professionals talking	https://www.grimm-co.com/grimmcon
+2.  FWD:CLOUDSEC June 29 - a new cloud security practitioners conference which will be held online - https://fwdcloudsec.org/
 ## Training
 1.	Pluralsight	Free for April 2020. Massive top tier library of content including lots of cyber training	www.pluralsight.com
 2.	EC-Council Hacking 	"Per vendor: Use our Free Resource Pass to a wide range of
