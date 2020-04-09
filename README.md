@@ -13,6 +13,9 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
 * **IsolationCon** - 19TH APRIL (14:00 UTC, 10AM EST) - We are not just another infosec con; our vision is to be the online conference for information security people from all teams and different backgrounds all over the world. We actively want to encourage collaboration and participation. We want our Attendees and Speakers to be immersed in this online event, with activities and debates around the challenges we all face in our working and personal lives, and how they are adapting to the current situation we all face. https://themanyhats.club/the-many-hats-club-presents-isolationcon/
 
 * **FWD:CLOUDSEC** June 29 - a new cloud security practitioners conference which will be held online - https://fwdcloudsec.org/
+
+* **RSAC 2020 APJ** July 15 – 17 "Transforming RSA Conference 2020 Asia Pacific & Japan into a free virtual learning experience, taking place 15 – 17 July. We have many exciting and relevant sessions and keynotes planned, featuring some of the world’s leading cybersecurity experts." https://go.rsaconference.com/rsac-apj2020/
+
 ## Training
 1.	**Pluralsight**	Free for April 2020. Massive top tier library of content including lots of cyber training	www.pluralsight.com
 
