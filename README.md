@@ -4,6 +4,7 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
   1. CONFERENCES
   2. TRAINING
   3. WEBINAR/LABS/WORKSHOPS
+  4. BOOKS
   
 ## Conferences
 * **GRIMMCON**	April 14 - 2 tracks - top tier infosec professionals talking	https://www.grimm-co.com/grimmcon
@@ -53,3 +54,12 @@ online cybersecurity resources."	https://www.eccouncil.org/free-cybersecurity-re
 ### May
 * **Cyber Threat Hunting Training – May Session (4-Hours)** - Blackhills Information Security - Tuesday, May 12th, 12pm – 4pm EST -- In this free, one-day course, we will cover how to leverage network data to perform a cyber threat hunt.
 The course includes hands-on labs using packet captures of various command and control channels. The labs will enable you to apply what you’ve learned using various open-source tools. https://register.gotowebinar.com/register/5841228496128209677 
+
+
+## Books
+* **Building Secure & Reliable Systems*
+Best Practices for Designing, Implementing and Maintaining Systems (O'Reilly)
+By Heather Adkins, Betsy Beyer, Paul Blankinship, Ana Oprea, Piotr Lewandowski, Adam Stubblefield
+https://static.googleusercontent.com/media/landing.google.com/en//sre/static/pdf/SRS.pdf
+
+* **Security Engineering** By Ross Anderson - A guide to building dependable distributed systems. (and Ross Anderson is brilliant //OP editorial) https://www.cl.cam.ac.uk/~rja14/book.html
