@@ -57,7 +57,7 @@ The course includes hands-on labs using packet captures of various command and c
 
 
 ## Books
-* **Building Secure & Reliable Systems*
+* **Building Secure & Reliable Systems**
 Best Practices for Designing, Implementing and Maintaining Systems (O'Reilly)
 By Heather Adkins, Betsy Beyer, Paul Blankinship, Ana Oprea, Piotr Lewandowski, Adam Stubblefield
 https://static.googleusercontent.com/media/landing.google.com/en//sre/static/pdf/SRS.pdf
