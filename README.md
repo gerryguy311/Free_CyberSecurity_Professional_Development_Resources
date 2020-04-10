@@ -42,9 +42,25 @@ online cybersecurity resources."	https://www.eccouncil.org/free-cybersecurity-re
 
 7. **Coursera** -"Coursera Together: Free online learning during COVID-19" Lots of different types of free training. https://blog.coursera.org/coursera-together-free-online-learning-during-covid-19/
 
-8. **Fortinet Security Appliance Training** Course work direct from the vendor. This is vendor specific to Fortinet network security appliances. https://www.fortinet.com/training/cybersecurity-professionals.html
+8. **Fortinet Security Appliance Training** Free access to the FortiGate Essentials Training Course and Network Security Expert courses 1 and 2 https://www.fortinet.com/training/cybersecurity-professionals.html
 
+9. **Chief Information Security Officer (CISO) Workshop Training** - The Chief Information Security Office (CISO) workshop contains a collection of security learnings, principles, and recommendations for modernizing security in your organization. This training workshop is a combination of experiences from Microsoft security teams and learnings from customers. - https://docs.microsoft.com/en-us/security/ciso-workshop/ciso-workshop
 
+10. **CLARK Center Plan C** - Free cybersecurity curriculum that is primarily video-based or provide online assignments that can be easily integrated into a virtual learning environments https://clark.center/home
+
+11. **Hack.me** is a FREE, community based project powered by eLearnSecurity. The community can build, host and share vulnerable web application code for educational and research purposes. It aims to be the largest collection of "runnable" vulnerable web applications, code samples and CMS's online. The platform is available without any restriction to any party interested in Web Application Security. https://hack.me/
+
+12. **Hacker101** - Free classes for web security - https://www.hacker101.com/
+
+13. **ElasticStack** - Free on-demand Elastic Stack, observability, and security courses. https://training.elastic.co/learn-from-home
+
+14. **Hoppers Roppers** - Community built around a series of free courses that provide training to beginners in the security field. https://www.hoppersroppers.org/training.html
+
+15. **IBM Security Learning Academy**	Free technical training for IBM Security products. https://www.securitylearningacademy.com/
+
+16. **M.E. Kabay**	Free industry courses and course materials for students, teachers and others are welcome to use for free courses and lectures.	 http://www.mekabay.com/courses/index.htm
+
+17. **Open P-TECH**	Free digital learning on the tech skills of tomorrow. https://www.ptech.org/open-p-tech/
 
 ## Webinar/ Labs / Workshops
 ### April
