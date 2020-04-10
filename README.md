@@ -3,7 +3,7 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
 # CATEGORIES
   1. CONFERENCES
   2. TRAINING
-  3. WEBINAR/LABS/WORKSHOPS
+  3. INSTRUCTOR LED WEBINAR/LABS/WORKSHOPS
   4. BOOKS
   
 ## Conferences
@@ -62,7 +62,7 @@ online cybersecurity resources."	https://www.eccouncil.org/free-cybersecurity-re
 
 17. **Open P-TECH**	Free digital learning on the tech skills of tomorrow. https://www.ptech.org/open-p-tech/
 
-## Webinar/ Labs / Workshops
+## Instructor Led Webinar/ Labs / Workshops
 ### April
 * **Active Defense & Cyber Deception Training** - Blackhills Information Security - Thursday, April 9th, 12pm – 4pm EST || This free class will be about 4-hours long with hands-on labs. It’s the first half of the first day of the training class normally taught at Wild West Hackin’ Fest. https://www.blackhillsinfosec.com/training/active-defense-cyber-deception-training/
 
