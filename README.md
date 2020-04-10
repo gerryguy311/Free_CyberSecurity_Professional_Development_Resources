@@ -54,6 +54,8 @@ online cybersecurity resources."	https://www.eccouncil.org/free-cybersecurity-re
 
 * **Active Defense & Cyber Deception Training (w/John Strand)** - Blackhills Information Security - Tuesday, April 28th, 12pm – 4pm EST | Wednesday, April 29th, 12pm – 4pm EST | Thursday, April 30th, 12pm – 4pm EST -- In this class, you will learn how to force an attacker to take more moves to attack your network. These moves may increase your ability to detect them. You will learn how to gain better attribution as to who is attacking you and why. You will also find out how to get access to a bad guy’s system. And most importantly, you will find out how to do the above legally. [URL PENDING]
 
+* **How to Build a Home Lab** - Apr 16, 2020 1:00 PM EDT  "joint webcast between Black Hills Information Security & Active Countermeasures. We'll show you why and how to build a home lab so you can build and practice new skills before deploying elsewhere."  Register: https://lnkd.in/dV5KbGj
+
 ### May
 * **Cyber Threat Hunting Training – May Session (4-Hours)** - Blackhills Information Security - Tuesday, May 12th, 12pm – 4pm EST -- In this free, one-day course, we will cover how to leverage network data to perform a cyber threat hunt.
 The course includes hands-on labs using packet captures of various command and control channels. The labs will enable you to apply what you’ve learned using various open-source tools. https://register.gotowebinar.com/register/5841228496128209677 
