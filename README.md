@@ -66,6 +66,12 @@ online cybersecurity resources."	https://www.eccouncil.org/free-cybersecurity-re
 
 19. **Udemy** - Online learning course platform "collection from the free courses in our learning marketplace" https://www.udemy.com/courses/free/
 
+20. **Security+ Training** CompTIA Security+ (SY0-501) Complete Video Course is an engaging self-paced video training solution that provides learners with more than 19 hours of personal training from security expert Sari Greene.  https://pearsonadvance.com/courses/comptia-security-sy0-501/
+
+21. **Linux Fundamentals** Linux Fundamentals LiveLessons has more than 10 hours of comprehensive video training for you to have everything you need to build a strong understanding of working with Linux. https://pearsonadvance.com/courses/linux-fundamentals/
+
+22. **AWS Certified Cloud Practitioner** Seven hours of video instruction covering the fundamentals of cloud computing; AWS core services such as Amazon EC2, Amazon RDS, and Amazon S3; security; architecture design principles; best practices; and cost management.AWS Certified Cloud Practitioner Complete Video Course is a video product designed to help viewers understand Amazon Web Services at a high level, introduce cloud computing concepts, and key AWS services, and prepare them for the exam according to the certification exam guide published by Amazon Web Services. https://pearsonadvance.com/courses/aws-certified-cloud-practitioner/
+
 ## Instructor Led Webinar/ Labs / Workshops
 ### April
 * ~~**Active Defense & Cyber Deception Training** - Blackhills Information Security - Thursday, April 9th, 12pm – 4pm EST || This free class will be about 4-hours long with hands-on labs. It’s the first half of the first day of the training class normally taught at Wild West Hackin’ Fest. https://www.blackhillsinfosec.com/training/active-defense-cyber-deception-training/~~
