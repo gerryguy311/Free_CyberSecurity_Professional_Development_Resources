@@ -76,6 +76,8 @@ online cybersecurity resources."	https://www.eccouncil.org/free-cybersecurity-re
 
 24. **Packt Web Development Course** Web Development Get to grips with the fundamentals of the modern web Unlock one year of free online access. https://courses.packtpub.com/pages/free?fbclid=IwAR1FtKQcYK8ycCmBMXaBGvW_7SgPVDMKMaRVwXYcSbiwvMfp75gazxRZlzY
 
+25. **Learn Empire Powershell** This Tutorial contains installation of Kali Linux and Windows VM, Installation of Empire PowerShell 3.1,Exploiting Windows 10 machines by various attacks including Empire,Running Mimikatz, Privelege Escalation & Using Hashcat to crack the various password hashes https://pentestskills.teachable.com/p/empire-powershell
+
 ## Instructor Led Webinar/ Labs / Workshops
 ### April
 * ~~**Active Defense & Cyber Deception Training** - Blackhills Information Security - Thursday, April 9th, 12pm – 4pm EST || This free class will be about 4-hours long with hands-on labs. It’s the first half of the first day of the training class normally taught at Wild West Hackin’ Fest. https://www.blackhillsinfosec.com/training/active-defense-cyber-deception-training/~~
