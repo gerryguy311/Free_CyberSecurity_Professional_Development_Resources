@@ -72,6 +72,10 @@ online cybersecurity resources."	https://www.eccouncil.org/free-cybersecurity-re
 
 22. **AWS Certified Cloud Practitioner** Seven hours of video instruction covering the fundamentals of cloud computing; AWS core services such as Amazon EC2, Amazon RDS, and Amazon S3; security; architecture design principles; best practices; and cost management.AWS Certified Cloud Practitioner Complete Video Course is a video product designed to help viewers understand Amazon Web Services at a high level, introduce cloud computing concepts, and key AWS services, and prepare them for the exam according to the certification exam guide published by Amazon Web Services. https://pearsonadvance.com/courses/aws-certified-cloud-practitioner/
 
+23. **Enroll Now Free: PCAP Programming Essentials in Python** https://www.netacad.com/virtual/pcap-programming-essentials-pythonPython is the very versatile, object-oriented programming language used by startups and tech giants, Google, Facebook, Dropbox and IBM. Python is also recommended for aspiring young developers who are interested in pursuing careers in Security, Networking and Internet-of-Things. Once you complete this course, you are ready to take the PCAP – Certified Associate in Python programming. No prior knowledge of programming is required. 
+
+24. **Packt Web Development Course** Web Development Get to grips with the fundamentals of the modern web Unlock one year of free online access. https://courses.packtpub.com/pages/free?fbclid=IwAR1FtKQcYK8ycCmBMXaBGvW_7SgPVDMKMaRVwXYcSbiwvMfp75gazxRZlzY
+
 ## Instructor Led Webinar/ Labs / Workshops
 ### April
 * ~~**Active Defense & Cyber Deception Training** - Blackhills Information Security - Thursday, April 9th, 12pm – 4pm EST || This free class will be about 4-hours long with hands-on labs. It’s the first half of the first day of the training class normally taught at Wild West Hackin’ Fest. https://www.blackhillsinfosec.com/training/active-defense-cyber-deception-training/~~
