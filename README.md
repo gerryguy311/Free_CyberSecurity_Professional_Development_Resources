@@ -84,9 +84,9 @@ online cybersecurity resources."	https://www.eccouncil.org/free-cybersecurity-re
 ### April
 * ~~**Active Defense & Cyber Deception Training** - Blackhills Information Security - Thursday, April 9th, 12pm – 4pm EST || This free class will be about 4-hours long with hands-on labs. It’s the first half of the first day of the training class normally taught at Wild West Hackin’ Fest. https://www.blackhillsinfosec.com/training/active-defense-cyber-deception-training/~~
 
-* **SANS SEC573! More Python3! More Pywars! with Mark Baggett** | April 13 @ 3:30pm EDT (19:30:00 UTC) https://www.sans.org/webcasts/atmic-talk-check-sec573-python3-pywars-114075
+* ~~**SANS SEC573! More Python3! More Pywars! with Mark Baggett** | April 13 @ 3:30pm EDT (19:30:00 UTC) https://www.sans.org/webcasts/atmic-talk-check-sec573-python3-pywars-114075~~
 
-* **SANS Successful Infosec Consulting, Getting Clients Deep Dive with Ted Demopoulos** | April 13 @ 8:30pm EDT (00:30:00 UTC) https://www.sans.org/webcasts/cybercast-sansatmic-successful-infosec-consulting-clients-deep-dive-113920
+* ~~**SANS Successful Infosec Consulting, Getting Clients Deep Dive with Ted Demopoulos** | April 13 @ 8:30pm EDT (00:30:00 UTC) https://www.sans.org/webcasts/cybercast-sansatmic-successful-infosec-consulting-clients-deep-dive-113920~~
 
 * **SANS Take Back the Advantage – Cyber Deception for the Win! with Kevin Fiscus** | April 15 @ 3:30pm EDT (19:30:00 UTC) https://www.sans.org/webcasts/atmic-talk-advantage-cyber-deception-win-114300
 
