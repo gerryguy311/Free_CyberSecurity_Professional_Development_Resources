@@ -87,6 +87,8 @@ online cybersecurity resources."	https://www.eccouncil.org/free-cybersecurity-re
 
 27. **Stanford University Webinar - Hash, Hack, Code: Emerging Trends in Cyber Security** Join Professor Dan Boneh as he shares new approaches to these emerging trends and dives deeper into how you can protect networks and prevent harmful viruses and threats. 50 minute cyber lecture from Stanford. https://www.youtube.com/watch?v=544rhbcDtc8
 
+28. **Kill Chain: The Cyber War on America's Elections (Documentary)** (Referenced at GRIMMCON), In advance of the 2020 Presidential Election, Kill Chain: The Cyber War on America’s Elections takes a deep dive into the weaknesses of today’s election technology, an issue that is little understood by the public or even lawmakers. https://www.hbo.com/documentaries/kill-chain-the-cyber-war-on-americas-elections
+
 ## Instructor Led Webinar/ Labs / Workshops
 ### April
 * ~~**Active Defense & Cyber Deception Training** - Blackhills Information Security - Thursday, April 9th, 12pm – 4pm EST || This free class will be about 4-hours long with hands-on labs. It’s the first half of the first day of the training class normally taught at Wild West Hackin’ Fest. https://www.blackhillsinfosec.com/training/active-defense-cyber-deception-training/~~
