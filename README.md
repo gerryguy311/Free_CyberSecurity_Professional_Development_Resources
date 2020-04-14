@@ -97,6 +97,8 @@ online cybersecurity resources."	https://www.eccouncil.org/free-cybersecurity-re
 
 * ~~**SANS Successful Infosec Consulting, Getting Clients Deep Dive with Ted Demopoulos** | April 13 @ 8:30pm EDT (00:30:00 UTC) https://www.sans.org/webcasts/cybercast-sansatmic-successful-infosec-consulting-clients-deep-dive-113920~~
 
+* **Hacking Dumberly Redux: More Dumberer** Wild West Hackin' Cast Wednesday April 15 at 3pm ET with @TimMedin - Tim Medin discusses the dumbest red team tricks and hacks encountered over the years. We are going to take the A out of APT (again), because so few attackers really need to use advanced techniques. We'll also discuss the simple defenses that make an attacker's life much more difficult. Register: https://attendee.gotowebinar.com/register/3967455073876802315?source=BHISdisc
+
 * **SANS Take Back the Advantage – Cyber Deception for the Win! with Kevin Fiscus** | April 15 @ 3:30pm EDT (19:30:00 UTC) https://www.sans.org/webcasts/atmic-talk-advantage-cyber-deception-win-114300
 
 * **SANS C2 Matrix with Jorge Orchilles** | April 15 @ 8:30pm EDT (00:30:00 UTC) https://www.sans.org/webcasts/cybercast-sansatmic-c2-matrix-114070
