@@ -82,6 +82,10 @@ online cybersecurity resources."	https://www.eccouncil.org/free-cybersecurity-re
 
 25. **Learn Empire Powershell** This Tutorial contains installation of Kali Linux and Windows VM, Installation of Empire PowerShell 3.1,Exploiting Windows 10 machines by various attacks including Empire,Running Mimikatz, Privelege Escalation & Using Hashcat to crack the various password hashes https://pentestskills.teachable.com/p/empire-powershell
 
+26. **Stanford University Webinar - Hacked! Security Lessons from Big Name Breaches** 50 minute cyber lecture from Stanford.You Will Learn: -- The root cause of key breaches and how to prevent them; How to measure your organization’s external security posture; How the attacker lifecycle should influence the way you allocate resources https://www.youtube.com/watch?v=V9agUAz0DwI
+
+27. **Stanford University Webinar - Hash, Hack, Code: Emerging Trends in Cyber Security** Join Professor Dan Boneh as he shares new approaches to these emerging trends and dives deeper into how you can protect networks and prevent harmful viruses and threats. 50 minute cyber lecture from Stanford. https://www.youtube.com/watch?v=544rhbcDtc8
+
 ## Instructor Led Webinar/ Labs / Workshops
 ### April
 * ~~**Active Defense & Cyber Deception Training** - Blackhills Information Security - Thursday, April 9th, 12pm – 4pm EST || This free class will be about 4-hours long with hands-on labs. It’s the first half of the first day of the training class normally taught at Wild West Hackin’ Fest. https://www.blackhillsinfosec.com/training/active-defense-cyber-deception-training/~~
