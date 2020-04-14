@@ -99,6 +99,8 @@ online cybersecurity resources."	https://www.eccouncil.org/free-cybersecurity-re
 
 * **How to Build a Home Lab** - Apr 16, 2020 1:00 PM EDT  "joint webcast between Black Hills Information Security & Active Countermeasures. We'll show you why and how to build a home lab so you can build and practice new skills before deploying elsewhere."  Register: https://lnkd.in/dV5KbGj
 
+* **"Hack Yourself First: Hands-on Ethical Hacking"** Thu, Apr 23, 2020 11:00 AM - 12:00 PM EDT In this webcast we will go over various ethical hacking/offensive security offerings and performing hands-on demonstrations of each:  Vulnerability Scanning, Vulnerability Assessment, Penetration Testing, Red Team Exercises, Purple Teaming. https://register.gotowebinar.com/register/8300923968439652109 
+
 ### May
 * **Cyber Threat Hunting Training – May Session (4-Hours)** - Blackhills Information Security - Tuesday, May 12th, 12pm – 4pm EST -- In this free, one-day course, we will cover how to leverage network data to perform a cyber threat hunt.
 The course includes hands-on labs using packet captures of various command and control channels. The labs will enable you to apply what you’ve learned using various open-source tools. https://register.gotowebinar.com/register/5841228496128209677 
