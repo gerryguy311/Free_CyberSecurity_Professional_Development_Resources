@@ -5,6 +5,7 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
   2. TRAINING
   3. INSTRUCTOR LED WEBINAR/LABS/WORKSHOPS
   4. BOOKS
+  5. PODCASTS
   
 ## Conferences
 * **GRIMMCON**	April 14 - 2 tracks - top tier infosec professionals talking	https://www.grimm-co.com/grimmcon
@@ -121,3 +122,13 @@ https://static.googleusercontent.com/media/landing.google.com/en//sre/static/pdf
 * **The Cyber Skill Gap** By Vagner Nunes - The Cyber Skill Gap: How To Become A Highly Paid And Sought After Information Security Specialist! (Use COUPON CODE: W4VSPTW8G7 to make it free) 
 
 * **The Beginner’s Guide to Information Security** By Limor Elbaz - Offers insight and resources to help readers embark on a career in one of the 21st century’s most important—and potentially lucrative—fields. https://www.amazon.com/Beginners-Guide-Information-Security-Kickstart-ebook/dp/B01JTDDSAM
+
+## Podcasts
+
+* **Risky Business** Published weekly, the Risky Business podcast features news and in-depth commentary from security industry luminaries. Hosted by award-winning journalist Patrick Gray, Risky Business has become a must-listen digest for information security professionals. https://risky.biz/
+
+* **Pauls Security Weekly** This show features interviews with folks in the security community; technical segments, which are just that, very technical; and security news, which is an open discussion forum for the hosts to express their opinions about the latest security headlines, breaches, new exploits and vulnerabilities, “not” politics, “cyber” policies and more. https://securityweekly.com/category-shows/paul-security-weekly/
+
+* **Security Now** - Steve Gibson, the man who coined the term spyware and created the first anti-spyware program, creator of Spinrite and ShieldsUP, discusses the hot topics in security today with Leo Laporte. https://twit.tv/shows/security-now
+
+* **Daily Information Security Podcast ("StormCast”)** Stormcasts are daily 5-10 minute information security threat updates. The podcast is produced each work day, and typically released late in the day to be ready for your morning commute. https://isc.sans.edu/podcast.html
