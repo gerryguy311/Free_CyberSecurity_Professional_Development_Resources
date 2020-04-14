@@ -113,3 +113,5 @@ By Heather Adkins, Betsy Beyer, Paul Blankinship, Ana Oprea, Piotr Lewandowski, 
 https://static.googleusercontent.com/media/landing.google.com/en//sre/static/pdf/SRS.pdf
 
 * **Security Engineering** By Ross Anderson - A guide to building dependable distributed systems. (and Ross Anderson is brilliant //OP editorial) https://www.cl.cam.ac.uk/~rja14/book.html
+
+* **The Cyber Skill Gap** By Vagner Nunes - The Cyber Skill Gap: How To Become A Highly Paid And Sought After Information Security Specialist! (Use COUPON CODE: W4VSPTW8G7 to make it free) 
