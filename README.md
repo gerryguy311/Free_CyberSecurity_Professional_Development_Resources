@@ -10,7 +10,7 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
 ## Conferences
 * ~~**GRIMMCON**	April 14 - 2 tracks - top tier infosec professionals talking	https://www.grimm-co.com/grimmcon~~
 
-* ~~**All the Talks (on all things DevOps, Development & Security)** April 15, 2020 (for 24 hours I believe.) All The Talks is a collaborative effort of speakers, organizers and sponsors from around the world to provide a platform for the talks that have been cancelled due to the COVID-19 outbreak. Join us for 23.999 hours of talks, panels and activities while raising funds to assist select charities benefiting virus victims. https://www.allthetalks.org/ ~~
+* ~~**All the Talks (on all things DevOps, Development & Security)** April 15, 2020 (for 24 hours I believe.) All The Talks is a collaborative effort of speakers, organizers and sponsors from around the world to provide a platform for the talks that have been cancelled due to the COVID-19 outbreak. Join us for 23.999 hours of talks, panels and activities while raising funds to assist select charities benefiting virus victims. https://www.allthetalks.org/~~
 
 * **InfosecOasis** - April 18, 2020 - (FROM CON Page) InfoSecOASIS is a free, online information security conference. We wanted to create a space to participate in the social aspects of conferences, all while respecting the guidelines for social distancing. While VR is highly recommended, it is not required to use AltspaceVR (our platform of choice). https://infosecoasis.com/
 
