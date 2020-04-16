@@ -24,6 +24,8 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
 
 * **DerpCon** - April 30 (workshop) May 1 Conference - https://www.eventbrite.com/e/derpcon-2020-tickets-101700143868 we want to do our part to foster the information security community while simultaneously providing attendees with interesting knowledge they can use personally or professionally. We will be supporting the local Colorado community by accepting donations for the Colorado COVID-19 Relief Fund.
 
+* **DISC – SANS ICS Virtual Conference** Friday May 1 ICS Virtual Conference (10-6 pm ET) - The content is focused around being widely acceptable for both IT Security and OT/ICS audiences and the theme is focused around education especially during times when many folks are at home and working remotely. Special focuses are being given in the talks to what work and efforts can be accomplished with minimal effort during slow down periods. https://www.sans.org/webcasts/disc-ics-virtual-conference-114285
+
 * **FWD:CLOUDSEC** June 29 - a new cloud security practitioners conference which will be held online - https://fwdcloudsec.org/
 
 * **RSAC 2020 APJ** July 15 – 17 "Transforming RSA Conference 2020 Asia Pacific & Japan into a free virtual learning experience, taking place 15 – 17 July. We have many exciting and relevant sessions and keynotes planned, featuring some of the world’s leading cybersecurity experts." https://go.rsaconference.com/rsac-apj2020/
@@ -119,6 +121,7 @@ online cybersecurity resources."	https://www.eccouncil.org/free-cybersecurity-re
 * **How Operational Technology (OT) Security is Redefining the CISO Role** Tuesday, April 28th, 2020 at 3:30 PM EDT - The digital transformation of industrial systems yields numerous benefits and efficiencies for business, but the resulting interconnectivity between these systems and an organizations IT network has made operational technology (OT) increasingly susceptible to cyber threats. And while the role of CISOs in dealing with IT network security is well defined, many security leaders dont know where to start when it comes to their OT defense strategy. Further complicating matters, traditional IT security tools are not compatible with OT environments, and conventional wisdom for defending IT environments is not always applicable. https://www.sans.org/webcasts/operational-technology-ot-security-redefining-ciso-role-114360
 
 ### May
+
 * **Cyber Threat Hunting Training – May Session (4-Hours)** - Blackhills Information Security - Tuesday, May 12th, 12pm – 4pm EST -- In this free, one-day course, we will cover how to leverage network data to perform a cyber threat hunt.
 The course includes hands-on labs using packet captures of various command and control channels. The labs will enable you to apply what you’ve learned using various open-source tools. https://register.gotowebinar.com/register/5841228496128209677 
 
