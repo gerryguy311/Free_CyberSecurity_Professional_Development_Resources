@@ -127,7 +127,7 @@ https://static.googleusercontent.com/media/landing.google.com/en//sre/static/pdf
 
 * **Security Engineering** By Ross Anderson - A guide to building dependable distributed systems. (and Ross Anderson is brilliant //OP editorial) https://www.cl.cam.ac.uk/~rja14/book.html
 
-* **The Cyber Skill Gap** By Vagner Nunes - The Cyber Skill Gap: How To Become A Highly Paid And Sought After Information Security Specialist! (Use COUPON CODE: W4VSPTW8G7 to make it free) 
+* **The Cyber Skill Gap** By Vagner Nunes - The Cyber Skill Gap: How To Become A Highly Paid And Sought After Information Security Specialist! (Use COUPON CODE: W4VSPTW8G7 to make it free) https://payhip.com/b/PdkW
 
 * **The Beginner’s Guide to Information Security** By Limor Elbaz - Offers insight and resources to help readers embark on a career in one of the 21st century’s most important—and potentially lucrative—fields. https://www.amazon.com/Beginners-Guide-Information-Security-Kickstart-ebook/dp/B01JTDDSAM
 
