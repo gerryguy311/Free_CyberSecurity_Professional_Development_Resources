@@ -101,11 +101,11 @@ online cybersecurity resources."	https://www.eccouncil.org/free-cybersecurity-re
 
 * ~~**SANS Successful Infosec Consulting, Getting Clients Deep Dive with Ted Demopoulos** | April 13 @ 8:30pm EDT (00:30:00 UTC) https://www.sans.org/webcasts/cybercast-sansatmic-successful-infosec-consulting-clients-deep-dive-113920~~
 
-* **Hacking Dumberly Redux: More Dumberer** Wild West Hackin' Cast Wednesday April 15 at 3pm ET with @TimMedin - Tim Medin discusses the dumbest red team tricks and hacks encountered over the years. We are going to take the A out of APT (again), because so few attackers really need to use advanced techniques. We'll also discuss the simple defenses that make an attacker's life much more difficult. Register: https://attendee.gotowebinar.com/register/3967455073876802315?source=BHISdisc
+* ~~**Hacking Dumberly Redux: More Dumberer** Wild West Hackin' Cast Wednesday April 15 at 3pm ET with @TimMedin - Tim Medin discusses the dumbest red team tricks and hacks encountered over the years. We are going to take the A out of APT (again), because so few attackers really need to use advanced techniques. We'll also discuss the simple defenses that make an attacker's life much more difficult. Register: https://attendee.gotowebinar.com/register/3967455073876802315?source=BHISdisc~~
 
-* **SANS Take Back the Advantage – Cyber Deception for the Win! with Kevin Fiscus** | April 15 @ 3:30pm EDT (19:30:00 UTC) https://www.sans.org/webcasts/atmic-talk-advantage-cyber-deception-win-114300
+* ~~**SANS Take Back the Advantage – Cyber Deception for the Win! with Kevin Fiscus** | April 15 @ 3:30pm EDT (19:30:00 UTC) https://www.sans.org/webcasts/atmic-talk-advantage-cyber-deception-win-114300~~
 
-* **SANS C2 Matrix with Jorge Orchilles** | April 15 @ 8:30pm EDT (00:30:00 UTC) https://www.sans.org/webcasts/cybercast-sansatmic-c2-matrix-114070
+* ~~**SANS C2 Matrix with Jorge Orchilles** | April 15 @ 8:30pm EDT (00:30:00 UTC) https://www.sans.org/webcasts/cybercast-sansatmic-c2-matrix-114070~~
 
 * **Hacking in the Public Interest (Bruce Schneier Talk)** Thursday, April 16, 2020 11:00AM - 12:00PM PDT  When discussing security technology, we use terms like "attacker" and "defender" without any moral connotations. But in the real world, all security technologies are embedded in some broader social context. It doesn't matter to the cryptography whether the user is a criminal or human rights defender, but it does matter to those who implement and attack the secure communications system. https://www.blackhat.com/html/webcast/04162020-hacking-in-the-public-interest.html?_mc=em_x_BHWEBCAST_le_tsnr_em_lead&elq_mid=1577&elq_cid=468591
 
