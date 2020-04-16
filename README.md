@@ -10,7 +10,7 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
 ## Conferences
 * ~~**GRIMMCON**	April 14 - 2 tracks - top tier infosec professionals talking	https://www.grimm-co.com/grimmcon~~
 
-* **All the Talks (on all things DevOps, Development & Security)** April 15, 2020 (for 24 hours I believe.) All The Talks is a collaborative effort of speakers, organizers and sponsors from around the world to provide a platform for the talks that have been cancelled due to the COVID-19 outbreak. Join us for 23.999 hours of talks, panels and activities while raising funds to assist select charities benefiting virus victims. https://www.allthetalks.org/ 
+* ~~**All the Talks (on all things DevOps, Development & Security)** April 15, 2020 (for 24 hours I believe.) All The Talks is a collaborative effort of speakers, organizers and sponsors from around the world to provide a platform for the talks that have been cancelled due to the COVID-19 outbreak. Join us for 23.999 hours of talks, panels and activities while raising funds to assist select charities benefiting virus victims. https://www.allthetalks.org/ ~~
 
 * **InfosecOasis** - April 18, 2020 - (FROM CON Page) InfoSecOASIS is a free, online information security conference. We wanted to create a space to participate in the social aspects of conferences, all while respecting the guidelines for social distancing. While VR is highly recommended, it is not required to use AltspaceVR (our platform of choice). https://infosecoasis.com/
 
@@ -109,7 +109,7 @@ online cybersecurity resources."	https://www.eccouncil.org/free-cybersecurity-re
 
 * ~~**SANS C2 Matrix with Jorge Orchilles** | April 15 @ 8:30pm EDT (00:30:00 UTC) https://www.sans.org/webcasts/cybercast-sansatmic-c2-matrix-114070~~
 
-* **Hacking in the Public Interest (Bruce Schneier Talk)** Thursday, April 16, 2020 11:00AM - 12:00PM PDT  When discussing security technology, we use terms like "attacker" and "defender" without any moral connotations. But in the real world, all security technologies are embedded in some broader social context. It doesn't matter to the cryptography whether the user is a criminal or human rights defender, but it does matter to those who implement and attack the secure communications system. https://www.blackhat.com/html/webcast/04162020-hacking-in-the-public-interest.html?_mc=em_x_BHWEBCAST_le_tsnr_em_lead&elq_mid=1577&elq_cid=468591
+~~* **Hacking in the Public Interest (Bruce Schneier Talk)** Thursday, April 16, 2020 11:00AM - 12:00PM PDT  When discussing security technology, we use terms like "attacker" and "defender" without any moral connotations. But in the real world, all security technologies are embedded in some broader social context. It doesn't matter to the cryptography whether the user is a criminal or human rights defender, but it does matter to those who implement and attack the secure communications system. https://www.blackhat.com/html/webcast/04162020-hacking-in-the-public-interest.html?_mc=em_x_BHWEBCAST_le_tsnr_em_lead&elq_mid=1577&elq_cid=468591~~
 
 * **Breaching the Cloud Perimeter Training w/ Labs (4-Hours)** - Blackhills Information Security - Saturday, April 25th, 11am – 4pm EST- You will leave this workshop with new skills for assessing cloud-based infrastructure! https://register.gotowebinar.com/register/1264630092013493773
 
