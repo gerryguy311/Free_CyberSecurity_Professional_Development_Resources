@@ -95,6 +95,10 @@ online cybersecurity resources."	https://www.eccouncil.org/free-cybersecurity-re
 
 28. **Kill Chain: The Cyber War on America's Elections (Documentary)** (Referenced at GRIMMCON), In advance of the 2020 Presidential Election, Kill Chain: The Cyber War on America’s Elections takes a deep dive into the weaknesses of today’s election technology, an issue that is little understood by the public or even lawmakers. https://www.hbo.com/documentaries/kill-chain-the-cyber-war-on-americas-elections
 
+29. **Intro to Cybersecurity Course**  (15 hours) Learn how to protect your personal data and privacy online and in social media, and why more and more IT jobs require cybersecurity awareness and understanding. Receive a certificate of completion. https://www.netacad.com/portal/web/self-enroll/c/course-1003729
+
+30. **Cybersecurity Essentials** (30 hours) Foundational knowledge and essential skills for all cybersecurity domains, including info security, systems sec, network sec, ethics and laws, and defense and mitigation techniques used in protecting businesses. https://www.netacad.com/portal/web/self-enroll/c/course-1003733
+
 ## Instructor Led Webinar/ Labs / Workshops
 ### April
 * ~~**Active Defense & Cyber Deception Training** - Blackhills Information Security - Thursday, April 9th, 12pm – 4pm EST || This free class will be about 4-hours long with hands-on labs. It’s the first half of the first day of the training class normally taught at Wild West Hackin’ Fest. https://www.blackhillsinfosec.com/training/active-defense-cyber-deception-training/~~
