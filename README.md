@@ -34,8 +34,7 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
 ## Training
 1.	**Pluralsight**	Free for April 2020. Massive top tier library of content including lots of cyber training	www.pluralsight.com
 
-2.	**EC-Council Hacking** 	"Per vendor: Use our Free Resource Pass to a wide range of
-online cybersecurity resources."	https://www.eccouncil.org/free-cybersecurity-resources/
+2.	**REMOVED EC-COUNCIL** Was 'free' but was an incentived program to sign up for 30 free days then begin to get billed. This is not in the spirit of what this list is trying to provide.
 
 3.	**Metasploit Unleashed**	Most complete and in-depth Metasploit guide available, with contributions from the authors of the No Starch Press Metasploit Book. 	https://www.offensive-security.com/metasploit-unleashed/
 
