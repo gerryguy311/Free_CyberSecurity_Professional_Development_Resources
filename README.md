@@ -8,13 +8,6 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
   5. PODCASTS
   
 ## Conferences
-* ~~**GRIMMCON**	April 14 - 2 tracks - top tier infosec professionals talking	https://www.grimm-co.com/grimmcon~~
-
-* ~~**All the Talks (on all things DevOps, Development & Security)** April 15, 2020 (for 24 hours I believe.) All The Talks is a collaborative effort of speakers, organizers and sponsors from around the world to provide a platform for the talks that have been cancelled due to the COVID-19 outbreak. Join us for 23.999 hours of talks, panels and activities while raising funds to assist select charities benefiting virus victims. https://www.allthetalks.org/~~
-
-* ~~**InfosecOasis** - April 18, 2020 - (FROM CON Page) InfoSecOASIS is a free, online information security conference. We wanted to create a space to participate in the social aspects of conferences, all while respecting the guidelines for social distancing. While VR is highly recommended, it is not required to use AltspaceVR (our platform of choice). https://infosecoasis.com/~~
-
-* ~~**IsolationCon** - 19TH APRIL (14:00 UTC, 10AM EST) - We are not just another infosec con; our vision is to be the online conference for information security people from all teams and different backgrounds all over the world. We actively want to encourage collaboration and participation. We want our Attendees and Speakers to be immersed in this online event, with activities and debates around the challenges we all face in our working and personal lives, and how they are adapting to the current situation we all face. https://themanyhats.club/the-many-hats-club-presents-isolationcon/~~
 
 * **HITB Lockdown Livestream** - April 25-26 (10:00-18:00 CET) - A free livestream featuring some of the talks and speakers from the cancelled HITBSecConf2020 - Amsterdam. https://conference.hitb.org/lockdown-livestream/
 
@@ -36,7 +29,6 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
 ## Training
 1.	**Pluralsight**	Free for April 2020. Massive top tier library of content including lots of cyber training	www.pluralsight.com
 
-2.	~~**REMOVED EC-COUNCIL** Was 'free' but was an incentived program to sign up for 30 free days then begin to get billed. This is not in the spirit of what this list is trying to provide.~~
 
 3.	**Metasploit Unleashed**	Most complete and in-depth Metasploit guide available, with contributions from the authors of the No Starch Press Metasploit Book. 	https://www.offensive-security.com/metasploit-unleashed/
 
@@ -78,7 +70,6 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
 
 19. **Udemy** - Online learning course platform "collection from the free courses in our learning marketplace" https://www.udemy.com/courses/free/
 
-~~20. **Security+ Training** CompTIA Security+ (SY0-501) Complete Video Course is an engaging self-paced video training solution that provides learners with more than 19 hours of personal training from security expert Sari Greene.  https://pearsonadvance.com/courses/comptia-security-sy0-501/~~ #now $250 4/13/2020
 
 21. **Linux Fundamentals** Linux Fundamentals LiveLessons has more than 10 hours of comprehensive video training for you to have everything you need to build a strong understanding of working with Linux. https://pearsonadvance.com/courses/linux-fundamentals/
 
@@ -102,38 +93,43 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
 
 ## Instructor Led Webinar/ Labs / Workshops
 ### April
-* ~~**Active Defense & Cyber Deception Training** - Blackhills Information Security - Thursday, April 9th, 12pm – 4pm EST || This free class will be about 4-hours long with hands-on labs. It’s the first half of the first day of the training class normally taught at Wild West Hackin’ Fest. https://www.blackhillsinfosec.com/training/active-defense-cyber-deception-training/~~
-
-* ~~**SANS SEC573! More Python3! More Pywars! with Mark Baggett** | April 13 @ 3:30pm EDT (19:30:00 UTC) https://www.sans.org/webcasts/atmic-talk-check-sec573-python3-pywars-114075~~
-
-* ~~**SANS Successful Infosec Consulting, Getting Clients Deep Dive with Ted Demopoulos** | April 13 @ 8:30pm EDT (00:30:00 UTC) https://www.sans.org/webcasts/cybercast-sansatmic-successful-infosec-consulting-clients-deep-dive-113920~~
-
-* ~~**Hacking Dumberly Redux: More Dumberer** Wild West Hackin' Cast Wednesday April 15 at 3pm ET with @TimMedin - Tim Medin discusses the dumbest red team tricks and hacks encountered over the years. We are going to take the A out of APT (again), because so few attackers really need to use advanced techniques. We'll also discuss the simple defenses that make an attacker's life much more difficult. Register: https://attendee.gotowebinar.com/register/3967455073876802315?source=BHISdisc~~
-
-* ~~**SANS Take Back the Advantage – Cyber Deception for the Win! with Kevin Fiscus** | April 15 @ 3:30pm EDT (19:30:00 UTC) https://www.sans.org/webcasts/atmic-talk-advantage-cyber-deception-win-114300~~
-
-* ~~**SANS C2 Matrix with Jorge Orchilles** | April 15 @ 8:30pm EDT (00:30:00 UTC) https://www.sans.org/webcasts/cybercast-sansatmic-c2-matrix-114070~~
-
-* ~~**Hacking in the Public Interest (Bruce Schneier Talk)** Thursday, April 16, 2020 11:00AM - 12:00PM PDT  When discussing security technology, we use terms like "attacker" and "defender" without any moral connotations. But in the real world, all security technologies are embedded in some broader social context. It doesn't matter to the cryptography whether the user is a criminal or human rights defender, but it does matter to those who implement and attack the secure communications system. https://www.blackhat.com/html/webcast/04162020-hacking-in-the-public-interest.html?_mc=em_x_BHWEBCAST_le_tsnr_em_lead&elq_mid=1577&elq_cid=468591~~
-
-* ~~**How to Build a Home Lab** - Apr 16, 2020 1:00 PM EDT  "joint webcast between Black Hills Information Security & Active Countermeasures. We'll show you why and how to build a home lab so you can build and practice new skills before deploying elsewhere."  Register: https://lnkd.in/dV5KbGj~~
 
 * **Breaching the Cloud Perimeter Training w/ Labs (4-Hours)** - [COURSE REPORTING FULL 4/19/2020] Blackhills Information Security - Saturday, April 25th, 11am – 4pm EST- You will leave this workshop with new skills for assessing cloud-based infrastructure! https://register.gotowebinar.com/register/1264630092013493773
 
+* **IEEE PES DAY 2020 | Cybersecurity for Industrial Control Systems** - Cybersecurity Path -  Wed, April 22, 2020 11:00 AM – 2:30 PM CDT https://www.eventbrite.com/e/ieee-pes-day-2020-cybersecurity-path-tickets-101773356850?aff=ebdssbonlinesearch
+
+* **Breaking into Cybersecurity** Wed, April 22, 2020 6:30 PM – 8:30 PM EDT Join us for the Breaking Into Cybersecurity online panel to learn about the cybersecurity landscape globally and in Jacksonville. The panel is hosted by the Cyber Bootcamp at University of North Florida powered by Fullstack Academy, which takes students from novice to cybersecurity professional in just 26 weeks part-time. https://www.eventbrite.com/e/breaking-into-cybersecurity-tickets-101302931796?aff=ebdssbonlinesearch
+
 * **"Hack Yourself First: Hands-on Ethical Hacking"** Thu, Apr 23, 2020 11:00 AM - 12:00 PM EDT In this webcast we will go over various ethical hacking/offensive security offerings and performing hands-on demonstrations of each:  Vulnerability Scanning, Vulnerability Assessment, Penetration Testing, Red Team Exercises, Purple Teaming. https://register.gotowebinar.com/register/8300923968439652109 
+
+* **Free Tools! How to Use Developer Tools and Javascript in Webapp Pentests** (1-Hour) — on Apr 23, 2020 2:00 PM EDT (Black Hills Information Security) We'll look at the Developer Tools in the latest Firefox with a pentester's eye. Inspect and change the DOM (Document Object Model), take screenshots, find and extract key bits of data, use the console to run Javascript in the site's origin context and even pause script execution in the debugger if things go too fast… : https://attendee.gotowebinar.com/register/8048757572878556940
 
 * **How Operational Technology (OT) Security is Redefining the CISO Role** Tuesday, April 28th, 2020 at 3:30 PM EDT - The digital transformation of industrial systems yields numerous benefits and efficiencies for business, but the resulting interconnectivity between these systems and an organizations IT network has made operational technology (OT) increasingly susceptible to cyber threats. And while the role of CISOs in dealing with IT network security is well defined, many security leaders dont know where to start when it comes to their OT defense strategy. Further complicating matters, traditional IT security tools are not compatible with OT environments, and conventional wisdom for defending IT environments is not always applicable. https://www.sans.org/webcasts/operational-technology-ot-security-redefining-ciso-role-114360
 
+* **Cybersecurity Seminar (EC-COUNCIL sponsored)** April 30 Thu, 7:00 PM - 8:00 PM Be a part of this fast-growing industry today. Attend our free seminar and learn about:
+* How to get started in cybersecurity
+* Cybercrimes and best investigation practices today
+* Career opportunities for cybersecurity specialists and students
+* How to be eligible for course fee support
+https://www.eventbrite.com/e/cybersecurity-seminar-tickets-96384190709?aff=ebdssbonlinesearch
+
 ### May
+* **Women in Cybersecurity Capture the Flag {Virtual} | SecureSet and WiCyS** - Sat, May 2, 2020 10:00 AM – 1:00 PM MDT  — Our Women Only Capture the Flag event is designed specifically for women who want to dive headfirst into the cybersecurity game in a welcoming environment where you can build confidence and network with women in the cybersecurity community! https://www.eventbrite.com/e/women-in-cybersecurity-capture-the-flag-virtual-secureset-and-wicys-tickets-102703516984?aff=ebdssbonlinesearch
 
 * **Cyber Threat Hunting Training – May Session (4-Hours)** - Blackhills Information Security - Tuesday, May 12th, 12pm – 4pm EST -- In this free, one-day course, we will cover how to leverage network data to perform a cyber threat hunt.
 The course includes hands-on labs using packet captures of various command and control channels. The labs will enable you to apply what you’ve learned using various open-source tools. https://register.gotowebinar.com/register/5841228496128209677 
+
+* **Virtual Cybersecurity Capture the Flag for All Ages** - Thu, May 14, 2020 5:00 PM – 8:00 PM MD Put your tech skills to the test in our Virtual Capture the Flag (CTF) for All Ages game. This event is a fun challenge for adults, teens, and everyone in between! https://www.eventbrite.com/e/virtual-cybersecurity-capture-the-flag-for-all-ages-tickets-102932542004?aff=ebdssbonlinesearch
 
 * **SANS MIC Talk - Prioritizing OT Security Efforts: The Five Tactical Things to Accomplish While Leadership Defines a Security Program (Don Weber Talk)** May 27 8:30PM EDT - This talk will cover the five tactical things an OT/IT team can do while leadership defines the direction of a security program for the OT environment. It will discuss quick wins that can be accomplished with equipment typically already deployed. These steps will also provide the leadership team with valuable information that will help prioritize future efforts and quickly improve vendor / integrator / MSP requirements for near-term greenfield and upcoming brownfield maintenance projects. https://www.sans.org/webcasts/atmic-talk-prioritizing-ot-security-efforts-tactical-things-accomplish-leadership-defines-security-program-113985
 
 * **Responding to Incidents in Industrial Control Systems (ICS): Identifying Threats, Reactions and Developing the IR Process** Friday May 29 1:00 PM - How can effective and proven incident response processes identify, mitigate and remediate threats in the ICS environment? In this new webcast with SANS instructor Don C. Weber and representatives Eric Knapp and Matt Wiseman from Honeywell, we will identify ICS threats, look at how incidents can be managed, and provide recommendation for setting up an effective IR program to reduce risk exposure. Attendees will learn how to best apply proven IR programs and techniques.https://www.sans.org/webcasts/responding-incidents-industrial-control-systems-ics-identifying-threats-reactions-developing-ir-process-114525
 
 * **Breaching the Cloud Perimeter Training w/ Labs (4-Hours)** - Blackhills Information Security - Thursday, May 28th, 12pm – 5pm EST- You will leave this workshop with new skills for assessing cloud-based infrastructure! https://register.gotowebinar.com/register/1264630092013493773
+
+### June
+**Cyber Security Webinar Series - Session I: Cybersecurity for Small Business** JUNE 11Thu, 11:00 AM - 12:00 PM PDT — These classes serve as a survey in terms of the recommended best practices in use for both commercial and federal information systems. It is important to note that cybersecurity is about controlling access, it is the defensive measures that can be taken to reduce the risk of an attack. The goal of the plan is to impede the attacker, limit the effect of the attack, and recover. https://www.eventbrite.com/e/cyber-security-webinar-series-session-i-cybersecurity-for-small-business-tickets-92155713219?aff=ebdssbonlinesearch
+
 
 ## Books
 * **Building Secure & Reliable Systems**
@@ -156,3 +152,27 @@ https://static.googleusercontent.com/media/landing.google.com/en//sre/static/pdf
 * **Security Now** - Steve Gibson, the man who coined the term spyware and created the first anti-spyware program, creator of Spinrite and ShieldsUP, discusses the hot topics in security today with Leo Laporte. https://twit.tv/shows/security-now
 
 * **Daily Information Security Podcast ("StormCast”)** Stormcasts are daily 5-10 minute information security threat updates. The podcast is produced each work day, and typically released late in the day to be ready for your morning commute. https://isc.sans.edu/podcast.html
+
+_Below podcasts Added from here: https://infosec-conferences.com/cybersecurity-podcasts/_
+
+* **Down the Security Rabbithole** http://podcast.wh1t3rabbit.net/ Down the Security Rabbithole is hosted by Rafal Los and James Jardine who discuss, by means of interviewing or news analysis, everything about Cybersecurity which includes Cybercrime, Cyber Law, Cyber Risk, Enterprise Risk & Security and many more. If you want to hear issues that are relevant to your organization, subscribe and tune-in to this podcast.
+
+* **The Privacy, Security, & OSINT Show** https://podcasts.apple.com/us/podcast/the-privacy-security-osint-show/id1165843330 The Privacy, Security, & OSINT Show, hosted by Michael Bazzell, is your weekly dose of digital security, privacy, and Open Source Intelligence (OSINT) opinion and news. This podcast will help listeners learn some ideas on how to stay secure from cyber-attacks and help them become “digitally invisible”.
+
+* **Defensive Security Podcast** https://defensivesecurity.org/ Hosted by Andrew Kalat (@lerg) and Jerry Bell (@maliciouslink), the Defensive Security Podcasts aims to look/discuss the latest security news happening around the world and pick out the lessons that can be applied to keeping organizations secured. As of today, they have more than 200 episodes and some of the topics discussed include Forensics, Penetration Testing, Incident Response, Malware Analysis, Vulnerabilities and many more.
+
+*  **Darknet Diaries** https://darknetdiaries.com/episode/ Darknet Diaries Podcast is hosted and produced by Jack Rhysider that discuss topics related to information security. It also features some true stories from hackers who attacked or have been attacked. If you’re a fan of the show, you might consider buying some of their souvenirs here (https://shop.darknetdiaries.com/).
+
+* **Brakeing Down Security** https://www.brakeingsecurity.com/ Brakeing Down Security started in 2014 and is hosted by Bryan Brake, Brian Boettcher, and Amanda Berlin. This podcast discusses everything about the Cybersecurity world, Compliance, Privacy, and Regulatory issues that arise in today’s organizations. The hosts will teach concepts that Information Security Professionals need to know and discuss topics that will refresh the memories of seasoned veterans.
+
+* **Open Source Security Podcast** https://www.opensourcesecuritypodcast.com/ Open Source Security Podcast is a podcast that discusses security with an open-source slant. The show started in 2016 and is hosted by Josh Bressers and Kurt Siefried. As of this writing, they now posted around 190+ podcasts
+
+* **Cyber Motherboard** https://podcasts.apple.com/us/podcast/cyber/id1441708044 Ben Makuch is the host of the podcast CYBER and weekly talks to Motherboard reporters Lorenzo Franceschi-Bicchierai and Joseph Cox. They tackle topics about famous hackers and researchers about the biggest news in cybersecurity. The Cyber- stuff gets complicated really fast, but Motherboard spends its time fixed in the infosec world so we don’t have to.
+
+* **Hak5** https://shop.hak5.org/pages/videos Hak5 is a brand that is created by a group of security professionals, hardcore gamers and “IT ninjas”. Their podcast, which is mostly uploaded on YouTube discusses everything from open-source software to penetration testing and network infrastructure. Their channel currently has 590,000 subscribers and is one of the most viewed shows when you want to learn something about security networks.
+
+* **Threatpost Podcast Series** https://threatpost.com/category/podcasts/ Threatpost is an independent news site which is a leading source of information about IT and business security for hundreds of thousands of professionals worldwide. With an award-winning editorial team produces unique and high-impact content including security news, videos, feature reports and more, with their global editorial activities are driven by industry-leading journalist Tom Spring, editor-in-chief.
+
+* **CISO-Security Vendor Relationship Podcast** https://cisoseries.com Co-hosted by the creator of the CISO/Security Vendor Relationship Series, David Spark, and Mike Johnson, in 30 minutes, this weekly program challenges the co-hosts, guests, and listeners to critique, share true stories. This podcast, The CISO/Security Vendor Relationship, targets to enlighten and educate listeners on improving security buyer and seller relationships.
+
+
