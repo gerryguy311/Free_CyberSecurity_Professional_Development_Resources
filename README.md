@@ -106,12 +106,7 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
 
 * **How Operational Technology (OT) Security is Redefining the CISO Role** Tuesday, April 28th, 2020 at 3:30 PM EDT - The digital transformation of industrial systems yields numerous benefits and efficiencies for business, but the resulting interconnectivity between these systems and an organizations IT network has made operational technology (OT) increasingly susceptible to cyber threats. And while the role of CISOs in dealing with IT network security is well defined, many security leaders dont know where to start when it comes to their OT defense strategy. Further complicating matters, traditional IT security tools are not compatible with OT environments, and conventional wisdom for defending IT environments is not always applicable. https://www.sans.org/webcasts/operational-technology-ot-security-redefining-ciso-role-114360
 
-* **Cybersecurity Seminar (EC-COUNCIL sponsored)** April 30 Thu, 7:00 PM - 8:00 PM Be a part of this fast-growing industry today. Attend our free seminar and learn about:
-* How to get started in cybersecurity
-* Cybercrimes and best investigation practices today
-* Career opportunities for cybersecurity specialists and students
-* How to be eligible for course fee support
-https://www.eventbrite.com/e/cybersecurity-seminar-tickets-96384190709?aff=ebdssbonlinesearch
+* **Cybersecurity Seminar (EC-COUNCIL sponsored)** April 30 Thu, 7:00 PM - 8:00 PM Be a part of this fast-growing industry today. Attend our free seminar and learn about: How to get started in cybersecurity,  Cybercrimes and best investigation practices today,  Career opportunities for cybersecurity specialists and students,  How to be eligible for course fee support.https://www.eventbrite.com/e/cybersecurity-seminar-tickets-96384190709?aff=ebdssbonlinesearch
 
 ### May
 * **Women in Cybersecurity Capture the Flag {Virtual} | SecureSet and WiCyS** - Sat, May 2, 2020 10:00 AM – 1:00 PM MDT  — Our Women Only Capture the Flag event is designed specifically for women who want to dive headfirst into the cybersecurity game in a welcoming environment where you can build confidence and network with women in the cybersecurity community! https://www.eventbrite.com/e/women-in-cybersecurity-capture-the-flag-virtual-secureset-and-wicys-tickets-102703516984?aff=ebdssbonlinesearch
@@ -128,7 +123,7 @@ The course includes hands-on labs using packet captures of various command and c
 * **Breaching the Cloud Perimeter Training w/ Labs (4-Hours)** - Blackhills Information Security - Thursday, May 28th, 12pm – 5pm EST- You will leave this workshop with new skills for assessing cloud-based infrastructure! https://register.gotowebinar.com/register/1264630092013493773
 
 ### June
-**Cyber Security Webinar Series - Session I: Cybersecurity for Small Business** JUNE 11Thu, 11:00 AM - 12:00 PM PDT — These classes serve as a survey in terms of the recommended best practices in use for both commercial and federal information systems. It is important to note that cybersecurity is about controlling access, it is the defensive measures that can be taken to reduce the risk of an attack. The goal of the plan is to impede the attacker, limit the effect of the attack, and recover. https://www.eventbrite.com/e/cyber-security-webinar-series-session-i-cybersecurity-for-small-business-tickets-92155713219?aff=ebdssbonlinesearch
+* **Cyber Security Webinar Series - Session I: Cybersecurity for Small Business** JUNE 11Thu, 11:00 AM - 12:00 PM PDT — These classes serve as a survey in terms of the recommended best practices in use for both commercial and federal information systems. It is important to note that cybersecurity is about controlling access, it is the defensive measures that can be taken to reduce the risk of an attack. The goal of the plan is to impede the attacker, limit the effect of the attack, and recover. https://www.eventbrite.com/e/cyber-security-webinar-series-session-i-cybersecurity-for-small-business-tickets-92155713219?aff=ebdssbonlinesearch
 
 
 ## Books
