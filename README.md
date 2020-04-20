@@ -26,6 +26,8 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
 
 * **DISC – SANS ICS Virtual Conference** Friday May 1 ICS Virtual Conference (10-6 pm ET) - The content is focused around being widely acceptable for both IT Security and OT/ICS audiences and the theme is focused around education especially during times when many folks are at home and working remotely. Special focuses are being given in the talks to what work and efforts can be accomplished with minimal effort during slow down periods. https://www.sans.org/webcasts/disc-ics-virtual-conference-114285
 
+* **VMware Carbon Black Connect 2020** - May 13-14 - Connect 2020 is a free, action-packed two-day virtual event about the future of endpoint security. The agenda has something for everyone, including a Developer Day for technical users, hands-on threat hunting workshops, and a chance to become product certified. Hear from the experts, explore our sponsor hub, and participate in a series of trainings on the most effective ways to combat the latest threats. https://www.carbonblack.com/connect20/
+
 * **FWD:CLOUDSEC** June 29 - a new cloud security practitioners conference which will be held online - https://fwdcloudsec.org/
 
 * **RSAC 2020 APJ** July 15 – 17 "Transforming RSA Conference 2020 Asia Pacific & Japan into a free virtual learning experience, taking place 15 – 17 July. We have many exciting and relevant sessions and keynotes planned, featuring some of the world’s leading cybersecurity experts." https://go.rsaconference.com/rsac-apj2020/
