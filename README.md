@@ -94,6 +94,8 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
 
 30. **Cybersecurity Essentials** (30 hours) Foundational knowledge and essential skills for all cybersecurity domains, including info security, systems sec, network sec, ethics and laws, and defense and mitigation techniques used in protecting businesses. https://www.netacad.com/portal/web/self-enroll/c/course-1003733
 
+31. **Suricata Training** 5-part training module using a simulation as a backdrop to teach how to use Suricata. https://rangeforce.com/resource/suricata-challenge-reg/
+
 ## Instructor Led Webinar/ Labs / Workshops
 ### April
 
