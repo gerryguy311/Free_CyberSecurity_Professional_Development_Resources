@@ -1,3 +1,5 @@
+<p align="center"> <img src="GerryMeMoji2.png"> </p>
+
 An awesome list of resources for training, conferences, speaking, labs, reading, etc that are free all the time or during COVID-19 that cybersecurity professionals with downtime can take advantage of to improve their skills and marketability to come out on the other side ready to rock.
 
 # CATEGORIES
