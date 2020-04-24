@@ -12,8 +12,6 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
   
 ## Conferences
 
-* **SECARMY CONFERENCE 2020** April 24-26 (12:00PM UTC+05:30) SECARMY is an infosec based community of India. Here at SECARMY, we preach, create and dedicate our time in helping each and everyone one out there who are solely dedicated to learning as to how to get into all possible information security domains in forms of arranging Capture The Flag Events (CTF), writing security concerning blogs, podcasts, and lots of stuff. (https://community.secarmy.org/sarcon/index.html
-
 * **HITB Lockdown Livestream** - April 25-26 (10:00-18:00 CET) - A free livestream featuring some of the talks and speakers from the cancelled HITBSecConf2020 - Amsterdam. https://conference.hitb.org/lockdown-livestream/
 
 * **OWASP Virtual AppSec Days April 2020** - April 27 - The OWASP Foundation is hosting a Virtual AppSec Days on April 27-29th. They will be running a 90 minute virtual mini-conference. This is the only free part of the event. [OWASP said ability to register coming this week] 
