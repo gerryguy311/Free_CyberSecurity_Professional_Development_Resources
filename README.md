@@ -98,6 +98,8 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
 
 31. **Suricata Training** 5-part training module using a simulation as a backdrop to teach how to use Suricata. https://rangeforce.com/resource/suricata-challenge-reg/
 
+32. **Blackhat Webcast Series** Monthly webcast of varying cyber topics. I will post specific ones in the training section below sometimes, but this is worth bookmarking and checking back. They always have top tier speakers on relevant, current topics. https://www.blackhat.com/html/webcast/webcast-home.html
+
 ## Instructor Led Webinar/ Labs / Workshops
 ### April
 
