@@ -98,6 +98,8 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
 
 32. **Blackhat Webcast Series** Monthly webcast of varying cyber topics. I will post specific ones in the training section below sometimes, but this is worth bookmarking and checking back. They always have top tier speakers on relevant, current topics. https://www.blackhat.com/html/webcast/webcast-home.html
 
+33. **Federal Virtual Training Environment** - US Govt sponsored free courses. There are 6 available, no login required. They are 101 Coding for the Public,  101 Critical Infrastructure Protection for the Public, Cryptocurrency for Law Enforcement for the Public, Cyber Supply Chain Risk Management for the Public, 101 Reverse Engineering for the Public, Fundamentals of Cyber Risk Management. https://fedvte.usalearning.gov/public_fedvte.php
+
 ## Instructor Led Webinar/ Labs / Workshops
 ### April
 
