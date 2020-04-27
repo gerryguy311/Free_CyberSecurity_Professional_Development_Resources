@@ -113,6 +113,8 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
 
 * **Women in Cybersecurity Capture the Flag {Virtual} | SecureSet and WiCyS** - Sat, May 2, 2020 10:00 AM – 1:00 PM MDT  — Our Women Only Capture the Flag event is designed specifically for women who want to dive headfirst into the cybersecurity game in a welcoming environment where you can build confidence and network with women in the cybersecurity community! https://www.eventbrite.com/e/women-in-cybersecurity-capture-the-flag-virtual-secureset-and-wicys-tickets-102703516984?aff=ebdssbonlinesearch
 
+* **THE EVOLUTION OF RED TEAMING AND PEN TESTING WITH DAVID KENNEDY** May 6 1PM EST - This presentation will discuss how red teaming can work within your organization to build a more effective security program and help prioritize where you need investment. In addition, we’ll be talking about how to integrate the MITRE ATT&CK™ (Adversarial Tactics, Techniques, and Common Knowledge) framework into your company and how you can build a program based on not just MITRE’s techniques, but also the latest tactics and procedures.https://trustedsec.zoom.us/webinar/register/WN_nA6i_GjLQ6uQfhNUbQzlNA
+
 * **Cyber Threat Hunting Training – May Session (4-Hours)** - Blackhills Information Security - Tuesday, May 12th, 12pm – 4pm EST -- In this free, one-day course, we will cover how to leverage network data to perform a cyber threat hunt.
 The course includes hands-on labs using packet captures of various command and control channels. The labs will enable you to apply what you’ve learned using various open-source tools. https://register.gotowebinar.com/register/5841228496128209677 
 
