@@ -98,6 +98,8 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
 
 33. **Federal Virtual Training Environment** - US Govt sponsored free courses. There are 6 available, no login required. They are 101 Coding for the Public,  101 Critical Infrastructure Protection for the Public, Cryptocurrency for Law Enforcement for the Public, Cyber Supply Chain Risk Management for the Public, 101 Reverse Engineering for the Public, Fundamentals of Cyber Risk Management. https://fedvte.usalearning.gov/public_fedvte.php
 
+34. **Harrisburg University CyberSecurity** Collection of 18 curated talks. Scroll down to CYBER SECURITY section. You will see there are 4 categories Resource Sharing, Tools & Techniques, Red Team (Offensive Security) and Blue Teaming (Defensive Security). Lot of content in here; something for everyone. https://professionaled.harrisburgu.edu/online-content/
+
 ## Instructor Led Webinar/ Labs / Workshops
 ### April
 
