@@ -12,10 +12,6 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
   
 ## Conferences
 
-* **HITB Lockdown Livestream** - April 25-26 (10:00-18:00 CET) - A free livestream featuring some of the talks and speakers from the cancelled HITBSecConf2020 - Amsterdam. https://conference.hitb.org/lockdown-livestream/
-
-* **OWASP Virtual AppSec Days April 2020** - April 27 - The OWASP Foundation is hosting a Virtual AppSec Days on April 27-29th. They will be running a 90 minute virtual mini-conference. This is the only free part of the event. [OWASP said ability to register coming this week] 
-
 * **RedHat Summit** - April 28-29 - "Our virtual event will feature the keynotes, breakout sessions, and collaboration opportunities that you’ve come to expect from Red Hat® Summit. This programming will be shared as a blend of live and recorded content designed to inspire and engage a global audience. You will have access to the experts behind the code as you learn about the latest in open hybrid cloud, automation, cloud-native development, and so, so much more. Red Hat Summit 2020 Virtual Experience is your platform to learn, network, and plot the next steps in your career as you find ways to unlock your potential." - https://www.redhat.com/en/summit
 
 * **DerpCon** - April 30 (workshop) May 1 Conference - https://www.eventbrite.com/e/derpcon-2020-tickets-101700143868 we want to do our part to foster the information security community while simultaneously providing attendees with interesting knowledge they can use personally or professionally. We will be supporting the local Colorado community by accepting donations for the Colorado COVID-19 Relief Fund. (DERPCON has two CTFs running (beginner and advanced) see Workshop below for more detail)
