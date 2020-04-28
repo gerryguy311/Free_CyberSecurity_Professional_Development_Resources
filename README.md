@@ -100,7 +100,7 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
 
 34. **Harrisburg University CyberSecurity** Collection of 18 curated talks. Scroll down to CYBER SECURITY section. You will see there are 4 categories Resource Sharing, Tools & Techniques, Red Team (Offensive Security) and Blue Teaming (Defensive Security). Lot of content in here; something for everyone. https://professionaled.harrisburgu.edu/online-content/
 
-35. **OnRamp 101-Level ICS Security Workshop** Starts this 4/28.  10 videos, Q&A / discussion, bonus audio, great links. Get up to speed fast on ICS security. https://onramp-3.s4xevents.com
+35. **OnRamp 101-Level ICS Security Workshop** Starts this 4/28.  10 videos, Q&A / discussion, bonus audio, great links. Get up to speed fast on ICS security. It runs for 5 weeks. 2 videos per week. Then we keep it open for another 3 weeks for 8 in total. https://onramp-3.s4xevents.com
 
 ## Instructor Led Webinar/ Labs / Workshops
 ### April
@@ -110,6 +110,7 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
 * **Kerberos & Attacks 101** Thu, Apr 30, 2020 3:00 PM - 4:00 PM EDT - Want to understand how Kerberos works? Would you like to understand modern Kerberos attacks? If so, then join Tim Medin as he walks you through how to attack Kerberos with ticket attacks and Kerberoasting. We'll cover the basics of Kerberos authentication and then show you how the trust model can be exploited for persistence, pivoting, and privilege escalation. https://register.gotowebinar.com/register/2244996440779800589
 
 Join the BHIS Discord discussion server for live discussion during the webcasts -- https://discord.gg/aHHh3u5 
+
 * **Cybersecurity Seminar (EC-COUNCIL sponsored)** April 30 Thu, 7:00 PM - 8:00 PM Be a part of this fast-growing industry today. Attend our free seminar and learn about: How to get started in cybersecurity,  Cybercrimes and best investigation practices today,  Career opportunities for cybersecurity specialists and students,  How to be eligible for course fee support.https://www.eventbrite.com/e/cybersecurity-seminar-tickets-96384190709?aff=ebdssbonlinesearch
 
 ### May
