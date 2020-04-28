@@ -100,6 +100,8 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
 
 34. **Harrisburg University CyberSecurity** Collection of 18 curated talks. Scroll down to CYBER SECURITY section. You will see there are 4 categories Resource Sharing, Tools & Techniques, Red Team (Offensive Security) and Blue Teaming (Defensive Security). Lot of content in here; something for everyone. https://professionaled.harrisburgu.edu/online-content/
 
+35. **OnRamp 101-Level ICS Security Workshop** Starts this 4/28.  10 videos, Q&A / discussion, bonus audio, great links. Get up to speed fast on ICS security. https://onramp-3.s4xevents.com
+
 ## Instructor Led Webinar/ Labs / Workshops
 ### April
 
