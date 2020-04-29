@@ -125,6 +125,8 @@ Join the BHIS Discord discussion server for live discussion during the webcasts 
 
 * **THE EVOLUTION OF RED TEAMING AND PEN TESTING WITH DAVID KENNEDY** May 6 1PM EST - This presentation will discuss how red teaming can work within your organization to build a more effective security program and help prioritize where you need investment. In addition, we’ll be talking about how to integrate the MITRE ATT&CK™ (Adversarial Tactics, Techniques, and Common Knowledge) framework into your company and how you can build a program based on not just MITRE’s techniques, but also the latest tactics and procedures.https://trustedsec.zoom.us/webinar/register/WN_nA6i_GjLQ6uQfhNUbQzlNA
 
+* **Linux Forensics Magical Mystery Tour with Hal Pomeranz (1-Hour)** Thu, May 7, 2020 3:00 PM - 4:00 PM EDT Roll up for a magical tour through the mysteries of Linux file systems! Relative atime updates, block groups and allocation strategies, deleted directory entries, and even more will be revealed! This information will help you understand your Linux timelines, and recover deleted data more quickly. It's a perilous journey off the beaten path from which you will not return unchanged! https://register.gotowebinar.com/register/250073331082302477
+
 * **Cyber Threat Hunting Training – May Session (4-Hours)** - Blackhills Information Security - Tuesday, May 12th, 12pm – 4pm EST -- In this free, one-day course, we will cover how to leverage network data to perform a cyber threat hunt.
 The course includes hands-on labs using packet captures of various command and control channels. The labs will enable you to apply what you’ve learned using various open-source tools. https://register.gotowebinar.com/register/5841228496128209677 
 
