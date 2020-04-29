@@ -102,6 +102,8 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
 
 35. **OnRamp 101-Level ICS Security Workshop** Starts this 4/28.  10 videos, Q&A / discussion, bonus audio, great links. Get up to speed fast on ICS security. It runs for 5 weeks. 2 videos per week. Then we keep it open for another 3 weeks for 8 in total. https://onramp-3.s4xevents.com
 
+36. **YARA Training** 4-part YARA training with simulation backdrop. https://rangeforce.com/resource/yara-challenge-reg-page/
+
 ## Instructor Led Webinar/ Labs / Workshops
 ### April
 
