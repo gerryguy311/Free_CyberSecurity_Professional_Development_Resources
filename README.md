@@ -104,6 +104,8 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
 
 36. **YARA Training** 4-part YARA training with simulation backdrop. https://rangeforce.com/resource/yara-challenge-reg-page/
 
+37. **HackXOR WebApp CTF** Hackxor is a realistic web application hacking game, designed to help players of all abilities develop their skills. All the missions are based on real vulnerabilities I've personally found while doing pentests, bug bounty hunting, and research. https://hackxor.net/
+
 ## Instructor Led Webinar/ Labs / Workshops
 ### April
 
