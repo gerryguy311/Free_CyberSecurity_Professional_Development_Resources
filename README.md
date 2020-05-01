@@ -12,7 +12,6 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
   
 ## Conferences
 
-* **RedHat Summit** - April 28-29 - "Our virtual event will feature the keynotes, breakout sessions, and collaboration opportunities that you’ve come to expect from Red Hat® Summit. This programming will be shared as a blend of live and recorded content designed to inspire and engage a global audience. You will have access to the experts behind the code as you learn about the latest in open hybrid cloud, automation, cloud-native development, and so, so much more. Red Hat Summit 2020 Virtual Experience is your platform to learn, network, and plot the next steps in your career as you find ways to unlock your potential." - https://www.redhat.com/en/summit
 
 * **DerpCon** - April 30 (workshop) May 1 Conference - https://www.eventbrite.com/e/derpcon-2020-tickets-101700143868 we want to do our part to foster the information security community while simultaneously providing attendees with interesting knowledge they can use personally or professionally. We will be supporting the local Colorado community by accepting donations for the Colorado COVID-19 Relief Fund. (DERPCON has two CTFs running (beginner and advanced) see Workshop below for more detail)
 
@@ -28,8 +27,6 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
 
 
 ## Training
-1.	**Pluralsight**	Free for April 2020. Massive top tier library of content including lots of cyber training	www.pluralsight.com
-
 
 3.	**Metasploit Unleashed**	Most complete and in-depth Metasploit guide available, with contributions from the authors of the No Starch Press Metasploit Book. 	https://www.offensive-security.com/metasploit-unleashed/
 
@@ -107,15 +104,6 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
 37. **HackXOR WebApp CTF** Hackxor is a realistic web application hacking game, designed to help players of all abilities develop their skills. All the missions are based on real vulnerabilities I've personally found while doing pentests, bug bounty hunting, and research. https://hackxor.net/
 
 ## Instructor Led Webinar/ Labs / Workshops
-### April
-
-* **How Operational Technology (OT) Security is Redefining the CISO Role** Tuesday, April 28th, 2020 at 3:30 PM EDT - The digital transformation of industrial systems yields numerous benefits and efficiencies for business, but the resulting interconnectivity between these systems and an organizations IT network has made operational technology (OT) increasingly susceptible to cyber threats. And while the role of CISOs in dealing with IT network security is well defined, many security leaders dont know where to start when it comes to their OT defense strategy. Further complicating matters, traditional IT security tools are not compatible with OT environments, and conventional wisdom for defending IT environments is not always applicable. https://www.sans.org/webcasts/operational-technology-ot-security-redefining-ciso-role-114360
-
-* **Kerberos & Attacks 101** Thu, Apr 30, 2020 3:00 PM - 4:00 PM EDT - Want to understand how Kerberos works? Would you like to understand modern Kerberos attacks? If so, then join Tim Medin as he walks you through how to attack Kerberos with ticket attacks and Kerberoasting. We'll cover the basics of Kerberos authentication and then show you how the trust model can be exploited for persistence, pivoting, and privilege escalation. https://register.gotowebinar.com/register/2244996440779800589
-
-Join the BHIS Discord discussion server for live discussion during the webcasts -- https://discord.gg/aHHh3u5 
-
-* **Cybersecurity Seminar (EC-COUNCIL sponsored)** April 30 Thu, 7:00 PM - 8:00 PM Be a part of this fast-growing industry today. Attend our free seminar and learn about: How to get started in cybersecurity,  Cybercrimes and best investigation practices today,  Career opportunities for cybersecurity specialists and students,  How to be eligible for course fee support.https://www.eventbrite.com/e/cybersecurity-seminar-tickets-96384190709?aff=ebdssbonlinesearch
 
 ### May
 
