@@ -12,13 +12,6 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
   
 ## Conferences
 
-
-* **DerpCon** - April 30 (workshop) May 1 Conference - https://www.eventbrite.com/e/derpcon-2020-tickets-101700143868 we want to do our part to foster the information security community while simultaneously providing attendees with interesting knowledge they can use personally or professionally. We will be supporting the local Colorado community by accepting donations for the Colorado COVID-19 Relief Fund. (DERPCON has two CTFs running (beginner and advanced) see Workshop below for more detail)
-
-* **DISC – SANS ICS Virtual Conference** Friday May 1 ICS Virtual Conference (10-6 pm ET) - The content is focused around being widely acceptable for both IT Security and OT/ICS audiences and the theme is focused around education especially during times when many folks are at home and working remotely. Special focuses are being given in the talks to what work and efforts can be accomplished with minimal effort during slow down periods. https://www.sans.org/webcasts/disc-ics-virtual-conference-114285
-
-* **#AirGap2020**  Saturday May 2nd AirGap 2020 is a free virtual conference bought to you by ThugCrowd. It will be streamed live to Twitch on the 2nd of May 2020 to your personal sandbox with a focus on weird bugs and unconventional approaches to offensive security. #AirGap2020.  Twitter: https://twitter.com/airgappin. Website: https://airgapp.in/. Twitch: https://twitch.tv/hardchat
-
 * **VMware Carbon Black Connect 2020** - May 13-14 - Connect 2020 is a free, action-packed two-day virtual event about the future of endpoint security. The agenda has something for everyone, including a Developer Day for technical users, hands-on threat hunting workshops, and a chance to become product certified. Hear from the experts, explore our sponsor hub, and participate in a series of trainings on the most effective ways to combat the latest threats. https://www.carbonblack.com/connect20/
 
 * **FWD:CLOUDSEC** June 29 - a new cloud security practitioners conference which will be held online - https://fwdcloudsec.org/
@@ -106,10 +99,6 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
 ## Instructor Led Webinar/ Labs / Workshops
 
 ### May
-
-* **DERPCON CTFs** 09:15 MST to 16:45 MST on 1 May 2020 - (Beginner) https://tigerking.threatsims.com/  (Experienced) https://covid19.threatsims.com/
-
-* **Women in Cybersecurity Capture the Flag {Virtual} | SecureSet and WiCyS** - Sat, May 2, 2020 10:00 AM – 1:00 PM MDT  — Our Women Only Capture the Flag event is designed specifically for women who want to dive headfirst into the cybersecurity game in a welcoming environment where you can build confidence and network with women in the cybersecurity community! https://www.eventbrite.com/e/women-in-cybersecurity-capture-the-flag-virtual-secureset-and-wicys-tickets-102703516984?aff=ebdssbonlinesearch
 
 * **THE EVOLUTION OF RED TEAMING AND PEN TESTING WITH DAVID KENNEDY** May 6 1PM EST - This presentation will discuss how red teaming can work within your organization to build a more effective security program and help prioritize where you need investment. In addition, we’ll be talking about how to integrate the MITRE ATT&CK™ (Adversarial Tactics, Techniques, and Common Knowledge) framework into your company and how you can build a program based on not just MITRE’s techniques, but also the latest tactics and procedures.https://trustedsec.zoom.us/webinar/register/WN_nA6i_GjLQ6uQfhNUbQzlNA
 
