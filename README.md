@@ -94,6 +94,8 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
 
 35. **HackXOR WebApp CTF** Hackxor is a realistic web application hacking game, designed to help players of all abilities develop their skills. All the missions are based on real vulnerabilities I've personally found while doing pentests, bug bounty hunting, and research. https://hackxor.net/
 
+36. **Suricata Training** 5-part training module using a simulation as a backdrop to teach how to use Suricata. https://rangeforce.com/resource/suricata-challenge-reg/
+
 ## Instructor Led Webinar/ Labs / Workshops
 
 ### May
