@@ -14,6 +14,8 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
 
 * **VMware Carbon Black Connect 2020** - May 13-14 - Connect 2020 is a free, action-packed two-day virtual event about the future of endpoint security. The agenda has something for everyone, including a Developer Day for technical users, hands-on threat hunting workshops, and a chance to become product certified. Hear from the experts, explore our sponsor hub, and participate in a series of trainings on the most effective ways to combat the latest threats. https://www.carbonblack.com/connect20/
 
+* **Red Team Village Virtual Conference** Full one day summit all things RED TEAM from the folks that run the DEFCON Red Team Village. Talks include Tricks of the Man-in-the-Middle Trade, Red Teaming DevOps, Adversary Emulation and the C2 Matrix and more. Saturday, May 16, 2020 from 0900 EST - (looks like live stream on YouTube) https://redteamvillage.io/mayhem.html
+
 * **FWD:CLOUDSEC** June 29 - a new cloud security practitioners conference which will be held online - https://fwdcloudsec.org/
 
 * **RSAC 2020 APJ** July 15 – 17 "Transforming RSA Conference 2020 Asia Pacific & Japan into a free virtual learning experience, taking place 15 – 17 July. We have many exciting and relevant sessions and keynotes planned, featuring some of the world’s leading cybersecurity experts." https://go.rsaconference.com/rsac-apj2020/
