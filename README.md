@@ -98,6 +98,8 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
 
 36. **Suricata Training** 5-part training module using a simulation as a backdrop to teach how to use Suricata. https://rangeforce.com/resource/suricata-challenge-reg/
 
+37. **flAWS System** Through a series of levels you'll learn about common mistakes and gotchas when using Amazon Web Services (AWS). Multiple levels, "Buckets" of fun. http://flaws.cloud/ 
+
 ## Instructor Led Webinar/ Labs / Workshops
 
 ### May
@@ -169,6 +171,8 @@ _Below podcasts Added from here: https://infosec-conferences.com/cybersecurity-p
 * **Threatpost Podcast Series** https://threatpost.com/category/podcasts/ Threatpost is an independent news site which is a leading source of information about IT and business security for hundreds of thousands of professionals worldwide. With an award-winning editorial team produces unique and high-impact content including security news, videos, feature reports and more, with their global editorial activities are driven by industry-leading journalist Tom Spring, editor-in-chief.
 
 * **CISO-Security Vendor Relationship Podcast** https://cisoseries.com Co-hosted by the creator of the CISO/Security Vendor Relationship Series, David Spark, and Mike Johnson, in 30 minutes, this weekly program challenges the co-hosts, guests, and listeners to critique, share true stories. This podcast, The CISO/Security Vendor Relationship, targets to enlighten and educate listeners on improving security buyer and seller relationships.
+
+* **Getting Into Infosec Podcast** Stories of how Infosec and Cybersecurity pros got jobs in the field so you can be inspired, motivated, and educated on your journey. - https://gettingintoinfosec.com/
 
 
 ## College Courses (Multi-week w/Enrollment)
