@@ -16,6 +16,8 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
 
 * **Red Team Village Virtual Conference** - Saturday, May 16, 2020 from 0900 EST - Full one day summit all things RED TEAM from the folks that run the DEFCON Red Team Village. Talks include Tricks of the Man-in-the-Middle Trade, Red Teaming DevOps, Adversary Emulation and the C2 Matrix and more.  - (looks like live stream on YouTube) https://redteamvillage.io/mayhem.html
 
+* **Cybersecurity Career Coonference 2020** - May 18 - June 06 - Cybersecurity Career Conference 2020 is delivered entirely online. Dip in and watch the specific talks you need to transform your business, or catch them all. It’s up to you! With talks distributed among 13 categories over a period of 12 days, the experts will be sharing their years of knowledge, strategies and tactics.
+
 * **DockerCon LIVE 2020 with theCUBE** - Thursday, May 28, 2020 from 09:00 - 5:00PM GMT-7 - DockerCon is going digital with theCUBE! We’ve designed a 1-day conference that’s free and completely online. You’ll hear from speakers in live interviews with theCUBE, hang out with Docker experts in the live hallway track, and watch recorded sessions while chatting live with the speakers. - https://docker.events.cube365.net/docker/dockercon
 
 * **FWD:CLOUDSEC** June 29 - a new cloud security practitioners conference which will be held online - https://fwdcloudsec.org/
