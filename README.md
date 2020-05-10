@@ -102,6 +102,12 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
 
 37. **flAWS System** Through a series of levels you'll learn about common mistakes and gotchas when using Amazon Web Services (AWS). Multiple levels, "Buckets" of fun. http://flaws.cloud/ 
 
+38. **Stanford CS 253 Web Security** A free course from Stanford providing a comprehensive overview of web security. The course begins with an introduction to the fundamentals of web security and proceeds to discuss the most common methods for web attacks and their countermeasures. Course contents include video lectures, lecture slides, and links to online reading assignments. https://web.stanford.edu/class/cs253
+
+39. **Linux Journey** A free, handy guide for learning Linux. Coverage begins with the fundamentals of the command line navigation and basic text manipulation and extends to more advanced topics, such as file systems and networking. The site is well organized and included many examples with codes snippets as well as exercises and quizzes. https://linuxjourney.com
+
+40. **Ryan's Tutorials** A collection of free, introductory tutorials on several technology topics including the Linux command line and Bash scripting, creating and styling webpages with HTML and CSS, and counting and converting between different number systems and writing regular expressions. https://ryanstutorials.net
+
 ## Instructor Led Webinar/ Labs / Workshops
 
 ### May
