@@ -110,6 +110,8 @@ https://summit.hack.careers/
 
 40. **Ryan's Tutorials** A collection of free, introductory tutorials on several technology topics including: Linux command line, Bash scripting, creating and styling webpages with HTML and CSS, counting and converting between different number systems, and writing regular expressions. https://ryanstutorials.net
 
+41. **The Ultimate List of SANS Cheat Sheets** Massive collection of free cybersecurity cheat sheets for quick reference (login with free SANS account required for some penetration testing resources). https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/
+
 ## Instructor Led Webinar/ Labs / Workshops
 
 ### May
@@ -149,6 +151,9 @@ https://static.googleusercontent.com/media/landing.google.com/en//sre/static/pdf
 * **The Cyber Skill Gap** By Vagner Nunes - The Cyber Skill Gap: How To Become A Highly Paid And Sought After Information Security Specialist! (Use COUPON CODE: W4VSPTW8G7 to make it free) https://payhip.com/b/PdkW
 
 * **The Beginner’s Guide to Information Security** By Limor Elbaz - Offers insight and resources to help readers embark on a career in one of the 21st century’s most important—and potentially lucrative—fields. https://www.amazon.com/Beginners-Guide-Information-Security-Kickstart-ebook/dp/B01JTDDSAM
+
+* **Free Springer Textbooks** 
+Valid at least through July, Springer is providing free access to several hundred titles in its eBook collection. Books are available via SpringerLink and can be viewed online or downloaded as PDF or EBUP files. Disciplines include computer science, networking, cryptography, digital forensics, and others. https://link.springer.com/search/page/1?facet-content-type=%22Book%22&package=mat-covid19_textbooks&facet-language=%22En%22&sortOrder=newestFirst&showAll=true 
 
 ## Podcasts
 
