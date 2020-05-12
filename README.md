@@ -24,6 +24,9 @@ https://summit.hack.careers/
 
 * **RSAC 2020 APJ** July 15 – 17 "Transforming RSA Conference 2020 Asia Pacific & Japan into a free virtual learning experience, taking place 15 – 17 July. We have many exciting and relevant sessions and keynotes planned, featuring some of the world’s leading cybersecurity experts." https://go.rsaconference.com/rsac-apj2020/
 
+* **DEFCON 28** Aug 7-9 2020 - This is a very well known, premiere conference within the cybersecurity space. Check for more information as there will be villages, events, parties, talks, etc. You cannot register yet, but details here: https://www.defcon.org/html/defcon-28/dc-28-index.html
+
+* **JUNC 2020** 9/29/2020-10/1/2020 - Not entirely a security conference, but there are sub-sections for securing Apple devices. Apple IT administrators from around the world have rallied at the Jamf Nation User Conference (JNUC) for community presentations, deep-dive education sessions and expert product insights.  https://www.jamf.com/events/jamf-nation-user-conference/2020/faq/
 
 ## Training
 
