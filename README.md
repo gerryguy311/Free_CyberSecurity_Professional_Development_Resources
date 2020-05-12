@@ -116,15 +116,6 @@ https://summit.hack.careers/
 
 ### May
 
-* **THE EVOLUTION OF RED TEAMING AND PEN TESTING WITH DAVID KENNEDY** May 6 1PM EST - This presentation will discuss how red teaming can work within your organization to build a more effective security program and help prioritize where you need investment. In addition, we’ll be talking about how to integrate the MITRE ATT&CK™ (Adversarial Tactics, Techniques, and Common Knowledge) framework into your company and how you can build a program based on not just MITRE’s techniques, but also the latest tactics and procedures.https://trustedsec.zoom.us/webinar/register/WN_nA6i_GjLQ6uQfhNUbQzlNA
-
-* **Webinar - Hunting Threats That Use Encrypted Network Traffic with Suricata** Thursday, May 7, 2020 9AM-10AM CDT  In this webinar, we’ll discuss methods for analyzing encrypted network traffic such as JA3/JA3S, TLS and protocol anomaly detectection. https://www.eventbrite.com/e/webinar-hunting-threats-that-use-encrypted-network-traffic-with-suricata-tickets-102612647190
-
-* **Stalkerware: Solutions For Mitigating Its Impact On Privacy and Security** Thursday, May 7, 2020
-11:00AM - 12:00PM PDT  //  60 MINUTES, INCLUDING Q&A - In this webcast, EFF's Director of Cybersecurity, Eva Galperin examines her research into the market in stalkerware, spouseware, and other nefarious applications that are being deployed to attack our sense of privacy and security. https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&partnerref=eva&eventid=2198344&sessionid=1&key=1D45F07A4361893B97D56A42686E6ED8&regTag=&sourcepage=register&elq_mid=1604&elq_cid=468591
-
-* **Linux Forensics Magical Mystery Tour with Hal Pomeranz (1-Hour)** Thu, May 7, 2020 3:00 PM - 4:00 PM EDT Roll up for a magical tour through the mysteries of Linux file systems! Relative atime updates, block groups and allocation strategies, deleted directory entries, and even more will be revealed! This information will help you understand your Linux timelines, and recover deleted data more quickly. It's a perilous journey off the beaten path from which you will not return unchanged! https://register.gotowebinar.com/register/250073331082302477
-
 * **Cyber Threat Hunting Training – May Session (4-Hours)** - Blackhills Information Security - Tuesday, May 12th, 12pm – 4pm EST -- In this free, one-day course, we will cover how to leverage network data to perform a cyber threat hunt.
 The course includes hands-on labs using packet captures of various command and control channels. The labs will enable you to apply what you’ve learned using various open-source tools. https://register.gotowebinar.com/register/5841228496128209677 
 
