@@ -163,6 +163,12 @@ Valid at least through July, Springer is providing free access to several hundre
 
 * **Daily Information Security Podcast ("StormCast”)** Stormcasts are daily 5-10 minute information security threat updates. The podcast is produced each work day, and typically released late in the day to be ready for your morning commute. https://isc.sans.edu/podcast.html
 
+* **ShadowTalk** Threat Intelligence Podcast by Digital Shadow_. The weekly podcast highlights key findings of primary-source research our Intelligence Team is conducting, along with guest speakers discussing the latest threat actors, campaigns, security events and industry news. https://resources.digitalshadows.com/threat-intelligence-podcast-shadowtalk
+
+* **Don't Panic - The Unit 42 Podcast** Don't Panic! is the official podcast from Unit 42 at Palo Alto Networks. We find the big issues that are frustrating cyber security practitioners and help simplify them so they don't need to panic. https://unit42.libsyn.com/
+
+* **Recorded Future** Recorded Future takes you inside the world of cyber threat intelligence. We’re sharing stories from the trenches and the operations floor as well as giving you the skinny on established and emerging adversaries. We also talk current events, technical tradecraft, and offer up insights on the big picture issues in our industry. https://www.recordedfuture.com/resources/podcast/
+
 _Below podcasts Added from here: https://infosec-conferences.com/cybersecurity-podcasts/_
 
 * **Down the Security Rabbithole** http://podcast.wh1t3rabbit.net/ Down the Security Rabbithole is hosted by Rafal Los and James Jardine who discuss, by means of interviewing or news analysis, everything about Cybersecurity which includes Cybercrime, Cyber Law, Cyber Risk, Enterprise Risk & Security and many more. If you want to hear issues that are relevant to your organization, subscribe and tune-in to this podcast.
