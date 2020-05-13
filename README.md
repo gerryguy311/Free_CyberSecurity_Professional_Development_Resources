@@ -18,7 +18,10 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
 
 * **Cybersecurity Career Coonference 2020** - May 18 - June 06 - Cybersecurity Career Conference 2020 is delivered entirely online. Dip in and watch the specific talks you need to transform your business, or catch them all. It’s up to you! With talks distributed among 13 categories over a period of 12 days, the experts will be sharing their years of knowledge, strategies and tactics. - 
 https://summit.hack.careers/
+
 * **DockerCon LIVE 2020 with theCUBE** - Thursday, May 28, 2020 from 09:00 - 5:00PM GMT-7 - DockerCon is going digital with theCUBE! We’ve designed a 1-day conference that’s free and completely online. You’ll hear from speakers in live interviews with theCUBE, hang out with Docker experts in the live hallway track, and watch recorded sessions while chatting live with the speakers. - https://docker.events.cube365.net/docker/dockercon
+
+* **ChefConf Online 2020** - June 2-3 2020 - ChefConf Online has been completely reimagined to provide a digital event experience unlike any other. Get early access by joining the live recordings as industry experts share their insights on your most difficult challenges. We have lined up some amazing speakers from CarFax, HashiCorp, Panera, ShuttleOps, CUNA Mutual Group, and Nordstrom, with a couple more surprises. - https://www.chefconf.io/
 
 * **FWD:CLOUDSEC** June 29 - a new cloud security practitioners conference which will be held online - https://fwdcloudsec.org/
 
