@@ -119,9 +119,6 @@ https://summit.hack.careers/
 
 ### May
 
-* **Cyber Threat Hunting Training – May Session (4-Hours)** - Blackhills Information Security - Tuesday, May 12th, 12pm – 4pm EST -- In this free, one-day course, we will cover how to leverage network data to perform a cyber threat hunt.
-The course includes hands-on labs using packet captures of various command and control channels. The labs will enable you to apply what you’ve learned using various open-source tools. https://register.gotowebinar.com/register/5841228496128209677 
-
 * **A Blue Team's Perspective on Red Team Hack Tools** -- on May 14, 2020 1:00 PM EDT -BHIS training session- Kent and Jordan are back to continue their journey to make the world a better place. This time around, they will be reviewing a series of tools commonly used on pentests to identify flaws in Active Directory and general network design and implementation. https://register.gotowebinar.com/register/1843292067638541070
 
 * **Virtual Cybersecurity Capture the Flag for All Ages** - Thu, May 14, 2020 5:00 PM – 8:00 PM MD Put your tech skills to the test in our Virtual Capture the Flag (CTF) for All Ages game. This event is a fun challenge for adults, teens, and everyone in between! https://www.eventbrite.com/e/virtual-cybersecurity-capture-the-flag-for-all-ages-tickets-102932542004?aff=ebdssbonlinesearch
