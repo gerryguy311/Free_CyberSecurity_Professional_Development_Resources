@@ -139,7 +139,7 @@ https://summit.hack.careers/
 * **Building Secure & Reliable Systems**
 Best Practices for Designing, Implementing and Maintaining Systems (O'Reilly)
 By Heather Adkins, Betsy Beyer, Paul Blankinship, Ana Oprea, Piotr Lewandowski, Adam Stubblefield
-https://static.googleusercontent.com/media/landing.google.com/en//sre/static/pdf/SRS.pdf
+ https://landing.google.com/sre/books/
 
 * **Security Engineering** By Ross Anderson - A guide to building dependable distributed systems. (and Ross Anderson is brilliant //OP editorial) https://www.cl.cam.ac.uk/~rja14/book.html
 
