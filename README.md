@@ -115,6 +115,8 @@ https://summit.hack.careers/
 
 41. **The Ultimate List of SANS Cheat Sheets** Massive collection of free cybersecurity cheat sheets for quick reference (login with free SANS account required for some penetration testing resources). https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/
 
+42. **Educative: Become a Front-End Developer** (six courses) Free, six-month access to Educative’s complete front-end developer learning track to the first 100,000 learners (a value of over $115). https://www.educative.io/covid-scholarship
+
 ## Instructor Led Webinar/ Labs / Workshops
 
 ### May
