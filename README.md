@@ -66,7 +66,7 @@ https://summit.hack.careers/
 
 17. **Open P-TECH**	Free digital learning on the tech skills of tomorrow. https://www.ptech.org/open-p-tech/
 
-18. **Autopsy Digital Forensics** - FREE ($495 value) Autopsy is a Windows-based desktop digital forensics tool that is free, open source, and has all of the features that you’d normally find in commercial digital forensics tools. It is extensible and comes with features that include keyword search, hash matching, registry analysis, web analytics, and more.   https://www.autopsy.com/support/training/covid-19-free-autopsy-training/ 
+18. **Autopsy Digital Forensics** - FREE ($495 value) Autopsy is a Windows-based desktop digital forensics tool that is free, open source, and has all of the features that you’d normally find in commercial digital forensics tools. It is extensible and comes with features that include keyword search, hash matching, registry analysis, web analytics, and more. Offer ends June 1, 2020. https://www.autopsy.com/support/training/covid-19-free-autopsy-training/ 
 
 19. **Udemy** - Online learning course platform "collection from the free courses in our learning marketplace" https://www.udemy.com/courses/free/
 
