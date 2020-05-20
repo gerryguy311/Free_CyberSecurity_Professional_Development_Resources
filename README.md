@@ -134,7 +134,7 @@ https://summit.hack.careers/
 
 ### June
 
-* **Golden Age of C2** Tuesday, June 2, 2020 at 1:00 PM EST  SANS Free 2-hour Workshop with Matthew Toussain - In this workshop, we dive into multiple C2 frameworks and get our hands dirty launching attacks against enterprise networks and explore the ins and outs of these systems while paying careful attention to the advantages and limitations of each remote administration tool (RAT). https://www.sans.org/webcasts/tech-tuesday-workshop-golden-age-c2-115570?utm_medium=Email&utm_source=HL-NA&utm_content=665520+Webcast+115570+Link&utm_campaign=SANS+Free+Resources
+* **Golden Age of C2** Tuesday, June 2, 2020 at 1:00 PM EST  SANS Free 2-hour Workshop with Matthew Toussain - In this workshop, we dive into multiple C2 frameworks and get our hands dirty launching attacks against enterprise networks and explore the ins and outs of these systems while paying careful attention to the advantages and limitations of each remote administration tool (RAT). https://www.sans.org/webcasts/tech-tuesday-workshop-golden-age-c2-115570
 
 * **Cyber Security Webinar Series - Session I: Cybersecurity for Small Business** JUNE 11Thu, 11:00 AM - 12:00 PM PDT — These classes serve as a survey in terms of the recommended best practices in use for both commercial and federal information systems. It is important to note that cybersecurity is about controlling access, it is the defensive measures that can be taken to reduce the risk of an attack. The goal of the plan is to impede the attacker, limit the effect of the attack, and recover. https://www.eventbrite.com/e/cyber-security-webinar-series-session-i-cybersecurity-for-small-business-tickets-92155713219?aff=ebdssbonlinesearch
 
