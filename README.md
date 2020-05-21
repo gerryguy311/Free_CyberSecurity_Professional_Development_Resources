@@ -118,10 +118,6 @@ https://summit.hack.careers/
 
 ### May
 
-* **ADDRESSING ENDPOINT CHALLENGES OF A (SUDDENLY) REMOTE WORKFORCE WITH AZURE** - May 20, 2020 01:00 PM During this practical webinar, we’ll demystify Azure State Configurations and modern DevOps principles, allowing you to begin your journey toward simpler automation. In addition, we’ll show you how to: Replace and set a registry key, Configuration services, Disable NetBIOS, Set execution policy. https://trustedsec.zoom.us/webinar/register/WN_nNJSYvQeRnS8rsIBsqHSsg
-
-* **How to Sell Security to C-Levels w/ Chris Brenton** - May 20, 3-4PM EST - This is a 1 hour preview of a 4-day course does. Normally I wouldnt put freemium content here, but Blackhills brings the heat and so much value, that it would be worth checking out. https://register.gotowebinar.com/register/1412216440094011408
-
 * **How to Social Engineer Your Way into Your Dream Job: Pandemic Edition (1-Hour)** - Black Hills Information Security - Thursday, May 21, 2020 1:00 PM - 2:00 Pm EDT - Job hunting? Looking for a career change? Still in college and want to know how to get started now in your career? Have an hour free on a Thursday afternoon? If you answered yes to any of these questions, this might be the BHIS webcast for you. https://register.gotowebinar.com/register/3770565527020529167
 
 * **Measuring Cyber Risk** Bryson Bort of Scythe - Wed, May 27, 2020 2:00 PM - 3:00 PM EDT Good management of cyberspace requires a system of cyber metrics that are transparent, auditable, practical, scalable and the most difficult: widely agreed upon. To that end, we will evaluate various approaches to cyber risk quantification with the aim of informing the development of a public standard for measuring cybersecurity.  One possibility is to use external market performance financial metrics as an indicator of cybersecurity (https://www.lawfareblog.com/assessing-cyber-risk-external-information).  Others rely on internal enterprise analysis. As part of our ongoing work we outline the problem in this webinar and suggest the nature of some of the possible responses. https://register.gotowebinar.com/register/4850890677535682831
