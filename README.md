@@ -12,16 +12,20 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
   
 ## Conferences
 
-* **VMware Carbon Black Connect 2020** - May 13-14 - Connect 2020 is a free, action-packed two-day virtual event about the future of endpoint security. The agenda has something for everyone, including a Developer Day for technical users, hands-on threat hunting workshops, and a chance to become product certified. Hear from the experts, explore our sponsor hub, and participate in a series of trainings on the most effective ways to combat the latest threats. https://www.carbonblack.com/connect20/
-
-* **Red Team Village Virtual Conference** - Saturday, May 16, 2020 from 0900 EST - Full one day summit all things RED TEAM from the folks that run the DEFCON Red Team Village. Talks include Tricks of the Man-in-the-Middle Trade, Red Teaming DevOps, Adversary Emulation and the C2 Matrix and more.  - (looks like live stream on YouTube) https://redteamvillage.io/mayhem.html
+* **Cybersecurity Career Conference 2020** - May 18 - June 06 - Cybersecurity Career Conference 2020 is delivered entirely online. Dip in and watch the specific talks you need to transform your business, or catch them all. It’s up to you! With talks distributed among 13 categories over a period of 12 days, the experts will be sharing their years of knowledge, strategies and tactics. - 
+https://summit.hack.careers/
 
 * **DockerCon LIVE 2020 with theCUBE** - Thursday, May 28, 2020 from 09:00 - 5:00PM GMT-7 - DockerCon is going digital with theCUBE! We’ve designed a 1-day conference that’s free and completely online. You’ll hear from speakers in live interviews with theCUBE, hang out with Docker experts in the live hallway track, and watch recorded sessions while chatting live with the speakers. - https://docker.events.cube365.net/docker/dockercon
+
+* **DevSecCon24** - June 15 - DevSecCon24 is the first virtual conference in the DevSecCon global conference series – all from the comfort of your home or office. Join us for 24 hours of inspiring talks about DevSecOps – the practice of building security into development processes. This is your chance to learn from key industry figures in a virtual environment and learn how DevOps and Security can work together to make continuously secure development a reality. - https://www.devseccon.com/devseccon24-2020/
 
 * **FWD:CLOUDSEC** June 29 - a new cloud security practitioners conference which will be held online - https://fwdcloudsec.org/
 
 * **RSAC 2020 APJ** July 15 – 17 "Transforming RSA Conference 2020 Asia Pacific & Japan into a free virtual learning experience, taking place 15 – 17 July. We have many exciting and relevant sessions and keynotes planned, featuring some of the world’s leading cybersecurity experts." https://go.rsaconference.com/rsac-apj2020/
 
+* **DEFCON 28** Aug 7-9 2020 - This is a very well known, premiere conference within the cybersecurity space. Check for more information as there will be villages, events, parties, talks, etc. You cannot register yet, but details here: https://www.defcon.org/html/defcon-28/dc-28-index.html
+
+* **JUNC 2020** 9/29/2020-10/1/2020 - Not entirely a security conference, but there are sub-sections for securing Apple devices. Apple IT administrators from around the world have rallied at the Jamf Nation User Conference (JNUC) for community presentations, deep-dive education sessions and expert product insights.  https://www.jamf.com/events/jamf-nation-user-conference/2020/faq/
 
 ## Training
 
@@ -61,7 +65,7 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
 
 17. **Open P-TECH**	Free digital learning on the tech skills of tomorrow. https://www.ptech.org/open-p-tech/
 
-18. **Autopsy Digital Forensics** - FREE ($495 value) Autopsy is a Windows-based desktop digital forensics tool that is free, open source, and has all of the features that you’d normally find in commercial digital forensics tools. It is extensible and comes with features that include keyword search, hash matching, registry analysis, web analytics, and more.   https://www.autopsy.com/support/training/covid-19-free-autopsy-training/ 
+18. **Autopsy Digital Forensics** - FREE ($495 value) Autopsy is a Windows-based desktop digital forensics tool that is free, open source, and has all of the features that you’d normally find in commercial digital forensics tools. It is extensible and comes with features that include keyword search, hash matching, registry analysis, web analytics, and more. Offer ends June 1, 2020. https://www.autopsy.com/support/training/covid-19-free-autopsy-training/ 
 
 19. **Udemy** - Online learning course platform "collection from the free courses in our learning marketplace" https://www.udemy.com/courses/free/
 
@@ -102,31 +106,38 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
 
 37. **flAWS System** Through a series of levels you'll learn about common mistakes and gotchas when using Amazon Web Services (AWS). Multiple levels, "Buckets" of fun. http://flaws.cloud/ 
 
+38. **Stanford CS 253 Web Security** A free course from Stanford providing a comprehensive overview of web security. The course begins with an introduction to the fundamentals of web security and proceeds to discuss the most common methods for web attacks and their countermeasures. The course includes video lectures, slides, and links to online reading assignments. https://web.stanford.edu/class/cs253
+
+39. **Linux Journey** A free, handy guide for learning Linux. Coverage begins with the fundamentals of command line navigation and basic text manipulation. It then extends to more advanced topics, such as file systems and networking. The site is well organized and includes many examples along with code snippets. Exercises and quizzes are provided as well. https://linuxjourney.com
+
+40. **Ryan's Tutorials** A collection of free, introductory tutorials on several technology topics including: Linux command line, Bash scripting, creating and styling webpages with HTML and CSS, counting and converting between different number systems, and writing regular expressions. https://ryanstutorials.net
+
+41. **The Ultimate List of SANS Cheat Sheets** Massive collection of free cybersecurity cheat sheets for quick reference (login with free SANS account required for some penetration testing resources). https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/
+
 ## Instructor Led Webinar/ Labs / Workshops
 
 ### May
 
-* **THE EVOLUTION OF RED TEAMING AND PEN TESTING WITH DAVID KENNEDY** May 6 1PM EST - This presentation will discuss how red teaming can work within your organization to build a more effective security program and help prioritize where you need investment. In addition, we’ll be talking about how to integrate the MITRE ATT&CK™ (Adversarial Tactics, Techniques, and Common Knowledge) framework into your company and how you can build a program based on not just MITRE’s techniques, but also the latest tactics and procedures.https://trustedsec.zoom.us/webinar/register/WN_nA6i_GjLQ6uQfhNUbQzlNA
+* **Building a Phishing Attacker Platform** (30 minutes) - (This is me) Gerald Auger - Thursday, May 21, 2020 4:30 PM - This live technical demo will build a Kali Linux box on an AWS platform, leverage Blackeye to build a Phishing Platform, and Demonstrate a Phishing Attack from both Victim and Attacker perspective. This will be an entertaining and informative live lab, with the intent to provide cyber professionals a capability to enhance their phishing awareness training. I'll be livestreaming on LinkedIn and Facebook Live (first time for FB Live). https://www.linkedin.com/events/simplycyberlive-techwalkthrough-phishingfromattack/
 
-* **Webinar - Hunting Threats That Use Encrypted Network Traffic with Suricata** Thursday, May 7, 2020 9AM-10AM CDT  In this webinar, we’ll discuss methods for analyzing encrypted network traffic such as JA3/JA3S, TLS and protocol anomaly detectection. https://www.eventbrite.com/e/webinar-hunting-threats-that-use-encrypted-network-traffic-with-suricata-tickets-102612647190
+* **How to Social Engineer Your Way into Your Dream Job: Pandemic Edition (1-Hour)** - Black Hills Information Security - Thursday, May 21, 2020 1:00 PM - 2:00 Pm EDT - Job hunting? Looking for a career change? Still in college and want to know how to get started now in your career? Have an hour free on a Thursday afternoon? If you answered yes to any of these questions, this might be the BHIS webcast for you. https://register.gotowebinar.com/register/3770565527020529167
 
-* **Stalkerware: Solutions For Mitigating Its Impact On Privacy and Security** Thursday, May 7, 2020
-11:00AM - 12:00PM PDT  //  60 MINUTES, INCLUDING Q&A - In this webcast, EFF's Director of Cybersecurity, Eva Galperin examines her research into the market in stalkerware, spouseware, and other nefarious applications that are being deployed to attack our sense of privacy and security. https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&partnerref=eva&eventid=2198344&sessionid=1&key=1D45F07A4361893B97D56A42686E6ED8&regTag=&sourcepage=register&elq_mid=1604&elq_cid=468591
-
-* **Linux Forensics Magical Mystery Tour with Hal Pomeranz (1-Hour)** Thu, May 7, 2020 3:00 PM - 4:00 PM EDT Roll up for a magical tour through the mysteries of Linux file systems! Relative atime updates, block groups and allocation strategies, deleted directory entries, and even more will be revealed! This information will help you understand your Linux timelines, and recover deleted data more quickly. It's a perilous journey off the beaten path from which you will not return unchanged! https://register.gotowebinar.com/register/250073331082302477
-
-* **Cyber Threat Hunting Training – May Session (4-Hours)** - Blackhills Information Security - Tuesday, May 12th, 12pm – 4pm EST -- In this free, one-day course, we will cover how to leverage network data to perform a cyber threat hunt.
-The course includes hands-on labs using packet captures of various command and control channels. The labs will enable you to apply what you’ve learned using various open-source tools. https://register.gotowebinar.com/register/5841228496128209677 
-
-* **Virtual Cybersecurity Capture the Flag for All Ages** - Thu, May 14, 2020 5:00 PM – 8:00 PM MD Put your tech skills to the test in our Virtual Capture the Flag (CTF) for All Ages game. This event is a fun challenge for adults, teens, and everyone in between! https://www.eventbrite.com/e/virtual-cybersecurity-capture-the-flag-for-all-ages-tickets-102932542004?aff=ebdssbonlinesearch
+* **Measuring Cyber Risk** Bryson Bort of Scythe - Wed, May 27, 2020 2:00 PM - 3:00 PM EDT Good management of cyberspace requires a system of cyber metrics that are transparent, auditable, practical, scalable and the most difficult: widely agreed upon. To that end, we will evaluate various approaches to cyber risk quantification with the aim of informing the development of a public standard for measuring cybersecurity.  One possibility is to use external market performance financial metrics as an indicator of cybersecurity (https://www.lawfareblog.com/assessing-cyber-risk-external-information).  Others rely on internal enterprise analysis. As part of our ongoing work we outline the problem in this webinar and suggest the nature of some of the possible responses. https://register.gotowebinar.com/register/4850890677535682831
 
 * **SANS MIC Talk - Prioritizing OT Security Efforts: The Five Tactical Things to Accomplish While Leadership Defines a Security Program (Don Weber Talk)** May 27 8:30PM EDT - This talk will cover the five tactical things an OT/IT team can do while leadership defines the direction of a security program for the OT environment. It will discuss quick wins that can be accomplished with equipment typically already deployed. These steps will also provide the leadership team with valuable information that will help prioritize future efforts and quickly improve vendor / integrator / MSP requirements for near-term greenfield and upcoming brownfield maintenance projects. https://www.sans.org/webcasts/atmic-talk-prioritizing-ot-security-efforts-tactical-things-accomplish-leadership-defines-security-program-113985
 
+* **Breaching the Cloud Perimeter Training w/ Labs (4-Hours)** - Black Hills Information Security - Thursday, May 28th, 12pm – 5pm EST- You will leave this workshop with new skills for assessing cloud-based infrastructure! https://register.gotowebinar.com/register/1264630092013493773
+
 * **Responding to Incidents in Industrial Control Systems (ICS): Identifying Threats, Reactions and Developing the IR Process** Friday May 29 1:00 PM - How can effective and proven incident response processes identify, mitigate and remediate threats in the ICS environment? In this new webcast with SANS instructor Don C. Weber and representatives Eric Knapp and Matt Wiseman from Honeywell, we will identify ICS threats, look at how incidents can be managed, and provide recommendation for setting up an effective IR program to reduce risk exposure. Attendees will learn how to best apply proven IR programs and techniques.https://www.sans.org/webcasts/responding-incidents-industrial-control-systems-ics-identifying-threats-reactions-developing-ir-process-114525
 
-* **Breaching the Cloud Perimeter Training w/ Labs (4-Hours)** - Blackhills Information Security - Thursday, May 28th, 12pm – 5pm EST- You will leave this workshop with new skills for assessing cloud-based infrastructure! https://register.gotowebinar.com/register/1264630092013493773
+
 
 ### June
+
+* **Golden Age of C2** Tuesday, June 2, 2020 at 1:00 PM EST  SANS Free 2-hour Workshop with Matthew Toussain - In this workshop, we dive into multiple C2 frameworks and get our hands dirty launching attacks against enterprise networks and explore the ins and outs of these systems while paying careful attention to the advantages and limitations of each remote administration tool (RAT). https://www.sans.org/webcasts/tech-tuesday-workshop-golden-age-c2-115570
+
+* **Web Security and Bug Bounty Webinar** June 4 1:00 PM GMT (note the time, this is coming from the UK) - Participate in our free “Web Security for Beginners” webinar series. We’ll discuss “Searching for files and directories” on June 4 at 1:00 PM GMT and demonstrate solutions to practice assignments on the Hacktory platform. Our speaker, a cybersecurity expert, a lecturer with ten years of experience, and the CTO at Hacktory, will teach you how to make your web application really secure. https://infosec-conferences.com/events-in-2020/web-security-and-bug-bounty/
+
 * **Cyber Security Webinar Series - Session I: Cybersecurity for Small Business** JUNE 11Thu, 11:00 AM - 12:00 PM PDT — These classes serve as a survey in terms of the recommended best practices in use for both commercial and federal information systems. It is important to note that cybersecurity is about controlling access, it is the defensive measures that can be taken to reduce the risk of an attack. The goal of the plan is to impede the attacker, limit the effect of the attack, and recover. https://www.eventbrite.com/e/cyber-security-webinar-series-session-i-cybersecurity-for-small-business-tickets-92155713219?aff=ebdssbonlinesearch
 
 
@@ -134,13 +145,16 @@ The course includes hands-on labs using packet captures of various command and c
 * **Building Secure & Reliable Systems**
 Best Practices for Designing, Implementing and Maintaining Systems (O'Reilly)
 By Heather Adkins, Betsy Beyer, Paul Blankinship, Ana Oprea, Piotr Lewandowski, Adam Stubblefield
-https://static.googleusercontent.com/media/landing.google.com/en//sre/static/pdf/SRS.pdf
+ https://landing.google.com/sre/books/
 
 * **Security Engineering** By Ross Anderson - A guide to building dependable distributed systems. (and Ross Anderson is brilliant //OP editorial) https://www.cl.cam.ac.uk/~rja14/book.html
 
 * **The Cyber Skill Gap** By Vagner Nunes - The Cyber Skill Gap: How To Become A Highly Paid And Sought After Information Security Specialist! (Use COUPON CODE: W4VSPTW8G7 to make it free) https://payhip.com/b/PdkW
 
 * **The Beginner’s Guide to Information Security** By Limor Elbaz - Offers insight and resources to help readers embark on a career in one of the 21st century’s most important—and potentially lucrative—fields. https://www.amazon.com/Beginners-Guide-Information-Security-Kickstart-ebook/dp/B01JTDDSAM
+
+* **Free Springer Textbooks** 
+Valid at least through July, Springer is providing free access to several hundred titles in its eBook collection. Books are available via SpringerLink and can be viewed online or downloaded as PDF or EBUP files. Disciplines include computer science, networking, cryptography, digital forensics, and others. https://link.springer.com/search/page/1?facet-content-type=%22Book%22&package=mat-covid19_textbooks&facet-language=%22En%22&sortOrder=newestFirst&showAll=true 
 
 ## Podcasts
 
@@ -151,6 +165,17 @@ https://static.googleusercontent.com/media/landing.google.com/en//sre/static/pdf
 * **Security Now** - Steve Gibson, the man who coined the term spyware and created the first anti-spyware program, creator of Spinrite and ShieldsUP, discusses the hot topics in security today with Leo Laporte. https://twit.tv/shows/security-now
 
 * **Daily Information Security Podcast ("StormCast”)** Stormcasts are daily 5-10 minute information security threat updates. The podcast is produced each work day, and typically released late in the day to be ready for your morning commute. https://isc.sans.edu/podcast.html
+
+* **ShadowTalk** Threat Intelligence Podcast by Digital Shadow_. The weekly podcast highlights key findings of primary-source research our Intelligence Team is conducting, along with guest speakers discussing the latest threat actors, campaigns, security events and industry news. https://resources.digitalshadows.com/threat-intelligence-podcast-shadowtalk
+
+* **Don't Panic - The Unit 42 Podcast** Don't Panic! is the official podcast from Unit 42 at Palo Alto Networks. We find the big issues that are frustrating cyber security practitioners and help simplify them so they don't need to panic. https://unit42.libsyn.com/
+
+* **Recorded Future** Recorded Future takes you inside the world of cyber threat intelligence. We’re sharing stories from the trenches and the operations floor as well as giving you the skinny on established and emerging adversaries. We also talk current events, technical tradecraft, and offer up insights on the big picture issues in our industry. https://www.recordedfuture.com/resources/podcast/
+
+* **The Cybrary Podcast** Listen in to the Cybrary Podcast where we discuss a range topics from DevSecOps and Ransomware attacks to diversity and how to retain of talent. Entrepreneurs at all stages of their startup companies join us to share their stories and experience, including how to get funding, hiring the best talent, driving sales, and choosing where to base your business.
+https://www.cybrary.it/info/cybrary-podcast/
+
+* **Cyber Life** The Cyber Life podcast is for cyber security (InfoSec) professionals, people trying to break into the industry, or business owners looking to learn how to secure their data. We will talk about many things, like how to get jobs, cover breakdowns of hot topics, and have special guest interviews with the men and women "in the trenches" of the industry. https://redcircle.com/shows/cyber-life
 
 _Below podcasts Added from here: https://infosec-conferences.com/cybersecurity-podcasts/_
 
@@ -179,9 +204,9 @@ _Below podcasts Added from here: https://infosec-conferences.com/cybersecurity-p
 
 ## College Courses (Multi-week w/Enrollment)
 
-* **Cryptography I** -offered by Stanford University - Enrollment til May 11. - Cryptography is an indispensable tool for protecting information in computer systems. In this course you will learn the inner workings of cryptographic systems and how to correctly use them in real-world applications. The course begins with a detailed discussion of how two parties who have a shared secret key can communicate securely when a powerful adversary eavesdrops and tampers with traffic. We will examine many deployed protocols and analyze mistakes in existing systems. The second half of the course discusses public-key techniques that let two parties generate a shared secret key. https://www.coursera.org/learn/crypto
+* **Cryptography I** -offered by Stanford University - Rolling enrollment - Cryptography is an indispensable tool for protecting information in computer systems. In this course you will learn the inner workings of cryptographic systems and how to correctly use them in real-world applications. The course begins with a detailed discussion of how two parties who have a shared secret key can communicate securely when a powerful adversary eavesdrops and tampers with traffic. We will examine many deployed protocols and analyze mistakes in existing systems. The second half of the course discusses public-key techniques that let two parties generate a shared secret key. https://www.coursera.org/learn/crypto
 
-* **Software Security** Enrollment til April 22 -offered by University of Maryland, College Park via Coursera - This course we will explore the foundations of software security. We will consider important software vulnerabilities and attacks that exploit them -- such as buffer overflows, SQL injection, and session hijacking -- and we will consider defenses that prevent or mitigate these attacks, including advanced testing and program analysis techniques. Importantly, we take a "build security in" mentality, considering techniques at each phase of the development cycle that can be used to strengthen the security of software systems. https://www.coursera.org/learn/software-security
+* **Software Security** Rolling enrollment -offered by University of Maryland, College Park via Coursera - This course we will explore the foundations of software security. We will consider important software vulnerabilities and attacks that exploit them -- such as buffer overflows, SQL injection, and session hijacking -- and we will consider defenses that prevent or mitigate these attacks, including advanced testing and program analysis techniques. Importantly, we take a "build security in" mentality, considering techniques at each phase of the development cycle that can be used to strengthen the security of software systems. https://www.coursera.org/learn/software-security
 
 * **Intro to Information Security** Georgia Institute of Technology via Udacity  - Rolling Enrollment.  This course provides a one-semester overview of information security. It is designed to help students with prior computer and programming knowledge — both undergraduate and graduate — understand this important priority in society today. Offered at Georgia Tech as CS 6035 https://www.udacity.com/course/intro-to-information-security--ud459
 
