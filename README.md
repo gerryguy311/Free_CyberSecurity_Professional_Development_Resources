@@ -37,12 +37,6 @@ https://summit.hack.careers/
 
 6. **"Using ATT&CK for Cyber Threat Intelligence Training"** - 4 hour training The goal of this training is for students to understand the following:  at:  https://attack.mitre.org/resources/training/cti/
 
-    * What ATT&CK is and why it’s useful for cyber threat intelligence (CTI)
-    * How to map to ATT&CK from both finished reporting and raw data
-    * Why it’s challenging to store ATT&CK-mapped data and what you should consider when doing that
-    * How to perform CTI analysis using ATT&CK-mapped data
-    * How to make defensive recommendations based on CTI analysis
-
 7. **Coursera** -"Coursera Together: Free online learning during COVID-19" Lots of different types of free training. https://blog.coursera.org/coursera-together-free-online-learning-during-covid-19/
 
 8. **Fortinet Security Appliance Training** Free access to the FortiGate Essentials Training Course and Network Security Expert courses 1 and 2 https://www.fortinet.com/training/cybersecurity-professionals.html
