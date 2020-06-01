@@ -12,9 +12,6 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
   
 ## Conferences
 
-* **Cybersecurity Career Conference 2020** - May 18 - June 06 - Cybersecurity Career Conference 2020 is delivered entirely online. Dip in and watch the specific talks you need to transform your business, or catch them all. It’s up to you! With talks distributed among 13 categories over a period of 12 days, the experts will be sharing their years of knowledge, strategies and tactics. - 
-https://summit.hack.careers/
-
 * **Nahamcon virtual security conference** - June 13 - 14 - NahamCon is a two day virtual hacking conference organized by @_JohnHammod, @NahamSec, @STOKFredrik, and @TheCyberMentor.
 Saturday consists of 7 hours of talks and Sunday is dedicated to 3 different workshops. Check out the schedule for both days down below! - https://nahamcon.splashthat.com/
 
@@ -111,19 +108,6 @@ Saturday consists of 7 hours of talks and Sunday is dedicated to 3 different wor
 
 ## Instructor Led Webinar/ Labs / Workshops
 
-### May
-
-* **Building an AWS Pentest Playground** May 28, 2020, 4:30 PM EST (This is my own live show) Learning offensive cyber skills is always easier hands-on, but how do you attack an environment safely, legally, and on the cheap? Jon Helmus, OSCP joins SimplyCyber live to discuss leveraging AWS as a pentest playground to sharpen your skills quickly and affordably. https://www.linkedin.com/events/buildinganawspentestplayground-simplycyberlive/
-
-* **Measuring Cyber Risk** Bryson Bort of Scythe - Wed, May 27, 2020 2:00 PM - 3:00 PM EDT Good management of cyberspace requires a system of cyber metrics that are transparent, auditable, practical, scalable and the most difficult: widely agreed upon. To that end, we will evaluate various approaches to cyber risk quantification with the aim of informing the development of a public standard for measuring cybersecurity.  One possibility is to use external market performance financial metrics as an indicator of cybersecurity (https://www.lawfareblog.com/assessing-cyber-risk-external-information).  Others rely on internal enterprise analysis. As part of our ongoing work we outline the problem in this webinar and suggest the nature of some of the possible responses. https://register.gotowebinar.com/register/4850890677535682831
-
-* **SANS MIC Talk - Prioritizing OT Security Efforts: The Five Tactical Things to Accomplish While Leadership Defines a Security Program (Don Weber Talk)** May 27 8:30PM EDT - This talk will cover the five tactical things an OT/IT team can do while leadership defines the direction of a security program for the OT environment. It will discuss quick wins that can be accomplished with equipment typically already deployed. These steps will also provide the leadership team with valuable information that will help prioritize future efforts and quickly improve vendor / integrator / MSP requirements for near-term greenfield and upcoming brownfield maintenance projects. https://www.sans.org/webcasts/atmic-talk-prioritizing-ot-security-efforts-tactical-things-accomplish-leadership-defines-security-program-113985
-
-* **Breaching the Cloud Perimeter Training w/ Labs (4-Hours)** - Black Hills Information Security - Thursday, May 28th, 12pm – 5pm EST- You will leave this workshop with new skills for assessing cloud-based infrastructure! https://register.gotowebinar.com/register/1264630092013493773
-
-* **Responding to Incidents in Industrial Control Systems (ICS): Identifying Threats, Reactions and Developing the IR Process** Friday May 29 1:00 PM - How can effective and proven incident response processes identify, mitigate and remediate threats in the ICS environment? In this new webcast with SANS instructor Don C. Weber and representatives Eric Knapp and Matt Wiseman from Honeywell, we will identify ICS threats, look at how incidents can be managed, and provide recommendation for setting up an effective IR program to reduce risk exposure. Attendees will learn how to best apply proven IR programs and techniques.https://www.sans.org/webcasts/responding-incidents-industrial-control-systems-ics-identifying-threats-reactions-developing-ir-process-114525
-
-
 
 ### June
 
@@ -131,6 +115,8 @@ Saturday consists of 7 hours of talks and Sunday is dedicated to 3 different wor
 https://register.gotowebinar.com/register/5406569560803917838?source=BHISdisc
 
 * **Web Security and Bug Bounty Webinar** June 4 1:00 PM GMT (note the time, this is coming from the UK) - Participate in our free “Web Security for Beginners” webinar series. We’ll discuss “Searching for files and directories” on June 4 at 1:00 PM GMT and demonstrate solutions to practice assignments on the Hacktory platform. Our speaker, a cybersecurity expert, a lecturer with ten years of experience, and the CTO at Hacktory, will teach you how to make your web application really secure. https://infosec-conferences.com/events-in-2020/web-security-and-bug-bounty/
+
+* **Applied Purple Teaming: Infrastructure, Threat Optics, and Continuous Improvement** June 6, 11AM-4PM -  brand-new 4-hour free online workshop on how to build a purple team lab. https://attendee.gotowebinar.com/register/7632358227918317070?source=BHISdisc
 
 * **Cyber Security Webinar Series - Session I: Cybersecurity for Small Business** JUNE 11Thu, 11:00 AM - 12:00 PM PDT — These classes serve as a survey in terms of the recommended best practices in use for both commercial and federal information systems. It is important to note that cybersecurity is about controlling access, it is the defensive measures that can be taken to reduce the risk of an attack. The goal of the plan is to impede the attacker, limit the effect of the attack, and recover. https://www.eventbrite.com/e/cyber-security-webinar-series-session-i-cybersecurity-for-small-business-tickets-92155713219?aff=ebdssbonlinesearch
 
