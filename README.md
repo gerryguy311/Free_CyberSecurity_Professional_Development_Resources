@@ -15,7 +15,8 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
 * **Cybersecurity Career Conference 2020** - May 18 - June 06 - Cybersecurity Career Conference 2020 is delivered entirely online. Dip in and watch the specific talks you need to transform your business, or catch them all. It’s up to you! With talks distributed among 13 categories over a period of 12 days, the experts will be sharing their years of knowledge, strategies and tactics. - 
 https://summit.hack.careers/
 
-* **DockerCon LIVE 2020 with theCUBE** - Thursday, May 28, 2020 from 09:00 - 5:00PM GMT-7 - DockerCon is going digital with theCUBE! We’ve designed a 1-day conference that’s free and completely online. You’ll hear from speakers in live interviews with theCUBE, hang out with Docker experts in the live hallway track, and watch recorded sessions while chatting live with the speakers. - https://docker.events.cube365.net/docker/dockercon
+* **Nahamcon virtual security conference** - June 13 - 14 - NahamCon is a two day virtual hacking conference organized by @_JohnHammod, @NahamSec, @STOKFredrik, and @TheCyberMentor.
+Saturday consists of 7 hours of talks and Sunday is dedicated to 3 different workshops. Check out the schedule for both days down below! - https://nahamcon.splashthat.com/
 
 * **DevSecCon24** - June 15 - DevSecCon24 is the first virtual conference in the DevSecCon global conference series – all from the comfort of your home or office. Join us for 24 hours of inspiring talks about DevSecOps – the practice of building security into development processes. This is your chance to learn from key industry figures in a virtual environment and learn how DevOps and Security can work together to make continuously secure development a reality. - https://www.devseccon.com/devseccon24-2020/
 
