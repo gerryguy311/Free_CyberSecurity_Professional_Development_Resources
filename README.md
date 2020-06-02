@@ -61,11 +61,6 @@ Saturday consists of 7 hours of talks and Sunday is dedicated to 3 different wor
 
 19. **Udemy** - Online learning course platform "collection from the free courses in our learning marketplace" https://www.udemy.com/courses/free/
 
-
-20. **Linux Fundamentals** Linux Fundamentals LiveLessons has more than 10 hours of comprehensive video training for you to have everything you need to build a strong understanding of working with Linux. https://pearsonadvance.com/courses/linux-fundamentals/
-
-21. **AWS Certified Cloud Practitioner** Seven hours of video instruction covering the fundamentals of cloud computing; AWS core services such as Amazon EC2, Amazon RDS, and Amazon S3; security; architecture design principles; best practices; and cost management.AWS Certified Cloud Practitioner Complete Video Course is a video product designed to help viewers understand Amazon Web Services at a high level, introduce cloud computing concepts, and key AWS services, and prepare them for the exam according to the certification exam guide published by Amazon Web Services. https://pearsonadvance.com/courses/aws-certified-cloud-practitioner/
-
 22. **Enroll Now Free: PCAP Programming Essentials in Python** https://www.netacad.com/courses/programming/pcap-programming-essentials-python Python is the very versatile, object-oriented programming language used by startups and tech giants, Google, Facebook, Dropbox and IBM. Python is also recommended for aspiring young developers who are interested in pursuing careers in Security, Networking and Internet-of-Things. Once you complete this course, you are ready to take the PCAP – Certified Associate in Python programming. No prior knowledge of programming is required. 
 
 23. **Packt Web Development Course** Web Development Get to grips with the fundamentals of the modern web Unlock one year of free online access. https://courses.packtpub.com/pages/free?fbclid=IwAR1FtKQcYK8ycCmBMXaBGvW_7SgPVDMKMaRVwXYcSbiwvMfp75gazxRZlzY
