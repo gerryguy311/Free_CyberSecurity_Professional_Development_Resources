@@ -113,6 +113,8 @@ https://register.gotowebinar.com/register/5406569560803917838?source=BHISdisc
 
 * **Applied Purple Teaming: Infrastructure, Threat Optics, and Continuous Improvement** June 6, 11AM-4PM -  brand-new 4-hour free online workshop on how to build a purple team lab. https://attendee.gotowebinar.com/register/7632358227918317070?source=BHISdisc
 
+* **Pentesting for IT Professionals** Wed, Jun 10, 2020, 8:00 AM – Thu, Jun 11, 2020, 4:30 PM EDT This workshop is designed to introduce IT and cyber security professionals and students to the mindset and tactics of malicious attackers. https://www.eventbrite.com/e/penetration-testing-for-it-professionals-2-day-workshop-tickets-89344587065
+
 * **Cyber Security Webinar Series - Session I: Cybersecurity for Small Business** JUNE 11Thu, 11:00 AM - 12:00 PM PDT — These classes serve as a survey in terms of the recommended best practices in use for both commercial and federal information systems. It is important to note that cybersecurity is about controlling access, it is the defensive measures that can be taken to reduce the risk of an attack. The goal of the plan is to impede the attacker, limit the effect of the attack, and recover. https://www.eventbrite.com/e/cyber-security-webinar-series-session-i-cybersecurity-for-small-business-tickets-92155713219?aff=ebdssbonlinesearch
 
 
