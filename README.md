@@ -19,6 +19,8 @@ Saturday consists of 7 hours of talks and Sunday is dedicated to 3 different wor
 
 * **FWD:CLOUDSEC** June 29 - a new cloud security practitioners conference which will be held online - https://fwdcloudsec.org/
 
+* **Reversing 2020** June 30 - REVERSING 2020 is where Threat Hunters and Researchers come together to network and learn everything YARA. Here both thought leaders and practitioners will share YARA best practices to assist you in how to best hunt, identify and classify malware samples. https://register.reversinglabs.com/reversing-2020
+
 * **RSAC 2020 APJ** July 15 – 17 "Transforming RSA Conference 2020 Asia Pacific & Japan into a free virtual learning experience, taking place 15 – 17 July. We have many exciting and relevant sessions and keynotes planned, featuring some of the world’s leading cybersecurity experts." https://go.rsaconference.com/rsac-apj2020/
 
 * **DEFCON 28** Aug 7-9 2020 - This is a very well known, premiere conference within the cybersecurity space. Check for more information as there will be villages, events, parties, talks, etc. You cannot register yet, but details here: https://www.defcon.org/html/defcon-28/dc-28-index.html
