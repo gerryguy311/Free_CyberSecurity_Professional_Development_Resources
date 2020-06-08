@@ -108,12 +108,6 @@ Saturday consists of 7 hours of talks and Sunday is dedicated to 3 different wor
 
 ### June
 
-* **Durable Versus Ephemeral Threat Intel w/ John Strand** June 4, 1:00PM-2:00PM EST - John Strand will break down some of the cool new projects that are focusing on durable threat intelligence. This is key, because many intel feeds are nothing more than domains, hashes and IP addresses. However, with durable threat intel we see attack techniques that are highly effective, yet are not as easy to block.  For example, application white listing abuse, connection profiles (RITA!), PowerShell encoding are all examples of detects you can use that are not specific to a point in time attack methodology. John will also share some very cool open source projects that are approaching attacks in this way using ELK.
-https://register.gotowebinar.com/register/5406569560803917838?source=BHISdisc
-
-* **Web Security and Bug Bounty Webinar** June 4 1:00 PM GMT (note the time, this is coming from the UK) - Participate in our free “Web Security for Beginners” webinar series. We’ll discuss “Searching for files and directories” on June 4 at 1:00 PM GMT and demonstrate solutions to practice assignments on the Hacktory platform. Our speaker, a cybersecurity expert, a lecturer with ten years of experience, and the CTO at Hacktory, will teach you how to make your web application really secure. https://infosec-conferences.com/events-in-2020/web-security-and-bug-bounty/
-
-* **Applied Purple Teaming: Infrastructure, Threat Optics, and Continuous Improvement** June 6, 11AM-4PM -  brand-new 4-hour free online workshop on how to build a purple team lab. https://attendee.gotowebinar.com/register/7632358227918317070?source=BHISdisc
 
 * **Pentesting for IT Professionals** Wed, Jun 10, 2020, 8:00 AM – Thu, Jun 11, 2020, 4:30 PM EDT This workshop is designed to introduce IT and cyber security professionals and students to the mindset and tactics of malicious attackers. https://www.eventbrite.com/e/penetration-testing-for-it-professionals-2-day-workshop-tickets-89344587065
 
