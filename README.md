@@ -105,14 +105,15 @@ Saturday consists of 7 hours of talks and Sunday is dedicated to 3 different wor
 
 ## Instructor Led Webinar/ Labs / Workshops
 
-
 ### June
-
 
 * **Pentesting for IT Professionals** Wed, Jun 10, 2020, 8:00 AM – Thu, Jun 11, 2020, 4:30 PM EDT This workshop is designed to introduce IT and cyber security professionals and students to the mindset and tactics of malicious attackers. https://www.eventbrite.com/e/penetration-testing-for-it-professionals-2-day-workshop-tickets-89344587065
 
 * **Cyber Security Webinar Series - Session I: Cybersecurity for Small Business** JUNE 11Thu, 11:00 AM - 12:00 PM PDT — These classes serve as a survey in terms of the recommended best practices in use for both commercial and federal information systems. It is important to note that cybersecurity is about controlling access, it is the defensive measures that can be taken to reduce the risk of an attack. The goal of the plan is to impede the attacker, limit the effect of the attack, and recover. https://www.eventbrite.com/e/cyber-security-webinar-series-session-i-cybersecurity-for-small-business-tickets-92155713219?aff=ebdssbonlinesearch
 
+### July
+
+* **Getting Started in Security with BHIS and MITRE ATT&CK w/ John Strand** ($0-395, Pay What You Want) Mon, Jul 27, 2020, 11:00 AM - Thu, Jul 30, 2020, 4:00 PM EDT - "This 16-hour (4-days, 4-hour sessions) information security training class is designed for people who are new to computer security. We will cover the core fundamentals with lots of hands-on labs demonstrating the attacks and defenses every security professional must know to be successful." https://wildwesthackinfest.com/online-training/getting-started-in-security-with-bhis-and-mitre-attk/
 
 ## Books
 * **Building Secure & Reliable Systems**
