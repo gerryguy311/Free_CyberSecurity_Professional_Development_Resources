@@ -12,6 +12,9 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
   
 ## Conferences
 
+* **BSides Greenville 2020** - June 13 - The BSides Security conference has 4 tracks with different talks - 
+http://www.securitybsides.com/w/page/135708132/BSides%20Greenville%202020
+
 * **Nahamcon virtual security conference** - June 13 - 14 - NahamCon is a two day virtual hacking conference organized by @_JohnHammod, @NahamSec, @STOKFredrik, and @TheCyberMentor.
 Saturday consists of 7 hours of talks and Sunday is dedicated to 3 different workshops. Check out the schedule for both days down below! - https://nahamcon.splashthat.com/
 
