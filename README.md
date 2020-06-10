@@ -28,7 +28,10 @@ Saturday consists of 7 hours of talks and Sunday is dedicated to 3 different wor
 
 * **DEFCON 28** Aug 7-9 2020 - This is a very well known, premiere conference within the cybersecurity space. Check for more information as there will be villages, events, parties, talks, etc. You cannot register yet, but details here: https://www.defcon.org/html/defcon-28/dc-28-index.html
 
+* **Tactical Edge Virtual Summit 2020** August 11-14 2020 - The Tactical Edge event covers a multitude of important cybersecurity topics, from the importance of awareness to pryvacy to new technological solutions using Artificial Intelligence and Machine Learning. https://tacticaledge.co/en/
+
 * **JUNC 2020** 9/29/2020-10/1/2020 - Not entirely a security conference, but there are sub-sections for securing Apple devices. Apple IT administrators from around the world have rallied at the Jamf Nation User Conference (JNUC) for community presentations, deep-dive education sessions and expert product insights.  https://www.jamf.com/events/jamf-nation-user-conference/2020/faq/
+
 
 ## Training
 
