@@ -20,6 +20,8 @@ Saturday consists of 7 hours of talks and Sunday is dedicated to 3 different wor
 
 * **DevSecCon24** - June 15 - DevSecCon24 is the first virtual conference in the DevSecCon global conference series – all from the comfort of your home or office. Join us for 24 hours of inspiring talks about DevSecOps – the practice of building security into development processes. This is your chance to learn from key industry figures in a virtual environment and learn how DevOps and Security can work together to make continuously secure development a reality. - https://www.devseccon.com/devseccon24-2020/
 
+* **OSSEC VirtualCon** June 24, 25 - The virtual conference is open to the OSSEC community to share technical insights, lessons learned, and best practices for OSSEC. https://atomicorp.com/ossec-conference-2020/
+
 * **BREAKING SECURITY AWARENESS VIRTUAL CONFERENCE** - June 25 - WE'RE BREAKING SECURITY AWARENESS TO WAGE WAR ON HUMAN RISK, THE INTELLIGENT WAY. The old school method of security awareness for compliance isn't getting the job done and it may be hurting us. We are bringing together leaders from a diverse set of experiences to bridge the gap from compliance to behavior change and effective risk reduction while covering: Threat Intelligence, Gamification, Human Targeting, Behavioral Design - https://www.breakingsecurityawareness.com/
 
 * **FWD:CLOUDSEC** June 29 - a new cloud security practitioners conference which will be held online - https://fwdcloudsec.org/
