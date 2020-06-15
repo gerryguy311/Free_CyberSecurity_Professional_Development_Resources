@@ -12,13 +12,10 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
   
 ## Conferences
 
-* **BSides Greenville 2020** - June 13 - The BSides Security conference has 4 tracks with different talks - 
-http://www.securitybsides.com/w/page/135708132/BSides%20Greenville%202020
-
-* **Nahamcon virtual security conference** - June 13 - 14 - NahamCon is a two day virtual hacking conference organized by @_JohnHammod, @NahamSec, @STOKFredrik, and @TheCyberMentor.
-Saturday consists of 7 hours of talks and Sunday is dedicated to 3 different workshops. Check out the schedule for both days down below! - https://nahamcon.splashthat.com/
 
 * **DevSecCon24** - June 15 - DevSecCon24 is the first virtual conference in the DevSecCon global conference series – all from the comfort of your home or office. Join us for 24 hours of inspiring talks about DevSecOps – the practice of building security into development processes. This is your chance to learn from key industry figures in a virtual environment and learn how DevOps and Security can work together to make continuously secure development a reality. - https://www.devseccon.com/devseccon24-2020/
+
+* **Splunk Live** June 16 - This free interactive experience will help you make better, faster decisions. Learn about Splunk and optimize how you turn data into action with the Data-to-Everything Platform. https://www.splunk.com/en_us/events/splunklive.html
 
 * **OSSEC VirtualCon** June 24, 25 - The virtual conference is open to the OSSEC community to share technical insights, lessons learned, and best practices for OSSEC. https://atomicorp.com/ossec-conference-2020/
 
@@ -117,9 +114,7 @@ Saturday consists of 7 hours of talks and Sunday is dedicated to 3 different wor
 
 ### June
 
-* **Pentesting for IT Professionals** Wed, Jun 10, 2020, 8:00 AM – Thu, Jun 11, 2020, 4:30 PM EDT This workshop is designed to introduce IT and cyber security professionals and students to the mindset and tactics of malicious attackers. https://www.eventbrite.com/e/penetration-testing-for-it-professionals-2-day-workshop-tickets-89344587065
 
-* **Cyber Security Webinar Series - Session I: Cybersecurity for Small Business** JUNE 11Thu, 11:00 AM - 12:00 PM PDT — These classes serve as a survey in terms of the recommended best practices in use for both commercial and federal information systems. It is important to note that cybersecurity is about controlling access, it is the defensive measures that can be taken to reduce the risk of an attack. The goal of the plan is to impede the attacker, limit the effect of the attack, and recover. https://www.eventbrite.com/e/cyber-security-webinar-series-session-i-cybersecurity-for-small-business-tickets-92155713219?aff=ebdssbonlinesearch
 
 ### July
 
