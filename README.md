@@ -12,9 +12,6 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
   
 ## Conferences
 
-
-* **DevSecCon24** - June 15 - DevSecCon24 is the first virtual conference in the DevSecCon global conference series – all from the comfort of your home or office. Join us for 24 hours of inspiring talks about DevSecOps – the practice of building security into development processes. This is your chance to learn from key industry figures in a virtual environment and learn how DevOps and Security can work together to make continuously secure development a reality. - https://www.devseccon.com/devseccon24-2020/
-
 * **Splunk Live** June 16 - This free interactive experience will help you make better, faster decisions. Learn about Splunk and optimize how you turn data into action with the Data-to-Everything Platform. https://www.splunk.com/en_us/events/splunklive.html
 
 * **OSSEC VirtualCon** June 24, 25 - The virtual conference is open to the OSSEC community to share technical insights, lessons learned, and best practices for OSSEC. https://atomicorp.com/ossec-conference-2020/
@@ -114,7 +111,10 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
 
 ### June
 
+* **BHIS Webapp Pentesting webcast from tester BB King** Jun 18, 2020, 2:00 PM EDT - In this webcast - BB King will talk about what JSON Web Tokens (JWT) are, why they're so controversial, and how to test for their major weaknesses. Then, using OWSAP's Juice Shop as a target, he'll show you a straightforward method for exploiting them that you can use on your own next webapp pentest. Please register for -- Modern Webapp Pentesting - How to Attack a JWT w/ BB King (1-Hour) -- on Jun 18, 2020, 2:00 PM EDT at: https://attendee.gotowebinar.com/register/2135178321029602573
 
+
+We will use the Black Hills Infosec Discord discussion sever for live-chat during the webcast: https://discord.gg/aHHh3u5
 
 ### July
 
