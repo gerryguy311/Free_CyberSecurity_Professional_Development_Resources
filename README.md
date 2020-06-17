@@ -24,6 +24,8 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
 
 * **RSAC 2020 APJ** July 15 – 17 "Transforming RSA Conference 2020 Asia Pacific & Japan into a free virtual learning experience, taking place 15 – 17 July. We have many exciting and relevant sessions and keynotes planned, featuring some of the world’s leading cybersecurity experts." https://go.rsaconference.com/rsac-apj2020/
 
+* **SANS DFIR Summit** DFIR Summit & Training 2020 - Live Online Virtual, US Eastern | Thu, Jul 16 - Sat, Jul 25, 2020 https://www.sans.org/event/digital-forensics-summit-2020/summit-agenda
+
 * **DEFCON 28** Aug 7-9 2020 - This is a very well known, premiere conference within the cybersecurity space. Check for more information as there will be villages, events, parties, talks, etc. You cannot register yet, but details here: https://www.defcon.org/html/defcon-28/dc-28-index.html
 
 * **Tactical Edge Virtual Summit 2020** August 11-14 2020 - The Tactical Edge event covers a multitude of important cybersecurity topics, from the importance of awareness to pryvacy to new technological solutions using Artificial Intelligence and Machine Learning. https://tacticaledge.co/en/
