@@ -12,8 +12,6 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
   
 ## Conferences
 
-* **Splunk Live** June 16 - This free interactive experience will help you make better, faster decisions. Learn about Splunk and optimize how you turn data into action with the Data-to-Everything Platform. https://www.splunk.com/en_us/events/splunklive.html
-
 * **OSSEC VirtualCon** June 24, 25 - The virtual conference is open to the OSSEC community to share technical insights, lessons learned, and best practices for OSSEC. https://atomicorp.com/ossec-conference-2020/
 
 * **BREAKING SECURITY AWARENESS VIRTUAL CONFERENCE** - June 25 - WE'RE BREAKING SECURITY AWARENESS TO WAGE WAR ON HUMAN RISK, THE INTELLIGENT WAY. The old school method of security awareness for compliance isn't getting the job done and it may be hurting us. We are bringing together leaders from a diverse set of experiences to bridge the gap from compliance to behavior change and effective risk reduction while covering: Threat Intelligence, Gamification, Human Targeting, Behavioral Design - https://www.breakingsecurityawareness.com/
@@ -67,8 +65,6 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
 
 17. **Open P-TECH**	Free digital learning on the tech skills of tomorrow. https://www.ptech.org/open-p-tech/
 
-18. **Autopsy Digital Forensics** - FREE ($495 value) Autopsy is a Windows-based desktop digital forensics tool that is free, open source, and has all of the features that you’d normally find in commercial digital forensics tools. It is extensible and comes with features that include keyword search, hash matching, registry analysis, web analytics, and more. Offer ends June 1, 2020. https://www.autopsy.com/support/training/covid-19-free-autopsy-training/ 
-
 19. **Udemy** - Online learning course platform "collection from the free courses in our learning marketplace" https://www.udemy.com/courses/free/
 
 22. **Enroll Now Free: PCAP Programming Essentials in Python** https://www.netacad.com/courses/programming/pcap-programming-essentials-python Python is the very versatile, object-oriented programming language used by startups and tech giants, Google, Facebook, Dropbox and IBM. Python is also recommended for aspiring young developers who are interested in pursuing careers in Security, Networking and Internet-of-Things. Once you complete this course, you are ready to take the PCAP – Certified Associate in Python programming. No prior knowledge of programming is required. 
@@ -115,10 +111,6 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
 
 ### June
 
-* **BHIS Webapp Pentesting webcast from tester BB King** Jun 18, 2020, 2:00 PM EDT - In this webcast - BB King will talk about what JSON Web Tokens (JWT) are, why they're so controversial, and how to test for their major weaknesses. Then, using OWSAP's Juice Shop as a target, he'll show you a straightforward method for exploiting them that you can use on your own next webapp pentest. Please register for -- Modern Webapp Pentesting - How to Attack a JWT w/ BB King (1-Hour) -- on Jun 18, 2020, 2:00 PM EDT at: https://attendee.gotowebinar.com/register/2135178321029602573
-
-
-We will use the Black Hills Infosec Discord discussion sever for live-chat during the webcast: https://discord.gg/aHHh3u5
 
 ### July
 
