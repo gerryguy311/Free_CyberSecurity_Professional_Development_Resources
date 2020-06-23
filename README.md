@@ -16,6 +16,8 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
 
 * **BREAKING SECURITY AWARENESS VIRTUAL CONFERENCE** - June 25 - WE'RE BREAKING SECURITY AWARENESS TO WAGE WAR ON HUMAN RISK, THE INTELLIGENT WAY. The old school method of security awareness for compliance isn't getting the job done and it may be hurting us. We are bringing together leaders from a diverse set of experiences to bridge the gap from compliance to behavior change and effective risk reduction while covering: Threat Intelligence, Gamification, Human Targeting, Behavioral Design - https://www.breakingsecurityawareness.com/
 
+* **Cyber June'Gle Virtual Summit** June 27-28, 2020. RedTeamVillage and CTFs. Runs for approximately 30 hours straight. Multiple time zones, speakers and trainers from all over the world! https://junegle.io/
+
 * **FWD:CLOUDSEC** June 29 - a new cloud security practitioners conference which will be held online - https://fwdcloudsec.org/
 
 * **Reversing 2020** June 30 - REVERSING 2020 is where Threat Hunters and Researchers come together to network and learn everything YARA. Here both thought leaders and practitioners will share YARA best practices to assist you in how to best hunt, identify and classify malware samples. https://register.reversinglabs.com/reversing-2020
