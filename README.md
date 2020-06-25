@@ -12,10 +12,6 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
   
 ## Conferences
 
-* **OSSEC VirtualCon** June 24, 25 - The virtual conference is open to the OSSEC community to share technical insights, lessons learned, and best practices for OSSEC. https://atomicorp.com/ossec-conference-2020/
-
-* **BREAKING SECURITY AWARENESS VIRTUAL CONFERENCE** - June 25 - WE'RE BREAKING SECURITY AWARENESS TO WAGE WAR ON HUMAN RISK, THE INTELLIGENT WAY. The old school method of security awareness for compliance isn't getting the job done and it may be hurting us. We are bringing together leaders from a diverse set of experiences to bridge the gap from compliance to behavior change and effective risk reduction while covering: Threat Intelligence, Gamification, Human Targeting, Behavioral Design - https://www.breakingsecurityawareness.com/
-
 * **Cyber June'Gle Virtual Summit** June 27-28, 2020. RedTeamVillage and CTFs. Runs for approximately 30 hours straight. Multiple time zones, speakers and trainers from all over the world! https://junegle.io/
 
 * **FWD:CLOUDSEC** June 29 - a new cloud security practitioners conference which will be held online - https://fwdcloudsec.org/
@@ -117,6 +113,8 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
 ### July
 
 * **Getting Started in Security with BHIS and MITRE ATT&CK w/ John Strand** ($0-395, Pay What You Want) Mon, Jul 27, 2020, 11:00 AM - Thu, Jul 30, 2020, 4:00 PM EDT - "This 16-hour (4-days, 4-hour sessions) information security training class is designed for people who are new to computer security. We will cover the core fundamentals with lots of hands-on labs demonstrating the attacks and defenses every security professional must know to be successful." https://wildwesthackinfest.com/online-training/getting-started-in-security-with-bhis-and-mitre-attk/
+
+* **Getting Started in Security with BHIS and MITRE ATT&CK**  July 27-30 PAY WHAT YOU WANT! John Strand @strandjs is teaching a paid ($0 - $395) 4-day, 4-Hour sessions (16-hours), training course on —  — | Learn more: https://wildwesthackinfest.com/online-training/getting-started-in-security-with-bhis-and-mitre-attk/
 
 ## Books
 * **Building Secure & Reliable Systems**
