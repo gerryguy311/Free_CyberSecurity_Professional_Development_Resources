@@ -114,7 +114,10 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
 
 * **Getting Started in Security with BHIS and MITRE ATT&CK w/ John Strand** ($0-395, Pay What You Want) Mon, Jul 27, 2020, 11:00 AM - Thu, Jul 30, 2020, 4:00 PM EDT - "This 16-hour (4-days, 4-hour sessions) information security training class is designed for people who are new to computer security. We will cover the core fundamentals with lots of hands-on labs demonstrating the attacks and defenses every security professional must know to be successful." https://wildwesthackinfest.com/online-training/getting-started-in-security-with-bhis-and-mitre-attk/
 
-* **Getting Started in Security with BHIS and MITRE ATT&CK**  July 27-30 PAY WHAT YOU WANT! John Strand @strandjs is teaching a paid ($0 - $395) 4-day, 4-Hour sessions (16-hours), training course on —  — | Learn more: https://wildwesthackinfest.com/online-training/getting-started-in-security-with-bhis-and-mitre-attk/
+
+### August
+
+* **Cyber Threat Hunting w/ John Strand - August Session (4-Hours)** Tue, Aug 11, 2020 11:45 AM - 4:00 PM EDT - By the end of the course, you’ll understand the tools and techniques needed to perform compromise assessments within your own environment. While the course will be available later for download, live attendees will receive a "Cyber Security Threat Hunter Level-1" certificate.https://register.gotowebinar.com/register/4039466489309086736?source=BHISdisc
 
 ## Books
 * **Building Secure & Reliable Systems**
