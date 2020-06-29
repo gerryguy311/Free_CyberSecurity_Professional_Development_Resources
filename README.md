@@ -114,6 +114,8 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
 
 * **Getting Started in Security with BHIS and MITRE ATT&CK w/ John Strand** ($0-395, Pay What You Want) Mon, Jul 27, 2020, 11:00 AM - Thu, Jul 30, 2020, 4:00 PM EDT - "This 16-hour (4-days, 4-hour sessions) information security training class is designed for people who are new to computer security. We will cover the core fundamentals with lots of hands-on labs demonstrating the attacks and defenses every security professional must know to be successful." https://wildwesthackinfest.com/online-training/getting-started-in-security-with-bhis-and-mitre-attk/
 
+* **Fullstack Cyber Capture the Flag (CTF)** Tue, July 28, 2020 6:00 PM – 9:00 PM EDT CMD+CTRL Cyber Ranges are intentionally vulnerable applications and websites that tempt players to steal money, view their boss’s salary, buy expensive items for free, and conduct other nefarious acts. Hundreds of vulnerabilities, common to most business applications, lay waiting. https://www.eventbrite.com/e/fullstack-cyber-capture-the-flag-ctf-tickets-111187360388
+
 
 ### August
 
