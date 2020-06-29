@@ -7,25 +7,29 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
   2. TRAINING
   3. INSTRUCTOR LED WEBINAR/LABS/WORKSHOPS
   4. BOOKS
-  5. PODCASTS
-  6. College Courses (Multi-week w/Enrollment)
+  5. College Courses (Multi-week w/Enrollment)
+  6. PODCASTS
   
 ## Conferences
 
-* **Cybersecurity Career Conference 2020** - May 18 - June 06 - Cybersecurity Career Conference 2020 is delivered entirely online. Dip in and watch the specific talks you need to transform your business, or catch them all. It’s up to you! With talks distributed among 13 categories over a period of 12 days, the experts will be sharing their years of knowledge, strategies and tactics. - 
-https://summit.hack.careers/
-
-* **DockerCon LIVE 2020 with theCUBE** - Thursday, May 28, 2020 from 09:00 - 5:00PM GMT-7 - DockerCon is going digital with theCUBE! We’ve designed a 1-day conference that’s free and completely online. You’ll hear from speakers in live interviews with theCUBE, hang out with Docker experts in the live hallway track, and watch recorded sessions while chatting live with the speakers. - https://docker.events.cube365.net/docker/dockercon
-
-* **DevSecCon24** - June 15 - DevSecCon24 is the first virtual conference in the DevSecCon global conference series – all from the comfort of your home or office. Join us for 24 hours of inspiring talks about DevSecOps – the practice of building security into development processes. This is your chance to learn from key industry figures in a virtual environment and learn how DevOps and Security can work together to make continuously secure development a reality. - https://www.devseccon.com/devseccon24-2020/
+* **Cyber June'Gle Virtual Summit** June 27-28, 2020. RedTeamVillage and CTFs. Runs for approximately 30 hours straight. Multiple time zones, speakers and trainers from all over the world! https://junegle.io/
 
 * **FWD:CLOUDSEC** June 29 - a new cloud security practitioners conference which will be held online - https://fwdcloudsec.org/
 
+* **Reversing 2020** June 30 - REVERSING 2020 is where Threat Hunters and Researchers come together to network and learn everything YARA. Here both thought leaders and practitioners will share YARA best practices to assist you in how to best hunt, identify and classify malware samples. https://register.reversinglabs.com/reversing-2020
+
 * **RSAC 2020 APJ** July 15 – 17 "Transforming RSA Conference 2020 Asia Pacific & Japan into a free virtual learning experience, taking place 15 – 17 July. We have many exciting and relevant sessions and keynotes planned, featuring some of the world’s leading cybersecurity experts." https://go.rsaconference.com/rsac-apj2020/
+
+* **SANS DFIR Summit** DFIR Summit & Training 2020 - Live Online Virtual, US Eastern | Thu, Jul 16 - Sat, Jul 25, 2020 https://www.sans.org/event/digital-forensics-summit-2020/summit-agenda
 
 * **DEFCON 28** Aug 7-9 2020 - This is a very well known, premiere conference within the cybersecurity space. Check for more information as there will be villages, events, parties, talks, etc. You cannot register yet, but details here: https://www.defcon.org/html/defcon-28/dc-28-index.html
 
+* **Tactical Edge Virtual Summit 2020** August 11-14 2020 - The Tactical Edge event covers a multitude of important cybersecurity topics, from the importance of awareness to pryvacy to new technological solutions using Artificial Intelligence and Machine Learning. https://tacticaledge.co/en/
+
 * **JUNC 2020** 9/29/2020-10/1/2020 - Not entirely a security conference, but there are sub-sections for securing Apple devices. Apple IT administrators from around the world have rallied at the Jamf Nation User Conference (JNUC) for community presentations, deep-dive education sessions and expert product insights.  https://www.jamf.com/events/jamf-nation-user-conference/2020/faq/
+
+* **SUMMERCON 2020** -Archived- Summercon is one of the oldest hacker conventions, and the longest running such conference in America. It helped set a precedent for more modern "cons" such as H.O.P.E. and DEF CON, although it has remained smaller and more personal.  https://youtu.be/uVbrxMTrp0k
+
 
 ## Training
 
@@ -36,12 +40,6 @@ https://summit.hack.careers/
 5.	**SANS Faculty Free Tools	List of OSS** developed by SANS staff.	https://www.sans.org/media/free/free-faculty-tools.pdf?msc=sans-free-lp
 
 6. **"Using ATT&CK for Cyber Threat Intelligence Training"** - 4 hour training The goal of this training is for students to understand the following:  at:  https://attack.mitre.org/resources/training/cti/
-
-    * What ATT&CK is and why it’s useful for cyber threat intelligence (CTI)
-    * How to map to ATT&CK from both finished reporting and raw data
-    * Why it’s challenging to store ATT&CK-mapped data and what you should consider when doing that
-    * How to perform CTI analysis using ATT&CK-mapped data
-    * How to make defensive recommendations based on CTI analysis
 
 7. **Coursera** -"Coursera Together: Free online learning during COVID-19" Lots of different types of free training. https://blog.coursera.org/coursera-together-free-online-learning-during-covid-19/
 
@@ -65,14 +63,7 @@ https://summit.hack.careers/
 
 17. **Open P-TECH**	Free digital learning on the tech skills of tomorrow. https://www.ptech.org/open-p-tech/
 
-18. **Autopsy Digital Forensics** - FREE ($495 value) Autopsy is a Windows-based desktop digital forensics tool that is free, open source, and has all of the features that you’d normally find in commercial digital forensics tools. It is extensible and comes with features that include keyword search, hash matching, registry analysis, web analytics, and more. Offer ends June 1, 2020. https://www.autopsy.com/support/training/covid-19-free-autopsy-training/ 
-
 19. **Udemy** - Online learning course platform "collection from the free courses in our learning marketplace" https://www.udemy.com/courses/free/
-
-
-20. **Linux Fundamentals** Linux Fundamentals LiveLessons has more than 10 hours of comprehensive video training for you to have everything you need to build a strong understanding of working with Linux. https://pearsonadvance.com/courses/linux-fundamentals/
-
-21. **AWS Certified Cloud Practitioner** Seven hours of video instruction covering the fundamentals of cloud computing; AWS core services such as Amazon EC2, Amazon RDS, and Amazon S3; security; architecture design principles; best practices; and cost management.AWS Certified Cloud Practitioner Complete Video Course is a video product designed to help viewers understand Amazon Web Services at a high level, introduce cloud computing concepts, and key AWS services, and prepare them for the exam according to the certification exam guide published by Amazon Web Services. https://pearsonadvance.com/courses/aws-certified-cloud-practitioner/
 
 22. **Enroll Now Free: PCAP Programming Essentials in Python** https://www.netacad.com/courses/programming/pcap-programming-essentials-python Python is the very versatile, object-oriented programming language used by startups and tech giants, Google, Facebook, Dropbox and IBM. Python is also recommended for aspiring young developers who are interested in pursuing careers in Security, Networking and Internet-of-Things. Once you complete this course, you are ready to take the PCAP – Certified Associate in Python programming. No prior knowledge of programming is required. 
 
@@ -116,30 +107,17 @@ https://summit.hack.careers/
 
 ## Instructor Led Webinar/ Labs / Workshops
 
-### May
-
-* **Building a Phishing Attacker Platform** (30 minutes) - (This is me) Gerald Auger - Thursday, May 21, 2020 4:30 PM - This live technical demo will build a Kali Linux box on an AWS platform, leverage Blackeye to build a Phishing Platform, and Demonstrate a Phishing Attack from both Victim and Attacker perspective. This will be an entertaining and informative live lab, with the intent to provide cyber professionals a capability to enhance their phishing awareness training. I'll be livestreaming on LinkedIn and Facebook Live (first time for FB Live). https://www.linkedin.com/events/simplycyberlive-techwalkthrough-phishingfromattack/
-
-* **How to Social Engineer Your Way into Your Dream Job: Pandemic Edition (1-Hour)** - Black Hills Information Security - Thursday, May 21, 2020 1:00 PM - 2:00 Pm EDT - Job hunting? Looking for a career change? Still in college and want to know how to get started now in your career? Have an hour free on a Thursday afternoon? If you answered yes to any of these questions, this might be the BHIS webcast for you. https://register.gotowebinar.com/register/3770565527020529167
-
-* **Measuring Cyber Risk** Bryson Bort of Scythe - Wed, May 27, 2020 2:00 PM - 3:00 PM EDT Good management of cyberspace requires a system of cyber metrics that are transparent, auditable, practical, scalable and the most difficult: widely agreed upon. To that end, we will evaluate various approaches to cyber risk quantification with the aim of informing the development of a public standard for measuring cybersecurity.  One possibility is to use external market performance financial metrics as an indicator of cybersecurity (https://www.lawfareblog.com/assessing-cyber-risk-external-information).  Others rely on internal enterprise analysis. As part of our ongoing work we outline the problem in this webinar and suggest the nature of some of the possible responses. https://register.gotowebinar.com/register/4850890677535682831
-
-* **SANS MIC Talk - Prioritizing OT Security Efforts: The Five Tactical Things to Accomplish While Leadership Defines a Security Program (Don Weber Talk)** May 27 8:30PM EDT - This talk will cover the five tactical things an OT/IT team can do while leadership defines the direction of a security program for the OT environment. It will discuss quick wins that can be accomplished with equipment typically already deployed. These steps will also provide the leadership team with valuable information that will help prioritize future efforts and quickly improve vendor / integrator / MSP requirements for near-term greenfield and upcoming brownfield maintenance projects. https://www.sans.org/webcasts/atmic-talk-prioritizing-ot-security-efforts-tactical-things-accomplish-leadership-defines-security-program-113985
-
-* **Breaching the Cloud Perimeter Training w/ Labs (4-Hours)** - Black Hills Information Security - Thursday, May 28th, 12pm – 5pm EST- You will leave this workshop with new skills for assessing cloud-based infrastructure! https://register.gotowebinar.com/register/1264630092013493773
-
-* **Responding to Incidents in Industrial Control Systems (ICS): Identifying Threats, Reactions and Developing the IR Process** Friday May 29 1:00 PM - How can effective and proven incident response processes identify, mitigate and remediate threats in the ICS environment? In this new webcast with SANS instructor Don C. Weber and representatives Eric Knapp and Matt Wiseman from Honeywell, we will identify ICS threats, look at how incidents can be managed, and provide recommendation for setting up an effective IR program to reduce risk exposure. Attendees will learn how to best apply proven IR programs and techniques.https://www.sans.org/webcasts/responding-incidents-industrial-control-systems-ics-identifying-threats-reactions-developing-ir-process-114525
-
-
-
 ### June
 
-* **Golden Age of C2** Tuesday, June 2, 2020 at 1:00 PM EST  SANS Free 2-hour Workshop with Matthew Toussain - In this workshop, we dive into multiple C2 frameworks and get our hands dirty launching attacks against enterprise networks and explore the ins and outs of these systems while paying careful attention to the advantages and limitations of each remote administration tool (RAT). https://www.sans.org/webcasts/tech-tuesday-workshop-golden-age-c2-115570
 
-* **Web Security and Bug Bounty Webinar** June 4 1:00 PM GMT (note the time, this is coming from the UK) - Participate in our free “Web Security for Beginners” webinar series. We’ll discuss “Searching for files and directories” on June 4 at 1:00 PM GMT and demonstrate solutions to practice assignments on the Hacktory platform. Our speaker, a cybersecurity expert, a lecturer with ten years of experience, and the CTO at Hacktory, will teach you how to make your web application really secure. https://infosec-conferences.com/events-in-2020/web-security-and-bug-bounty/
+### July
 
-* **Cyber Security Webinar Series - Session I: Cybersecurity for Small Business** JUNE 11Thu, 11:00 AM - 12:00 PM PDT — These classes serve as a survey in terms of the recommended best practices in use for both commercial and federal information systems. It is important to note that cybersecurity is about controlling access, it is the defensive measures that can be taken to reduce the risk of an attack. The goal of the plan is to impede the attacker, limit the effect of the attack, and recover. https://www.eventbrite.com/e/cyber-security-webinar-series-session-i-cybersecurity-for-small-business-tickets-92155713219?aff=ebdssbonlinesearch
+* **Getting Started in Security with BHIS and MITRE ATT&CK w/ John Strand** ($0-395, Pay What You Want) Mon, Jul 27, 2020, 11:00 AM - Thu, Jul 30, 2020, 4:00 PM EDT - "This 16-hour (4-days, 4-hour sessions) information security training class is designed for people who are new to computer security. We will cover the core fundamentals with lots of hands-on labs demonstrating the attacks and defenses every security professional must know to be successful." https://wildwesthackinfest.com/online-training/getting-started-in-security-with-bhis-and-mitre-attk/
 
+
+### August
+
+* **Cyber Threat Hunting w/ John Strand - August Session (4-Hours)** Tue, Aug 11, 2020 11:45 AM - 4:00 PM EDT - By the end of the course, you’ll understand the tools and techniques needed to perform compromise assessments within your own environment. While the course will be available later for download, live attendees will receive a "Cyber Security Threat Hunter Level-1" certificate.https://register.gotowebinar.com/register/4039466489309086736?source=BHISdisc
 
 ## Books
 * **Building Secure & Reliable Systems**
@@ -155,6 +133,36 @@ By Heather Adkins, Betsy Beyer, Paul Blankinship, Ana Oprea, Piotr Lewandowski, 
 
 * **Free Springer Textbooks** 
 Valid at least through July, Springer is providing free access to several hundred titles in its eBook collection. Books are available via SpringerLink and can be viewed online or downloaded as PDF or EBUP files. Disciplines include computer science, networking, cryptography, digital forensics, and others. https://link.springer.com/search/page/1?facet-content-type=%22Book%22&package=mat-covid19_textbooks&facet-language=%22En%22&sortOrder=newestFirst&showAll=true 
+
+
+## College Courses (Multi-week w/Enrollment)
+
+* **Cryptography I** -offered by Stanford University - Rolling enrollment - Cryptography is an indispensable tool for protecting information in computer systems. In this course you will learn the inner workings of cryptographic systems and how to correctly use them in real-world applications. The course begins with a detailed discussion of how two parties who have a shared secret key can communicate securely when a powerful adversary eavesdrops and tampers with traffic. We will examine many deployed protocols and analyze mistakes in existing systems. The second half of the course discusses public-key techniques that let two parties generate a shared secret key. https://www.coursera.org/learn/crypto
+
+* **Software Security** Rolling enrollment -offered by University of Maryland, College Park via Coursera - This course we will explore the foundations of software security. We will consider important software vulnerabilities and attacks that exploit them -- such as buffer overflows, SQL injection, and session hijacking -- and we will consider defenses that prevent or mitigate these attacks, including advanced testing and program analysis techniques. Importantly, we take a "build security in" mentality, considering techniques at each phase of the development cycle that can be used to strengthen the security of software systems. https://www.coursera.org/learn/software-security
+
+* **Intro to Information Security** Georgia Institute of Technology via Udacity  - Rolling Enrollment.  This course provides a one-semester overview of information security. It is designed to help students with prior computer and programming knowledge — both undergraduate and graduate — understand this important priority in society today. Offered at Georgia Tech as CS 6035 https://www.udacity.com/course/intro-to-information-security--ud459
+
+* **Cyber-Physical Systems Security** Georgia Institute of Technology via Udacity - This course provides an introduction to security issues relating to various cyber-physical systems including industrial control systems and those considered critical infrastructure systems. 16 week course - Offered at Georgia Tech as CS 8803 https://www.udacity.com/course/cyber-physical-systems-security--ud279
+
+* **Finding Your Cybersecurity Career Path** - University of Washington via edX - 4 weeks long - self paced - In this course, you will focus on the pathways to cybersecurity career success. You will determine your own incoming skills, talent, and deep interests to apply toward a meaningful and informed exploration of 32 Digital Pathways of Cybersecurity.
+https://www.edx.org/course/finding-your-cybersecurity-career-path
+
+* **Building a Cybersecurity Toolkit** - University of Washington via edX - 4 weeks self-paced The purpose of this course is to give learners insight into these type of characteristics and skills needed for cybersecurity jobs and to provide a realistic outlook on what they really need to add to their “toolkits” – a set of skills that is constantly evolving, not all technical, but fundamentally rooted in problem-solving. https://www.edx.org/course/building-a-cybersecurity-toolkit
+
+* **Cybersecurity: The CISO's View** - University of Washington via edX  - 4 weeks long self-paced - This course delves into the role that the CISO plays in cybersecurity operations. Throughout the lessons, learners will explore answers to the following questions: How does cybersecurity work across industries? What is the professionals' point of view? How do we keep information secure https://www.edx.org/course/cybersecurity-the-cisos-view
+
+* **Introduction to Cybersecurity** - University of Washington via edX  - In this course, you will gain an overview of the cybersecurity landscape as well as national (USA) and international perspectives on the field. We will cover the legal environment that impacts cybersecurity as well as predominant threat actors. - https://www.edx.org/course/introduction-to-cybersecurity
+
+* **Cyber Attack Countermeasures** New York University (NYU) via Coursera - This course introduces the basics of cyber defense starting with foundational models such as Bell-LaPadula and information flow frameworks. These underlying policy enforcements mechanisms help introduce basic functional protections, starting with authentication methods. Learners will be introduced to a series of different authentication solutions and protocols, including RSA SecureID and Kerberos, in the context of a canonical schema.  - https://www.coursera.org/learn/cyber-attack-countermeasures
+
+* **Introduction to Cyber Attacks** New York University (NYU) via Coursera - This course provides learners with a baseline understanding of common cyber security threats, vulnerabilities, and risks. An overview of how basic cyber attacks are constructed and applied to real systems is also included. Examples include simple Unix kernel hacks, Internet worms, and Trojan horses in software utilities. Network attacks such as distributed denial of service (DDOS) and botnet- attacks are also described and illustrated using real examples from the past couple of decades. https://www.coursera.org/learn/intro-cyber-attacks
+
+* **Enterprise and Infrastructure Security** New York University (NYU) via Coursera - This course introduces a series of advanced and current topics in cyber security, many of which are especially relevant in modern enterprise and infrastructure settings. The basics of enterprise compliance frameworks are provided with introduction to NIST and PCI. Hybrid cloud architectures are shown to provide an opportunity to fix many of the security weaknesses in modern perimeter local area networks. https://www.coursera.org/learn/enterprise-infrastructure-security
+
+* **Network Security**  Georgia Institute of Technology via Udacity - This course provides an introduction to computer and network security. Students successfully completing this class will be able to evaluate works in academic and commercial security, and will have rudimentary skills in security research. The course begins with a tutorial of the basic elements of cryptography, cryptanalysis, and systems security, and continues by covering a number of seminal papers and monographs in a wide range of security areas. -  https://www.udacity.com/course/network-security--ud199
+
+* **Real-Time Cyber Threat Detection and Mitigation** - New York University (NYU) via Coursera This course introduces real-time cyber security techniques and methods in the context of the TCP/IP protocol suites. Explanation of some basic TCP/IP security hacks is used to introduce the need for network security solutions such as stateless and stateful firewalls. Learners will be introduced to the techniques used to design and configure firewall solutions such as packet filters and proxies to protect enterprise assets. https://www.coursera.org/learn/real-time-cyber-threat-detection
 
 ## Podcasts
 
@@ -200,33 +208,3 @@ _Below podcasts Added from here: https://infosec-conferences.com/cybersecurity-p
 * **CISO-Security Vendor Relationship Podcast** https://cisoseries.com Co-hosted by the creator of the CISO/Security Vendor Relationship Series, David Spark, and Mike Johnson, in 30 minutes, this weekly program challenges the co-hosts, guests, and listeners to critique, share true stories. This podcast, The CISO/Security Vendor Relationship, targets to enlighten and educate listeners on improving security buyer and seller relationships.
 
 * **Getting Into Infosec Podcast** Stories of how Infosec and Cybersecurity pros got jobs in the field so you can be inspired, motivated, and educated on your journey. - https://gettingintoinfosec.com/
-
-
-## College Courses (Multi-week w/Enrollment)
-
-* **Cryptography I** -offered by Stanford University - Rolling enrollment - Cryptography is an indispensable tool for protecting information in computer systems. In this course you will learn the inner workings of cryptographic systems and how to correctly use them in real-world applications. The course begins with a detailed discussion of how two parties who have a shared secret key can communicate securely when a powerful adversary eavesdrops and tampers with traffic. We will examine many deployed protocols and analyze mistakes in existing systems. The second half of the course discusses public-key techniques that let two parties generate a shared secret key. https://www.coursera.org/learn/crypto
-
-* **Software Security** Rolling enrollment -offered by University of Maryland, College Park via Coursera - This course we will explore the foundations of software security. We will consider important software vulnerabilities and attacks that exploit them -- such as buffer overflows, SQL injection, and session hijacking -- and we will consider defenses that prevent or mitigate these attacks, including advanced testing and program analysis techniques. Importantly, we take a "build security in" mentality, considering techniques at each phase of the development cycle that can be used to strengthen the security of software systems. https://www.coursera.org/learn/software-security
-
-* **Intro to Information Security** Georgia Institute of Technology via Udacity  - Rolling Enrollment.  This course provides a one-semester overview of information security. It is designed to help students with prior computer and programming knowledge — both undergraduate and graduate — understand this important priority in society today. Offered at Georgia Tech as CS 6035 https://www.udacity.com/course/intro-to-information-security--ud459
-
-* **Cyber-Physical Systems Security** Georgia Institute of Technology via Udacity - This course provides an introduction to security issues relating to various cyber-physical systems including industrial control systems and those considered critical infrastructure systems. 16 week course - Offered at Georgia Tech as CS 8803 https://www.udacity.com/course/cyber-physical-systems-security--ud279
-
-* **Finding Your Cybersecurity Career Path** - University of Washington via edX - 4 weeks long - self paced - In this course, you will focus on the pathways to cybersecurity career success. You will determine your own incoming skills, talent, and deep interests to apply toward a meaningful and informed exploration of 32 Digital Pathways of Cybersecurity.
-https://www.edx.org/course/finding-your-cybersecurity-career-path
-
-* **Building a Cybersecurity Toolkit** - University of Washington via edX - 4 weeks self-paced The purpose of this course is to give learners insight into these type of characteristics and skills needed for cybersecurity jobs and to provide a realistic outlook on what they really need to add to their “toolkits” – a set of skills that is constantly evolving, not all technical, but fundamentally rooted in problem-solving. https://www.edx.org/course/building-a-cybersecurity-toolkit
-
-* **Cybersecurity: The CISO's View** - University of Washington via edX  - 4 weeks long self-paced - This course delves into the role that the CISO plays in cybersecurity operations. Throughout the lessons, learners will explore answers to the following questions: How does cybersecurity work across industries? What is the professionals' point of view? How do we keep information secure https://www.edx.org/course/cybersecurity-the-cisos-view
-
-* **Introduction to Cybersecurity** - University of Washington via edX  - In this course, you will gain an overview of the cybersecurity landscape as well as national (USA) and international perspectives on the field. We will cover the legal environment that impacts cybersecurity as well as predominant threat actors. - https://www.edx.org/course/introduction-to-cybersecurity
-
-* **Cyber Attack Countermeasures** New York University (NYU) via Coursera - This course introduces the basics of cyber defense starting with foundational models such as Bell-LaPadula and information flow frameworks. These underlying policy enforcements mechanisms help introduce basic functional protections, starting with authentication methods. Learners will be introduced to a series of different authentication solutions and protocols, including RSA SecureID and Kerberos, in the context of a canonical schema.  - https://www.coursera.org/learn/cyber-attack-countermeasures
-
-* **Introduction to Cyber Attacks** New York University (NYU) via Coursera - This course provides learners with a baseline understanding of common cyber security threats, vulnerabilities, and risks. An overview of how basic cyber attacks are constructed and applied to real systems is also included. Examples include simple Unix kernel hacks, Internet worms, and Trojan horses in software utilities. Network attacks such as distributed denial of service (DDOS) and botnet- attacks are also described and illustrated using real examples from the past couple of decades. https://www.coursera.org/learn/intro-cyber-attacks
-
-* **Enterprise and Infrastructure Security** New York University (NYU) via Coursera - This course introduces a series of advanced and current topics in cyber security, many of which are especially relevant in modern enterprise and infrastructure settings. The basics of enterprise compliance frameworks are provided with introduction to NIST and PCI. Hybrid cloud architectures are shown to provide an opportunity to fix many of the security weaknesses in modern perimeter local area networks. https://www.coursera.org/learn/enterprise-infrastructure-security
-
-* **Network Security**  Georgia Institute of Technology via Udacity - This course provides an introduction to computer and network security. Students successfully completing this class will be able to evaluate works in academic and commercial security, and will have rudimentary skills in security research. The course begins with a tutorial of the basic elements of cryptography, cryptanalysis, and systems security, and continues by covering a number of seminal papers and monographs in a wide range of security areas. -  https://www.udacity.com/course/network-security--ud199
-
-* **Real-Time Cyber Threat Detection and Mitigation** - New York University (NYU) via Coursera This course introduces real-time cyber security techniques and methods in the context of the TCP/IP protocol suites. Explanation of some basic TCP/IP security hacks is used to introduce the need for network security solutions such as stateless and stateful firewalls. Learners will be introduced to the techniques used to design and configure firewall solutions such as packet filters and proxies to protect enterprise assets. https://www.coursera.org/learn/real-time-cyber-threat-detection
