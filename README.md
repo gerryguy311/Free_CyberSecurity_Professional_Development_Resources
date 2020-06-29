@@ -12,8 +12,6 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
   
 ## Conferences
 
-* **Cyber June'Gle Virtual Summit** June 27-28, 2020. RedTeamVillage and CTFs. Runs for approximately 30 hours straight. Multiple time zones, speakers and trainers from all over the world! https://junegle.io/
-
 * **FWD:CLOUDSEC** June 29 - a new cloud security practitioners conference which will be held online - https://fwdcloudsec.org/
 
 * **Reversing 2020** June 30 - REVERSING 2020 is where Threat Hunters and Researchers come together to network and learn everything YARA. Here both thought leaders and practitioners will share YARA best practices to assist you in how to best hunt, identify and classify malware samples. https://register.reversinglabs.com/reversing-2020
