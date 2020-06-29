@@ -185,6 +185,8 @@ https://www.cybrary.it/info/cybrary-podcast/
 
 * **Cyber Life** The Cyber Life podcast is for cyber security (InfoSec) professionals, people trying to break into the industry, or business owners looking to learn how to secure their data. We will talk about many things, like how to get jobs, cover breakdowns of hot topics, and have special guest interviews with the men and women "in the trenches" of the industry. https://redcircle.com/shows/cyber-life
 
+* **Career Notes** Cybersecurity professionals share their personal career journeys and offer tips and advice in this brief, weekly podcast from The CyberWire. https://www.thecyberwire.com/podcasts/career-notes
+
 _Below podcasts Added from here: https://infosec-conferences.com/cybersecurity-podcasts/_
 
 * **Down the Security Rabbithole** http://podcast.wh1t3rabbit.net/ Down the Security Rabbithole is hosted by Rafal Los and James Jardine who discuss, by means of interviewing or news analysis, everything about Cybersecurity which includes Cybercrime, Cyber Law, Cyber Risk, Enterprise Risk & Security and many more. If you want to hear issues that are relevant to your organization, subscribe and tune-in to this podcast.
