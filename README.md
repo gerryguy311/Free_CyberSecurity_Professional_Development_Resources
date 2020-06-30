@@ -12,10 +12,6 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
   
 ## Conferences
 
-* **FWD:CLOUDSEC** June 29 - a new cloud security practitioners conference which will be held online - https://fwdcloudsec.org/
-
-* **Reversing 2020** June 30 - REVERSING 2020 is where Threat Hunters and Researchers come together to network and learn everything YARA. Here both thought leaders and practitioners will share YARA best practices to assist you in how to best hunt, identify and classify malware samples. https://register.reversinglabs.com/reversing-2020
-
 * **RSAC 2020 APJ** July 15 – 17 "Transforming RSA Conference 2020 Asia Pacific & Japan into a free virtual learning experience, taking place 15 – 17 July. We have many exciting and relevant sessions and keynotes planned, featuring some of the world’s leading cybersecurity experts." https://go.rsaconference.com/rsac-apj2020/
 
 * **SANS DFIR Summit** DFIR Summit & Training 2020 - Live Online Virtual, US Eastern | Thu, Jul 16 - Sat, Jul 25, 2020 https://www.sans.org/event/digital-forensics-summit-2020/summit-agenda
@@ -105,10 +101,9 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
 
 ## Instructor Led Webinar/ Labs / Workshops
 
-### June
-
-
 ### July
+
+* **Workshop: Introduction to Hacking** by Fullstack Cyber Workshops July 11 2020 - From flyer - We’ll talk about some of the most common methods used to encrypt data, and show you some of the tactics used by "black hat" hackers to break that encryption. You'll learn a bit of theory, then go "hands on" with real-world encryption tools that cybersecurity practitioners use every day. https://www.eventbrite.com/e/workshop-introduction-to-hacking-tickets-104979231708 
 
 * **Getting Started in Security with BHIS and MITRE ATT&CK w/ John Strand** ($0-395, Pay What You Want) Mon, Jul 27, 2020, 11:00 AM - Thu, Jul 30, 2020, 4:00 PM EDT - "This 16-hour (4-days, 4-hour sessions) information security training class is designed for people who are new to computer security. We will cover the core fundamentals with lots of hands-on labs demonstrating the attacks and defenses every security professional must know to be successful." https://wildwesthackinfest.com/online-training/getting-started-in-security-with-bhis-and-mitre-attk/
 
@@ -117,7 +112,13 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
 
 ### August
 
+* **Workshop: Introduction to Hacking** by Fullstack Cyber Workshops August 8 2020 - From flyer - We’ll talk about some of the most common methods used to encrypt data, and show you some of the tactics used by "black hat" hackers to break that encryption. You'll learn a bit of theory, then go "hands on" with real-world encryption tools that cybersecurity practitioners use every day. https://www.eventbrite.com/e/workshop-introduction-to-hacking-tickets-104979231708 
+
 * **Cyber Threat Hunting w/ John Strand - August Session (4-Hours)** Tue, Aug 11, 2020 11:45 AM - 4:00 PM EDT - By the end of the course, you’ll understand the tools and techniques needed to perform compromise assessments within your own environment. While the course will be available later for download, live attendees will receive a "Cyber Security Threat Hunter Level-1" certificate.https://register.gotowebinar.com/register/4039466489309086736?source=BHISdisc
+
+### September
+
+* **Workshop: Introduction to Hacking** by Fullstack Cyber Workshops Sept 5 2020 - From flyer - We’ll talk about some of the most common methods used to encrypt data, and show you some of the tactics used by "black hat" hackers to break that encryption. You'll learn a bit of theory, then go "hands on" with real-world encryption tools that cybersecurity practitioners use every day. https://www.eventbrite.com/e/workshop-introduction-to-hacking-tickets-104979231708 
 
 ## Books
 * **Building Secure & Reliable Systems**
