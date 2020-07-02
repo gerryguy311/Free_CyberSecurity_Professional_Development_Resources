@@ -12,6 +12,8 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
   
 ## Conferences
 
+* **GRIMMCon 0x2** 15 July 20, 1100 - 1900 EST - Announcing #GRIMMCon 0x2, our second in a series of FREE VIRTUAL Conferences for the community! We’ll have two tracks, one especially for First Time Speakers who we’ll pair with an expert. Talks will be a mix of tech and personal fun. https://www.grimm-co.com/grimmcon-0x2
+
 * **RSAC 2020 APJ** July 15 – 17 "Transforming RSA Conference 2020 Asia Pacific & Japan into a free virtual learning experience, taking place 15 – 17 July. We have many exciting and relevant sessions and keynotes planned, featuring some of the world’s leading cybersecurity experts." https://go.rsaconference.com/rsac-apj2020/
 
 * **SANS DFIR Summit** DFIR Summit & Training 2020 - Live Online Virtual, US Eastern | Thu, Jul 16 - Sat, Jul 25, 2020 https://www.sans.org/event/digital-forensics-summit-2020/summit-agenda
