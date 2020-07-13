@@ -116,6 +116,8 @@ We’ll look at 4 practical examples where lessons can be learned: Crypto-wallet
 
 * **Fullstack Cyber Capture the Flag (CTF)** Tue, July 28, 2020 6:00 PM – 9:00 PM EDT CMD+CTRL Cyber Ranges are intentionally vulnerable applications and websites that tempt players to steal money, view their boss’s salary, buy expensive items for free, and conduct other nefarious acts. Hundreds of vulnerabilities, common to most business applications, lay waiting. https://www.eventbrite.com/e/fullstack-cyber-capture-the-flag-ctf-tickets-111187360388
 
+* **UNDERSTANDING AND DISRUPTING OFFENSIVE INNOVATIONS** THURSDAY, JULY 30, 2020 11:00 AM - 12:00 PM PDT - Previous research by the New York Cyber Task Force examined which innovations have given defenders over attackers at the greatest scale and least cost. New research is working to flip the questions, and examine what technology, operational, and policy innovations have, over the past decades, done the most to systemically advantage the attackers. This presentation discusses this research with lessons on what defenders can do to disrupt those attacker advantages. - https://event.on24.com/wcc/r/2442717/03D29EFD2877C01AEB09BFB70C29B82A
+
 
 ### August
 
