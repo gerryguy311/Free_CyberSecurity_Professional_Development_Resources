@@ -20,6 +20,8 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
 
 * **DEFCON 28** Aug 7-9 2020 - This is a very well known, premiere conference within the cybersecurity space. Check for more information as there will be villages, events, parties, talks, etc. You cannot register yet, but details here: https://www.defcon.org/html/defcon-28/dc-28-index.html
 
+* **SXOS 2.0 SiberX** Aug 10-14 2020 - siberXchange is a global community of cybersecurity leaders and professionals representing leading organizations across the world. Led by an advisory of cybersecurity champions, this online community has groups for problem solving, custom solutioning, networking and broadcasting. Address the global community from our reporting hub with live statistics and immersive visuals: multilingual, accessible and customized outreach. https://siberx.org/event/sxos-2-0/
+
 * **Tactical Edge Virtual Summit 2020** August 11-14 2020 - The Tactical Edge event covers a multitude of important cybersecurity topics, from the importance of awareness to pryvacy to new technological solutions using Artificial Intelligence and Machine Learning. https://tacticaledge.co/en/
 
 * **JUNC 2020** 9/29/2020-10/1/2020 - Not entirely a security conference, but there are sub-sections for securing Apple devices. Apple IT administrators from around the world have rallied at the Jamf Nation User Conference (JNUC) for community presentations, deep-dive education sessions and expert product insights.  https://www.jamf.com/events/jamf-nation-user-conference/2020/faq/
