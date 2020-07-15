@@ -105,6 +105,8 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
 
 41. **The Ultimate List of SANS Cheat Sheets** Massive collection of free cybersecurity cheat sheets for quick reference (login with free SANS account required for some penetration testing resources). https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/
 
+42. **CYBER INTELLIGENCE ANALYTICS AND OPERATIONS** Learn:The ins and outs of all stages of the intelligence cycle from collection to analysis from seasoned intel professionals. How to employ threat intelligence to conduct comprehensive defense strategies to mitigate potential compromise. How to use TI to respond to and minimize impact of cyber incidents. How to generate comprehensive and actionable reports to communicate gaps in defenses and intelligence findings to decision makers. https://www.shadowscape.io/cyber-intelligence-analytics-operat
+
 ## Instructor Led Webinar/ Labs / Workshops
 
 ### July
