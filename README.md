@@ -34,6 +34,8 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
 
 1. **Certified Network Security Specialist** Certification and training; Expires Aug 31 2020 Use coupon code #StaySafeHome during checkout to claim your free access. Offer is valid till 31/08/2020.  £500.00 Value https://www.icsi.co.uk/courses/icsi-cnss-certified-network-security-specialist-covid-19
 
+2. **Cybrary Free Courses July 2020** Cybrary is offering 7 courses free through the end of July 2020: https://www.cybrary.it/blog/free-courses-at-cybrary-in-july/
+
 3.	**Metasploit Unleashed**	Most complete and in-depth Metasploit guide available, with contributions from the authors of the No Starch Press Metasploit Book. 	https://www.offensive-security.com/metasploit-unleashed/
 
 4.	**AWS Cloud Certified**	Get skills in AWS to be more marketable. Training is quality and free.	https://www.youtube.com/watch?v=3hLmDS179YE Have to create an AWS account, Exam is $100.
