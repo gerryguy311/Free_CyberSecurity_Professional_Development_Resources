@@ -106,6 +106,10 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
 
 42. **CYBER INTELLIGENCE ANALYTICS AND OPERATIONS** Learn:The ins and outs of all stages of the intelligence cycle from collection to analysis from seasoned intel professionals. How to employ threat intelligence to conduct comprehensive defense strategies to mitigate potential compromise. How to use TI to respond to and minimize impact of cyber incidents. How to generate comprehensive and actionable reports to communicate gaps in defenses and intelligence findings to decision makers. https://www.shadowscape.io/cyber-intelligence-analytics-operat
 
+43. **Linux Command Line for Beginners** 25 hours of training - In this course, you’ll learn from one of Fullstack’s top instructors, Corey Greenwald, as he guides you through learning the basics of the command line through short, digestible video lectures. Then you’ll use Fullstack’s CyberLab platform to hone your new technical skills while working through a Capture the Flag game, a special kind of cybersecurity game designed to challenge participants to solve computer security problems by solving puzzles. Finally, through a list of carefully curated resources through a series of curated resources, we’ll introduce you to some important cybersecurity topics so that you can understand some of the common language, concepts and tools used in the industry. https://prep.fullstackacademy.com/
+
+44. **Hacking 101** 6 hours of free training - First, you'll take a tour of the world and watch videos of hackers in action across various platforms (including computers, smartphones, and the power grid). You may be shocked to learn what techniques the good guys are using to fight the bad guys (and which side is winning). Then you'll learn what it's like to work in this world, as we show you the different career paths open to you and the (significant) income you could make as a cybersecurity professional. https://cyber.fullstackacademy.com/prepare/hacking-101
+
 ## Instructor Led Webinar/ Labs / Workshops
 
 ### July
