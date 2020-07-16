@@ -1,6 +1,6 @@
 <p align="center"> <img src="GerryMeMoji2.png"> </p>
 
-An awesome list of resources for training, conferences, speaking, labs, reading, etc that are free all the time or during COVID-19 that cybersecurity professionals with downtime can take advantage of to improve their skills and marketability to come out on the other side ready to rock.
+An awesome list of resources for training, conferences, speaking, labs, reading, etc that are free all the time or during COVID-19 that cybersecurity professionals with downtime can take advantage of to improve their skills and marketability to come out on the other side ready to rock. Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/GeraldAuger 
 
 # CATEGORIES
   1. CONFERENCES
@@ -11,8 +11,6 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
   6. PODCASTS
   
 ## Conferences
-
-* **GRIMMCon 0x2** 15 July 20, 1100 - 1900 EST - Announcing #GRIMMCon 0x2, our second in a series of FREE VIRTUAL Conferences for the community! We’ll have two tracks, one especially for First Time Speakers who we’ll pair with an expert. Talks will be a mix of tech and personal fun. https://www.grimm-co.com/grimmcon-0x2
 
 * **RSAC 2020 APJ** July 15 – 17 "Transforming RSA Conference 2020 Asia Pacific & Japan into a free virtual learning experience, taking place 15 – 17 July. We have many exciting and relevant sessions and keynotes planned, featuring some of the world’s leading cybersecurity experts." https://go.rsaconference.com/rsac-apj2020/
 
@@ -110,8 +108,6 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
 ## Instructor Led Webinar/ Labs / Workshops
 
 ### July
-
-* **Workshop: Introduction to Hacking** by Fullstack Cyber Workshops July 11 2020 - From flyer - We’ll talk about some of the most common methods used to encrypt data, and show you some of the tactics used by "black hat" hackers to break that encryption. You'll learn a bit of theory, then go "hands on" with real-world encryption tools that cybersecurity practitioners use every day. https://www.eventbrite.com/e/workshop-introduction-to-hacking-tickets-104979231708 
 
 * **4 IoT Systems, 4 Threat Modeling Failures** Thursday, July 16, 2020 11:00AM - 12:00PM PDT  //  60 MINUTES, INCLUDING Q&A	-Sponsored By: nCipher Security
 We’ll look at 4 practical examples where lessons can be learned: Crypto-wallets that didn't take into account physical access A telematics unit in a car that allowed us to take control of the corporate network An EV car charger that relied on the security of a Raspberry Pi Police body cameras that place confidentiality above authenticity of data. Hopefully you’ll be able to see the mistakes that were made, alongside the simple solutions to these issues. https://www.blackhat.com/html/webcast/07162020-4-iot-systems-4-threat-modelling-failures.html
