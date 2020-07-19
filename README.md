@@ -13,8 +13,6 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
   
 ## Conferences
 
-* **RSAC 2020 APJ** July 15 – 17 "Transforming RSA Conference 2020 Asia Pacific & Japan into a free virtual learning experience, taking place 15 – 17 July. We have many exciting and relevant sessions and keynotes planned, featuring some of the world’s leading cybersecurity experts." https://go.rsaconference.com/rsac-apj2020/
-
 * **SANS DFIR Summit** DFIR Summit & Training 2020 - Live Online Virtual, US Eastern | Thu, Jul 16 - Sat, Jul 25, 2020 https://www.sans.org/event/digital-forensics-summit-2020/summit-agenda
 
 * **DEFCON 28** Aug 7-9 2020 - This is a very well known, premiere conference within the cybersecurity space. Check for more information as there will be villages, events, parties, talks, etc. You cannot register yet, but details here: https://www.defcon.org/html/defcon-28/dc-28-index.html
@@ -117,9 +115,6 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
 ## Instructor Led Webinar/ Labs / Workshops
 
 ### July
-
-* **4 IoT Systems, 4 Threat Modeling Failures** Thursday, July 16, 2020 11:00AM - 12:00PM PDT  //  60 MINUTES, INCLUDING Q&A	-Sponsored By: nCipher Security
-We’ll look at 4 practical examples where lessons can be learned: Crypto-wallets that didn't take into account physical access A telematics unit in a car that allowed us to take control of the corporate network An EV car charger that relied on the security of a Raspberry Pi Police body cameras that place confidentiality above authenticity of data. Hopefully you’ll be able to see the mistakes that were made, alongside the simple solutions to these issues. https://www.blackhat.com/html/webcast/07162020-4-iot-systems-4-threat-modelling-failures.html
 
 * **Getting Started in Security with BHIS and MITRE ATT&CK w/ John Strand** ($0-395, Pay What You Want) Mon, Jul 27, 2020, 11:00 AM - Thu, Jul 30, 2020, 4:00 PM EDT - "This 16-hour (4-days, 4-hour sessions) information security training class is designed for people who are new to computer security. We will cover the core fundamentals with lots of hands-on labs demonstrating the attacks and defenses every security professional must know to be successful." https://wildwesthackinfest.com/online-training/getting-started-in-security-with-bhis-and-mitre-attk/
 
