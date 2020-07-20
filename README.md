@@ -13,6 +13,8 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
   
 ## Conferences
 
+* **ILFest 2020** July 25 2020 - 11 AM - 7 PM EST - ILFest is a Twitch stream, hosted by Heath Adams, AKA The Cyber Mentor, along with a fantastic list of guests! There will be cooking, games, prizes, and even some live music! Our goal is to raise $10,000 or more during the stream. https://www.innocentlivesfoundation.org/ilfest-2020/
+
 * **SANS DFIR Summit** DFIR Summit & Training 2020 - Live Online Virtual, US Eastern | Thu, Jul 16 - Sat, Jul 25, 2020 https://www.sans.org/event/digital-forensics-summit-2020/summit-agenda
 
 * **DEFCON 28** Aug 7-9 2020 - This is a very well known, premiere conference within the cybersecurity space. Check for more information as there will be villages, events, parties, talks, etc. You cannot register yet, but details here: https://www.defcon.org/html/defcon-28/dc-28-index.html
