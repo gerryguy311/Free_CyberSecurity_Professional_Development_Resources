@@ -116,11 +116,12 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
 
 44. **Hacking 101** 6 hours of free training - First, you'll take a tour of the world and watch videos of hackers in action across various platforms (including computers, smartphones, and the power grid). You may be shocked to learn what techniques the good guys are using to fight the bad guys (and which side is winning). Then you'll learn what it's like to work in this world, as we show you the different career paths open to you and the (significant) income you could make as a cybersecurity professional. https://cyber.fullstackacademy.com/prepare/hacking-101
 
+45. **Choose Your Own Cyber Adventure Series: Entry Level Cyber Jobs Explained** YouTube Playlist (videos from my channel #simplyCyber) This playlist is a collection of various roles within the information security field, mostly entry level, so folks can understand what different opportunities are out there. https://www.youtube.com/playlist?list=PL4Q-ttyNIRAqog96mt8C8lKWzTjW6f38F
+
+
 ## Instructor Led Webinar/ Labs / Workshops
 
 ### July
-
-
 
 **Securely Embrace the IoT Revolution with FortiNAC v8.7** 7/28/2020 @ 1PM EST – FortiNAC In this workshop, participants learn how FortiNAC provides the network visibility to see everything connected to the network, as well as the ability to control those devices and users, including dynamic, automated responses. RSVP: https://attendee.gotowebinar.com/register/4800150416405729551 NSE: https://training.fortinet.com/course/view.php?id=4303
 
