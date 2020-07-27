@@ -13,12 +13,6 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
   
 ## Conferences
 
-* **ILFest 2020** July 25 2020 - 11 AM - 7 PM EST - ILFest is a Twitch stream, hosted by Heath Adams, AKA The Cyber Mentor, along with a fantastic list of guests! There will be cooking, games, prizes, and even some live music! Our goal is to raise $10,000 or more during the stream. https://www.innocentlivesfoundation.org/ilfest-2020/
-
-* **HITB Loackdown 002** July 25 & 26 - 10AM - 10PM SGT - HITBSecConf or the Hack In The Box Security Conference is an annual must attend event in the calendars of security researchers and professionals around the world. It is a platform for the discussion and dissemination of next generation computer security issues. It is a two-day multi-track conference featuring cutting-edge hardcore technical talks delivered by some of the most respected names in the computer security industry.
-
-* **SANS DFIR Summit** DFIR Summit & Training 2020 - Live Online Virtual, US Eastern | Thu, Jul 16 - Sat, Jul 25, 2020 https://www.sans.org/event/digital-forensics-summit-2020/summit-agenda
-
 * **DEFCON 28** Aug 7-9 2020 - This is a very well known, premiere conference within the cybersecurity space. Check for more information as there will be villages, events, parties, talks, etc. You cannot register yet, but details here: https://www.defcon.org/html/defcon-28/dc-28-index.html
 
 * **SXOS 2.0 SiberX** Aug 10-14 2020 - siberXchange is a global community of cybersecurity leaders and professionals representing leading organizations across the world. Led by an advisory of cybersecurity champions, this online community has groups for problem solving, custom solutioning, networking and broadcasting. Address the global community from our reporting hub with live statistics and immersive visuals: multilingual, accessible and customized outreach. https://siberx.org/event/sxos-2-0/
@@ -137,6 +131,8 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
 * **Workshop: Introduction to Hacking** by Fullstack Cyber Workshops August 8 2020 - From flyer - We’ll talk about some of the most common methods used to encrypt data, and show you some of the tactics used by "black hat" hackers to break that encryption. You'll learn a bit of theory, then go "hands on" with real-world encryption tools that cybersecurity practitioners use every day. https://www.eventbrite.com/e/workshop-introduction-to-hacking-tickets-104979231708 
 
 * **Cyber Threat Hunting w/ John Strand - August Session (4-Hours)** Tue, Aug 11, 2020 11:45 AM - 4:00 PM EDT - By the end of the course, you’ll understand the tools and techniques needed to perform compromise assessments within your own environment. While the course will be available later for download, live attendees will receive a "Cyber Security Threat Hunter Level-1" certificate.https://register.gotowebinar.com/register/4039466489309086736?source=BHISdisc
+
+* **How to Stay Secure in the Cloud with Center for Internet Security (CIS)** August 19, 2020 12:00 PM (America/New_York) The Center for Internet Security (CIS) provides organizations with a collection of integrated cybersecurity resources. These resources help evaluate and apply secure configuration settings to various cloud environments. With our global community of cybersecurity experts, we develop the CIS Controls and CIS Benchmarks. These best practices offer prescriptive guidance and configuration recommendations for various technology groups to safeguard systems against today’s evolving cyber threats. https://microsoftcloudpartner.eventbuilder.com/event/22628?source=ACOM
 
 ### September
 
