@@ -13,6 +13,9 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
   
 ## Conferences
 
+* **H@cktivityCon** July 31 - August 01 - h@cktivitycon is a HackerOne hosted hacker conference built by the community for the community. h@cktivitycon is a place for hackers to learn, share, and meet friends. Hear talks and panelists exploring offensive hacking techniques, recon skills, target selection and more.
+https://www.hackerone.com/hacktivitycon#
+
 * **DEFCON 28** Aug 7-9 2020 - This is a very well known, premiere conference within the cybersecurity space. Check for more information as there will be villages, events, parties, talks, etc. You cannot register yet, but details here: https://www.defcon.org/html/defcon-28/dc-28-index.html
 
 * **SXOS 2.0 SiberX** Aug 10-14 2020 - siberXchange is a global community of cybersecurity leaders and professionals representing leading organizations across the world. Led by an advisory of cybersecurity champions, this online community has groups for problem solving, custom solutioning, networking and broadcasting. Address the global community from our reporting hub with live statistics and immersive visuals: multilingual, accessible and customized outreach. https://siberx.org/event/sxos-2-0/
