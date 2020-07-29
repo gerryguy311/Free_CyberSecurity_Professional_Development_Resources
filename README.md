@@ -126,7 +126,7 @@ https://www.hackerone.com/hacktivitycon#
 
 **Securely Embrace the IoT Revolution with FortiNAC v8.7** 7/28/2020 @ 1PM EST – FortiNAC In this workshop, participants learn how FortiNAC provides the network visibility to see everything connected to the network, as well as the ability to control those devices and users, including dynamic, automated responses. RSVP: https://attendee.gotowebinar.com/register/4800150416405729551 NSE: https://training.fortinet.com/course/view.php?id=4303
 
-* **Getting Started in Security with BHIS and MITRE ATT&CK w/ John Strand** ($0-395, Pay What You Want) Mon, Jul 27, 2020, 11:00 AM - Thu, Jul 30, 2020, 4:00 PM EDT - "This 16-hour (4-days, 4-hour sessions) information security training class is designed for people who are new to computer security. We will cover the core fundamentals with lots of hands-on labs demonstrating the attacks and defenses every security professional must know to be successful." https://wildwesthackinfest.com/online-training/getting-started-in-security-with-bhis-and-mitre-attk/
+* **Getting Started in Security with BHIS and MITRE ATT&CK w/ John Strand** [SOLD OUT]($0-395, Pay What You Want) Mon, Jul 27, 2020, 11:00 AM - Thu, Jul 30, 2020, 4:00 PM EDT - "This 16-hour (4-days, 4-hour sessions) information security training class is designed for people who are new to computer security. We will cover the core fundamentals with lots of hands-on labs demonstrating the attacks and defenses every security professional must know to be successful." https://wildwesthackinfest.com/online-training/getting-started-in-security-with-bhis-and-mitre-attk/
 
 * **Fullstack Cyber Capture the Flag (CTF)** Tue, July 28, 2020 6:00 PM – 9:00 PM EDT CMD+CTRL Cyber Ranges are intentionally vulnerable applications and websites that tempt players to steal money, view their boss’s salary, buy expensive items for free, and conduct other nefarious acts. Hundreds of vulnerabilities, common to most business applications, lay waiting. https://www.eventbrite.com/e/fullstack-cyber-capture-the-flag-ctf-tickets-111187360388
 
@@ -154,6 +154,9 @@ https://www.hackerone.com/hacktivitycon#
 ### October
 
 * **ELI5: x86_64 Exploit Development Fundamentals w/ John Ryan & Adrian Abdala (2-Hours)** - Wed, Oct 14, 2020 12:30 PM - 3:00 PM EDT - Do the phrases “exploit development” or “buffer overflow” intimidate you? Maybe you’ve only heard the words, but they sound too advanced to learn. Maybe you performed one or two buffer overflows while pursuing a certification, but you still don’t quite understand the underlying mechanics of compiled software exploitation. In this 2-hour workshop-style webcast, we’re going to dive into key concepts of computer organization to learn how x86_64 Linux software journeys from C source code to become a functional program in computer memory – ready to be exploited. https://register.gotowebinar.com/register/6536568447332186379
+
+### November
+* **Getting Started in Security with BHIS and MITRE ATT&CK w/ John Strand** ($0-395, Pay What You Want) Mon, Nov 16, 2020 11:00 AM – 4:00 PM EST Tue, Nov 17, 2020 12:00 PM – 4:00 PM EST Wed, Nov 18, 2020 12:00 PM – 4:00 PM EST Thu, Nov 19, 2020 12:00 PM – 4:00 PM EST - "This 16-hour (4-days, 4-hour sessions) information security training class is designed for people who are new to computer security. We will cover the core fundamentals with lots of hands-on labs demonstrating the attacks and defenses every security professional must know to be successful." https://wildwesthackinfest.com/online-training/getting-started-in-security-with-bhis-and-mitre-attk/
 
 ## Books
 * **Building Secure & Reliable Systems**
