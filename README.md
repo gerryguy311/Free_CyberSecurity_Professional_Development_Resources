@@ -256,7 +256,7 @@ _Below podcasts Added from here: https://infosec-conferences.com/cybersecurity-p
 * **Getting Into Infosec Podcast** Stories of how Infosec and Cybersecurity pros got jobs in the field so you can be inspired, motivated, and educated on your journey. - https://gettingintoinfosec.com/
 
 ## Cybersecurity YouTube Channels
-_This list was originally forked/curated from here: https://wportal.xyz/collection/cybersec-yt1 on (7/29/2020)_ 
+_This list was originally forked/curated from here: https://wportal.xyz/collection/cybersec-yt1 on (7/29/2020) Attribution and appreciation to d4rckh_ 
 
 *   **SimplyCyber** Weekly vids, Simply Cyber brings Information security related content to help IT or Information Security professionals take their career further, faster. Current cyber security industry topics and techniques are explored to promote a career in the field. Topics cover offense, defense, governance, risk, compliance, privacy, education, certification, conferences; all with the intent of professional development. https://www.youtube.com/c/GeraldAuger
 	
@@ -348,11 +348,10 @@ _This list was originally forked/curated from here: https://wportal.xyz/collecti
 *	**HackerSploit** - regular posts, medium length screenshot vids, with dialog https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q
 	
 	
-*	https://www.youtube.com/channel/UCCkVMojdBWS-JtH7TliWkVg
-	**GynvaelEN** - Security streams from Google Researcher. Mainly about CTFs, computer security, programing and similar things.
+*	**GynvaelEN** - Security streams from Google Researcher. Mainly about CTFs, computer security, programing and similar things. https://www.youtube.com/channel/UCCkVMojdBWS-JtH7TliWkVg
 	
-*		**Geeks Fort** - KIF - lots of brief screenshot vids, no recent posts
- https://www.youtube.com/channel/UC09NdTL2hkThGLSab8chJMw
+	
+*	**Geeks Fort** - KIF - lots of brief screenshot vids, no recent posts  https://www.youtube.com/channel/UC09NdTL2hkThGLSab8chJMw
 	
 *	**Error 404 Cyber News** - short screen-shot videos with loud metal, no dialog, bi-weekly https://www.youtube.com/channel/UC4HcNHFKshqj-aeyi6imW7Q
 	
