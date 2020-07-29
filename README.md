@@ -22,6 +22,8 @@ https://www.hackerone.com/hacktivitycon#
 
 * **Tactical Edge Virtual Summit 2020** August 11-14 2020 - The Tactical Edge event covers a multitude of important cybersecurity topics, from the importance of awareness to pryvacy to new technological solutions using Artificial Intelligence and Machine Learning. https://tacticaledge.co/en/
 
+* **The Diana Initiative Virtual Conference** - Aug 21-22, 2020 - A conference focused on Women, Diversity, and Inclusion in Information Security that embraces all genders, sexualities, and skill levels. The Diana Initiative features multiple speaker tracks, fully expanded villages with hands-on workshops, and a women-led Capture the Flag event. https://www.eventbrite.com/e/the-diana-initiative-2020-tickets-112263061840
+
 * **JUNC 2020** 9/29/2020-10/1/2020 - Not entirely a security conference, but there are sub-sections for securing Apple devices. Apple IT administrators from around the world have rallied at the Jamf Nation User Conference (JNUC) for community presentations, deep-dive education sessions and expert product insights.  https://www.jamf.com/events/jamf-nation-user-conference/2020/faq/
 
 * **DataConnectors** 8/6, 8/19, 9/17, 9/24, 9/30, 10/8, 10/15, 10/22, 10/29, 11/5, 11/11, 11/18, 12/10 - Multiple event Virtual Cybercommunity con. Data Connectors has invested in a fully immersive virtual event platform, which provides every facet of our in-person conferences that can be facilitated online: Real-time speaking sessions, live keynotes and presenter Q&A Panel, Moderated CISO Panel, Solutions Showcase with interactive Virtual Exhibit Booths https://www.dataconnectors.com/attend/
@@ -131,15 +133,25 @@ https://www.hackerone.com/hacktivitycon#
 
 ### August
 
+* **Excellent Architecture to Avoid Common Mistakes in Security Operations Centers w/ Chris Crowley (1-Hour)** - Mon, Aug 3, 2020 1:00 PM - 2:00 PM EDT - Attend this talk to hear the components of a SOC that make it feel like the full architecture has been considered: Organizational interfaces in strategic and tactical ways; Monitoring, Threat Intelligence, Incident Handling, Forensics, and IT self-assessment. https://attendee.gotowebinar.com/register/4670498204276058126
+
 * **Workshop: Introduction to Hacking** by Fullstack Cyber Workshops August 8 2020 - From flyer - We’ll talk about some of the most common methods used to encrypt data, and show you some of the tactics used by "black hat" hackers to break that encryption. You'll learn a bit of theory, then go "hands on" with real-world encryption tools that cybersecurity practitioners use every day. https://www.eventbrite.com/e/workshop-introduction-to-hacking-tickets-104979231708 
 
 * **Cyber Threat Hunting w/ John Strand - August Session (4-Hours)** Tue, Aug 11, 2020 11:45 AM - 4:00 PM EDT - By the end of the course, you’ll understand the tools and techniques needed to perform compromise assessments within your own environment. While the course will be available later for download, live attendees will receive a "Cyber Security Threat Hunter Level-1" certificate.https://register.gotowebinar.com/register/4039466489309086736?source=BHISdisc
+
+* **Intro to Tabletop Exercises w/ Amanda Berlin & Jeremy Mio (1-Hour)** - Wed, Aug 12, 2020 1:00 PM - 2:00 PM EDT - When testing responses, defenses, and detections of an environment one of the main tools that can be used is a tabletop exercise. A tabletop exercise is a meeting of key stakeholders and staff who walk step by step through the mitigation of some type of disaster, malfunction, attack, or other emergency in a low stress situation. In this short training webinar, we will walk through two basic exercises from beginning to end, covering what helpful structure, items, and activities should be included. We will then follow up each exercise with an after action report to recap. Participants will receive four total tabletops to take and use after the webinar as well as the template for the after action report. https://register.gotowebinar.com/register/2949001644938004752
+
+* **Workshop: Linux and Security Basics; Hands-On w/ Bill Stearns (4-Hours)** - Tue, Aug 18, 2020 11:00 AM - 4:00 PM EDT - We'd like to invite you to get up to speed with the Linux operating system, and specifically networking and security commands!  Maybe you've not used Linux, or you have and just aren't comfortable with using the command line.  Here's your chance to see the instructor run them, try them yourself, and learn more about what they do. https://register.gotowebinar.com/register/1890954799577820683
 
 * **How to Stay Secure in the Cloud with Center for Internet Security (CIS)** August 19, 2020 12:00 PM (America/New_York) The Center for Internet Security (CIS) provides organizations with a collection of integrated cybersecurity resources. These resources help evaluate and apply secure configuration settings to various cloud environments. With our global community of cybersecurity experts, we develop the CIS Controls and CIS Benchmarks. These best practices offer prescriptive guidance and configuration recommendations for various technology groups to safeguard systems against today’s evolving cyber threats. https://microsoftcloudpartner.eventbuilder.com/event/22628?source=ACOM
 
 ### September
 
 * **Workshop: Introduction to Hacking** by Fullstack Cyber Workshops Sept 5 2020 - From flyer - We’ll talk about some of the most common methods used to encrypt data, and show you some of the tactics used by "black hat" hackers to break that encryption. You'll learn a bit of theory, then go "hands on" with real-world encryption tools that cybersecurity practitioners use every day. https://www.eventbrite.com/e/workshop-introduction-to-hacking-tickets-104979231708 
+
+### October
+
+* **ELI5: x86_64 Exploit Development Fundamentals w/ John Ryan & Adrian Abdala (2-Hours)** - Wed, Oct 14, 2020 12:30 PM - 3:00 PM EDT - Do the phrases “exploit development” or “buffer overflow” intimidate you? Maybe you’ve only heard the words, but they sound too advanced to learn. Maybe you performed one or two buffer overflows while pursuing a certification, but you still don’t quite understand the underlying mechanics of compiled software exploitation. In this 2-hour workshop-style webcast, we’re going to dive into key concepts of computer organization to learn how x86_64 Linux software journeys from C source code to become a functional program in computer memory – ready to be exploited. https://register.gotowebinar.com/register/6536568447332186379
 
 ## Books
 * **Building Secure & Reliable Systems**
