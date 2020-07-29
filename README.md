@@ -254,7 +254,7 @@ _Below podcasts Added from here: https://infosec-conferences.com/cybersecurity-p
 * **Getting Into Infosec Podcast** Stories of how Infosec and Cybersecurity pros got jobs in the field so you can be inspired, motivated, and educated on your journey. - https://gettingintoinfosec.com/
 
 ## Cybersecurity YouTube Channels
-_(7/29/2020) This list was originally forked/curated from here: https://wportal.xyz/collection/cybersec-yt1_ 
+_This list was originally forked/curated from here: https://wportal.xyz/collection/cybersec-yt1 on (7/29/2020)_ 
 
 *   **SimplyCyber** Weekly vids, Simply Cyber brings Information security related content to help IT or Information Security professionals take their career further, faster. Current cyber security industry topics and techniques are explored to promote a career in the field. Topics cover offense, defense, governance, risk, compliance, privacy, education, certification, conferences; all with the intent of professional development. https://www.youtube.com/c/GeraldAuger
 	
