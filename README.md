@@ -10,6 +10,7 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
   4. BOOKS
   5. College Courses (Multi-week w/Enrollment)
   6. PODCASTS
+  7. YouTube Channels
   
 ## Conferences
 
@@ -251,3 +252,139 @@ _Below podcasts Added from here: https://infosec-conferences.com/cybersecurity-p
 * **CISO-Security Vendor Relationship Podcast** https://cisoseries.com Co-hosted by the creator of the CISO/Security Vendor Relationship Series, David Spark, and Mike Johnson, in 30 minutes, this weekly program challenges the co-hosts, guests, and listeners to critique, share true stories. This podcast, The CISO/Security Vendor Relationship, targets to enlighten and educate listeners on improving security buyer and seller relationships.
 
 * **Getting Into Infosec Podcast** Stories of how Infosec and Cybersecurity pros got jobs in the field so you can be inspired, motivated, and educated on your journey. - https://gettingintoinfosec.com/
+
+## Cybersecurity YouTube Channels
+*   https://www.youtube.com/c/GeraldAuger
+	SimplyCyber - Simply Cyber brings Information security related content to help IT or Information Security professionals take their career further, faster. Current cyber security industry topics and techniques are explored to promote a career in the field. Topics cover offense, defense, governance, risk, compliance, privacy, education, certification, conferences; all with the intent of professional development. 
+
+*	https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA
+	IPPSec
+	
+*	https://wiki.securityweekly.com/Tradecraft_Security_Weekly
+	Tradecraft Security Weekly - Want to learn about all of the latest security tools and techniques?
+	
+*	https://www.youtube.com/channel/UCMACXuWd2w6_IEGog744UaA
+	Derek Rook - CTF/Boot2root/wargames Walkthrough - lots of lengthy screenshot instructional vids, with
+	
+*	https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q
+	HackerSploit - regular posts, medium length screenshot vids, with dialog
+	
+*	https://www.youtube.com/user/irongeek
+	Adrian Crenshaw - lots of lengthy con-style talks
+	
+*	https://www.youtube.com/channel/UCCQLBOt_hbGE-b9I696VRow
+	LionSec - lots of brief screenshot instructional vids, no dialog
+*	
+	https://www.youtube.com/channel/UCDk155eaoariJF2Dn2j5WKA
+*	Zer0Mem0ry - lots of brief c++ security videos, programming intensive
+	
+*	https://www.youtube.com/channel/UCPeJcqbi8v46Adk59plaaXg
+	webpwnized - lots of brief screenshot vids, some CTF walkthroughs
+	
+*	https://www.youtube.com/channel/UCeN7cOELsyMHrzfMsJUgv3Q
+	Waleed Jutt - lots of brief screenshot vids covering web security and game programming
+	
+*	https://www.youtube.com/channel/UCD6MWz4A61JaeGrvyoYl-rQ
+	Troy Hunt - lone youtuber, medium length news videos, 16K followers, regular content
+	
+	https://wiki.securityweekly.com/Tradecraft_Security_Weekly
+*	Tradecraft Security Weekly - Want to learn about all of the latest security tools and techniques?
+	
+*	https://www.youtube.com/channel/UCHvUTfxL_9bNQgqzekPWHtg
+	SSTec Tutorials - lots of brief screenshot vids, regular updates
+	
+*	https://www.youtube.com/channel/UCBwub2kRoercWQJ2mw82h3A
+	Shozab Haxor - lots of screenshot style instructional vids, regular updates, windows CLI tutorial
+	
+*	https://www.youtube.com/channel/UCW6xlqxSY3gGur4PkGPEUeA
+	Seytonic - variety of DIY hacking tutorials, hardware hacks, regular updates
+	
+*	https://www.youtube.com/channel/UCg--XBjJ50a9tUhTKXVPiqg
+	Security Weekly - regular updates, lengthy podcast-style interviews with industry pros
+	
+*	https://www.youtube.com/channel/UCNxfV4yR0nIlhFmfwcdf3BQ
+	SecureNinjaTV - brief news bites, irregular posting, 18K followers
+	
+*	https://www.youtube.com/user/s4myk
+	Samy Kamkar’s Applied hacking
+	
+*	https://www.youtube.com/channel/UCAJ8Clc3188ek9T_5XTVzZQ
+	rwbnetsec - lots of medium length instructional videos covering tools from Kali 2.0, no recent posts.
+	
+*	https://www.youtube.com/channel/UC286ntgASMskhPIJQebJVvA
+	Penetration Testing in Linux
+	
+*	https://www.youtube.com/channel/UChjC1q6Ami7W0E71TzPZELA
+	Pentester Academy TV - lots of brief videos, very regular posting, up to +8 a week
+	
+*	https://www.youtube.com/channel/UCthV50MozQIfawL9a_g5rdg
+	Open SecurityTraining - lots of lengthy lecture-style vids, no recent posts, but quality info.
+	
+*	https://www.youtube.com/channel/UC6J_GnSAi7F2hY4RmnMcWJw
+	NetSecNow - channel of pentesteruniversity.org, seems to post once a month, screenshot instructional vids
+	
+*	https://www.youtube.com/channel/UC9Qa_gXarSmObPX3ooIQZrg
+	Metasploitation - lots of screenshot vids, little to no dialogue, all about using Metasploit, no recent vids.
+	
+*	https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w
+	LiveOverflow - Lots of brief-to-medium instructional vids, covering things like buffer overflows and exploit writing, regular posts.
+	
+*	https://www.youtube.com/channel/UCCQLBOt_hbGE-b9I696VRow
+	LionSec - lots of brief screenshot instructional vids, no dialog
+	
+*	https://www.youtube.com/user/thefieldhouse/feed
+	Latest Hacking News 10K followers, medium length screenshot videos, no recent releases
+	
+*	https://www.youtube.com/user/RootOfTheNull
+	John Hammond - Solves CTF problems. contains penTesting tips and tricks
+	
+*	https://www.youtube.com/channel/UC64x_rKHxY113KMWmprLBPA
+	JackkTutorials - lots of medium length instructional vids with some AskMe vids from the youtuber
+	
+*	https://www.youtube.com/channel/UCx0HClQ_cv0sLNOVhoO2nxg/videos
+	iExplo1t - lots of screenshot vids aimed at novices, 5.7K Followers, no recent posts
+	
+*	https://www.youtube.com/channel/UCbsn2kQwNxcIzHwbdDjzehA
+	HACKING TUTORIALS - handful of brief screenshot vids, no recent posts.
+	
+*	https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q
+	HackerSploit - regular posts, medium length screenshot vids, with dialog
+	
+*	https://www.youtube.com/channel/UCCkVMojdBWS-JtH7TliWkVg
+	GynvaelEN - Security streams from Google Researcher. Mainly about CTFs, computer security, programing and similar things.
+	
+*	https://www.youtube.com/channel/UC09NdTL2hkThGLSab8chJMw
+	Geeks Fort - KIF - lots of brief screenshot vids, no recent posts
+	
+*	https://www.youtube.com/channel/UC4HcNHFKshqj-aeyi6imW7Q
+	Error 404 Cyber News - short screen-shot videos with loud metal, no dialog, bi-weekly
+	
+*	https://www.youtube.com/channel/UCarxjDjSYsIf50Jm73V1D7g
+	Don Does 30 - amateur pen-tester posting lots of brief screenshot vids regularly, 9K Followers
+	
+*	https://www.youtube.com/channel/UCMACXuWd2w6_IEGog744UaA
+	Derek Rook - CTF/Boot2root/wargames Walkthrough - lots of lengthy screenshot instructional vids, with
+	
+*	https://www.youtube.com/channel/UCJItQmwUrcW4VdUqWaRUNIg
+	DemmSec - lots of pen testing vids, somewhat irregular uploads, 44K followers
+	
+*	https://www.youtube.com/channel/UC6Om9kAkl32dWlDSNlDS9Iw
+	DEFCON Conference - lots of lengthy con-style vids from the iconical DEFCON
+	
+*	https://www.youtube.com/channel/UCx34ZZW2KgezfUPPeL6m8Dw
+	DedSec - lots of brief screenshot how-to vids based in Kali, no recent posts.
+	
+*	https://www.youtube.com/channel/UCqbkm47qBxDj-P3lI9voIAw
+	danooct1 - lots of brief screenshot, how-to vids regarding malware, regular content updates, 186K followerss
+	
+*	https://www.youtube.com/channel/UCoHypmu8rxlB5Axh5JxFZsA
+	BalCCon - Balkan Computer Congress - Long con-style talks from the Balkan Computer Congress, doesn’t update regularly
+	
+*	https://www.youtube.com/channel/UC7dUL0FbVPGqzdb2HtWw3Xg
+	Corey Nachreiner - security newsbites, 2.7K subscribers, 2-3 videos a week, no set schedule
+	
+*	https://www.youtube.com/user/irongeek
+	Adrian Crenshaw - lots of lengthy con-style talks
+	
+*	https://www.youtube.com/channel/UCPqes566OZ3G_fjxL6BngRQ
+	0x41414141 - Channel with couple challenges, well explained
