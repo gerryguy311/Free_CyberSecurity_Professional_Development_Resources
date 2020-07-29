@@ -31,6 +31,8 @@ https://www.hackerone.com/hacktivitycon#
 
 * **ShellCon** Oct 9-10 ShellCon is an information security conference that is held annually in the beautiful beach cities of Los Angeles. Our conference is a growing event that creates an atmosphere of open communication, collaboration, and connection. We value community, technical knowledge, and getting your hands dirty. Presentations and events at the con will have a focus on practicality and real-world applications. We want you to walk away from ShellCon with an itch to try what you just learned and the knowledge to do so. https://shellcon.io/
 
+* **AWS RE:Invent** NOV. 30 – DEC. 18, 2020 - AWS Major conference. Will cover more then security, but worth being on the list. https://reinvent.awsevents.com/
+
 * **SUMMERCON 2020** -Archived- Summercon is one of the oldest hacker conventions, and the longest running such conference in America. It helped set a precedent for more modern "cons" such as H.O.P.E. and DEF CON, although it has remained smaller and more personal.  https://youtu.be/uVbrxMTrp0k
 
 
