@@ -122,6 +122,8 @@ https://www.hackerone.com/hacktivitycon#
 
 45. **Choose Your Own Cyber Adventure Series: Entry Level Cyber Jobs Explained** YouTube Playlist (videos from my channel #simplyCyber) This playlist is a collection of various roles within the information security field, mostly entry level, so folks can understand what different opportunities are out there. https://www.youtube.com/playlist?list=PL4Q-ttyNIRAqog96mt8C8lKWzTjW6f38F
 
+46. **NETINSTRUCT.COM** Free Cybersecurity, IT and Leadership Courses - Includes OS and networking basics. Critical to any Cyber job. https://netinstruct.com/courses
+
 
 ## Instructor Led Webinar/ Labs / Workshops
 
