@@ -379,7 +379,7 @@ _This list was originally forked/curated from here: https://wportal.xyz/collecti
 ## Discord and Slack (Networking and Communication Opportunities)
 
 * **Metasploit Official Public** Slack https://metasploit.com/slack
-* **BlackHills Information Security Discord** TBD pending auth.
+* **BlackHills Information Security Discord** https://discord.gg/FWykjNy
 * **The Cyber Mentor** Discord https://discord.com/invite/REfpPJB
 * **DERPCON** Discord - https://discord.gg/invite/859Zvrm 
 * **InfoSecJobs** Discord https://invite.infosecjobs.xyz/
