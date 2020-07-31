@@ -4,14 +4,14 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
 Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/GeraldAuger 
 
 # CATEGORIES
-  1. CONFERENCES
-  2. TRAINING
-  3. INSTRUCTOR LED WEBINAR/LABS/WORKSHOPS
-  4. BOOKS
+  1. Conferences
+  2. Training
+  3. Instructor Led Webinar/Labs/Workshops
+  4. Books
   5. College Courses (Multi-week w/Enrollment)
-  6. PODCASTS
+  6. Podcasts
   7. YouTube Channels
-  8. Hacking Sites & Forum
+  8. Cybersecurity News, Events, and Forums
   
 ## Conferences
 
@@ -374,13 +374,13 @@ _This list was originally forked/curated from here: https://wportal.xyz/collecti
 	
 *	**0x41414141** - Channel with couple challenges, well explained https://www.youtube.com/channel/UCPqes566OZ3G_fjxL6BngRQ
 
-## Hacking Sites & Forum
-*	**The Hacker News** - The Hacker News (THN) is a leading, trusted, widely-acknowledged dedicated cybersecurity news platform, attracting over 8 million monthly readers including IT professionals, researchers, hackers, technologists, and enthusiasts.https://thehackernews.com
-*	**HackADay** - Hackaday serves up Fresh Hacks Every Day from around the Internet.https://hackaday.com/
-*	**Darknet** - Darknet is a group of like-minded individuals founded around 1999 sharing knowledge in password cracking, cracking, cryptography, programming (C++, VB, Delphi, C, Pascal, Assembly, Python, PERL, Bash and so on), network security, Linux, Windows, UNIX and more.https://www.darknet.org.uk/
-*	**HackerSploit** - HackerSploit is the leading provider of free and open-source Infosec and cybersecurity training.https://hackersploit.org/
+## Cybersecurity News, Events, and Forums
+*	**The Hacker News** - The Hacker News (THN) is a leading, trusted, widely-acknowledged dedicated cybersecurity news platform, attracting over 8 million monthly readers including IT professionals, researchers, hackers, technologists, and enthusiasts. https://thehackernews.com
+*	**HackADay** - Hackaday serves up Fresh Hacks Every Day from around the Internet. https://hackaday.com/
+*	**Darknet** - Darknet is a group of like-minded individuals founded around 1999 sharing knowledge in password cracking, cracking, cryptography, programming (C++, VB, Delphi, C, Pascal, Assembly, Python, PERL, Bash and so on), network security, Linux, Windows, UNIX and more. https://www.darknet.org.uk/
+*	**HackerSploit** - HackerSploit is the leading provider of free and open-source Infosec and cybersecurity training. https://hackersploit.org/
 *	**Exploit Database** - The Exploit Database is maintained by Offensive Security, an information security training company that provides various Information Security Certifications as well as high end penetration testing services. https://www.exploit-db.com/
-*	**SecuriTeam** - A free and independent source of vulnerability information.https://securiteam.com/
+*	**SecuriTeam** - A free and independent source of vulnerability information. https://securiteam.com/
 
 
  
