@@ -11,6 +11,7 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
   5. College Courses (Multi-week w/Enrollment)
   6. PODCASTS
   7. YouTube Channels
+  8. Hacking Sites & Forum
   
 ## Conferences
 
@@ -123,6 +124,7 @@ https://www.hackerone.com/hacktivitycon#
 45. **Choose Your Own Cyber Adventure Series: Entry Level Cyber Jobs Explained** YouTube Playlist (videos from my channel #simplyCyber) This playlist is a collection of various roles within the information security field, mostly entry level, so folks can understand what different opportunities are out there. https://www.youtube.com/playlist?list=PL4Q-ttyNIRAqog96mt8C8lKWzTjW6f38F
 
 46. **NETINSTRUCT.COM** Free Cybersecurity, IT and Leadership Courses - Includes OS and networking basics. Critical to any Cyber job. https://netinstruct.com/courses
+47. **Evil Zone** Evilzone is a hacking and security network for hackers, crackers and other magnificent creatures alike.https://evilzone.org/
 
 
 ## Instructor Led Webinar/ Labs / Workshops
@@ -268,9 +270,7 @@ _This list was originally forked/curated from here: https://wportal.xyz/collecti
 	https://wiki.securityweekly.com/Tradecraft_Security_Weekly
 	
 *	**Derek Rook** - CTF/Boot2root/wargames Walkthrough - lots of lengthy screenshot instructional vids https://www.youtube.com/channel/UCMACXuWd2w6_IEGog744UaA
-	
-*	**HackerSploit** - regular posts, medium length screenshot vids, with dialog https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q
-	
+
 *	**Adrian Crenshaw** - lots of lengthy con-style talks https://www.youtube.com/user/irongeek
 	
 *	**LionSec** - lots of brief screenshot instructional vids, no dialog https://www.youtube.com/channel/UCCQLBOt_hbGE-b9I696VRow
@@ -386,4 +386,17 @@ _This list was originally forked/curated from here: https://wportal.xyz/collecti
 	
 	
 *	**0x41414141** - Channel with couple challenges, well explained https://www.youtube.com/channel/UCPqes566OZ3G_fjxL6BngRQ
+
+## Hacking Sites & Forum
+*	**The Hacker News** - The Hacker News (THN) is a leading, trusted, widely-acknowledged dedicated cybersecurity news platform, attracting over 8 million monthly readers including IT professionals, researchers, hackers, technologists, and enthusiasts.https://thehackernews.com
+*	**HackADay** - Hackaday serves up Fresh Hacks Every Day from around the Internet.https://hackaday.com/
+*	**Darknet** - Darknet is a group of like-minded individuals founded around 1999 sharing knowledge in password cracking, cracking, cryptography, programming (C++, VB, Delphi, C, Pascal, Assembly, Python, PERL, Bash and so on), network security, Linux, Windows, UNIX and more.https://www.darknet.org.uk/
+*	**HackerSploit** - HackerSploit is the leading provider of free and open-source Infosec and cybersecurity training.https://hackersploit.org/
+*	**Exploit Database** - The Exploit Database is maintained by Offensive Security, an information security training company that provides various Information Security Certifications as well as high end penetration testing services. https://www.exploit-db.com/
+*	**SecuriTeam** - A free and independent source of vulnerability information.https://securiteam.com/
+
+
+ 
+
+
 	
