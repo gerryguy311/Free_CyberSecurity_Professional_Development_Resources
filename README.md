@@ -25,6 +25,8 @@ https://www.hackerone.com/hacktivitycon#
 
 * **Tactical Edge Virtual Summit 2020** August 11-14 2020 - The Tactical Edge event covers a multitude of important cybersecurity topics, from the importance of awareness to pryvacy to new technological solutions using Artificial Intelligence and Machine Learning. https://tacticaledge.co/en/
 
+* **SCYTHE's UniCon** SCYTHE invites customers, researchers, and developers to sign-up for our FREE virtual conference “UniCon” on August 20, 2020 from 10:00 am - 5:30 pm EDT. https://zoom.us/webinar/register/3815947366418/WN_b4Bm9E5BSi2rhACLwiaJGw
+
 * **The Diana Initiative Virtual Conference** - Aug 21-22, 2020 - A conference focused on Women, Diversity, and Inclusion in Information Security that embraces all genders, sexualities, and skill levels. The Diana Initiative features multiple speaker tracks, fully expanded villages with hands-on workshops, and a women-led Capture the Flag event. https://www.eventbrite.com/e/the-diana-initiative-2020-tickets-112263061840
 
 * **JUNC 2020** 9/29/2020-10/1/2020 - Not entirely a security conference, but there are sub-sections for securing Apple devices. Apple IT administrators from around the world have rallied at the Jamf Nation User Conference (JNUC) for community presentations, deep-dive education sessions and expert product insights.  https://www.jamf.com/events/jamf-nation-user-conference/2020/faq/
