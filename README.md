@@ -11,7 +11,7 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
   5. College Courses (Multi-week w/Enrollment)
   6. Podcasts
   7. YouTube Channels
-  8. Cybersecurity News, Events, and Forums
+  8. Cybersecurity News and Forums (Discord and Slack)
   
 ## Conferences
 
@@ -374,7 +374,7 @@ _This list was originally forked/curated from here: https://wportal.xyz/collecti
 	
 *	**0x41414141** - Channel with couple challenges, well explained https://www.youtube.com/channel/UCPqes566OZ3G_fjxL6BngRQ
 
-## Cybersecurity News, Events, and Forums
+## Cybersecurity News and Forums (Discord and Slack)
 *	**The Hacker News** - The Hacker News (THN) is a leading, trusted, widely-acknowledged dedicated cybersecurity news platform, attracting over 8 million monthly readers including IT professionals, researchers, hackers, technologists, and enthusiasts. https://thehackernews.com
 *	**HackADay** - Hackaday serves up Fresh Hacks Every Day from around the Internet. https://hackaday.com/
 *	**Darknet** - Darknet is a group of like-minded individuals founded around 1999 sharing knowledge in password cracking, cracking, cryptography, programming (C++, VB, Delphi, C, Pascal, Assembly, Python, PERL, Bash and so on), network security, Linux, Windows, UNIX and more. https://www.darknet.org.uk/
@@ -382,8 +382,13 @@ _This list was originally forked/curated from here: https://wportal.xyz/collecti
 *	**Exploit Database** - The Exploit Database is maintained by Offensive Security, an information security training company that provides various Information Security Certifications as well as high end penetration testing services. https://www.exploit-db.com/
 *	**SecuriTeam** - A free and independent source of vulnerability information. https://securiteam.com/
 
+### Discord and Slack
 
- 
+* **Metasploit Official Public** Slack https://metasploit.com/slack
+* **BlackHills Information Security Discord** TBD pending auth.
+* **The Cyber Mentor** Discord https://discord.com/invite/REfpPJB
+* **DERPCON** Discord - https://discord.gg/invite/859Zvrm 
+* **InfoSecJobs** Discord https://invite.infosecjobs.xyz/
 
 
 	
