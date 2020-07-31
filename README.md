@@ -11,8 +11,8 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
   5. College Courses (Multi-week w/Enrollment)
   6. Podcasts
   7. YouTube Channels
-  8. Cybersecurity Discord and Slack Servers (Networking/Communication Opportunities)
-  9. Cybersecurity News and Forums
+  8. Discord and Slack Servers (Networking/Communication Opportunities)
+  9. News and Forums
   
 ## Conferences
 
@@ -387,7 +387,7 @@ _This list was originally forked/curated from here: https://wportal.xyz/collecti
 * **InfoSecJobs** Discord https://invite.infosecjobs.xyz/
 * **GRIMM Con - Public** Discord https://discord.gg/bDdgyaV
 
-## Cybersecurity News and Forums
+## News and Forums
 *	**The Hacker News** - The Hacker News (THN) is a leading, trusted, widely-acknowledged dedicated cybersecurity news platform, attracting over 8 million monthly readers including IT professionals, researchers, hackers, technologists, and enthusiasts. https://thehackernews.com
 *	**HackADay** - Hackaday serves up Fresh Hacks Every Day from around the Internet. https://hackaday.com/
 *	**Darknet** - Darknet is a group of like-minded individuals founded around 1999 sharing knowledge in password cracking, cracking, cryptography, programming (C++, VB, Delphi, C, Pascal, Assembly, Python, PERL, Bash and so on), network security, Linux, Windows, UNIX and more. https://www.darknet.org.uk/
