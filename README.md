@@ -385,6 +385,7 @@ _This list was originally forked/curated from here: https://wportal.xyz/collecti
 * **The Cyber Mentor** Discord https://discord.com/invite/REfpPJB
 * **DERPCON** Discord - https://discord.gg/invite/859Zvrm 
 * **InfoSecJobs** Discord https://invite.infosecjobs.xyz/
+* **GRIMM Con - Public** Discord https://discord.gg/bDdgyaV
 
 ## Cybersecurity News and Forums
 *	**The Hacker News** - The Hacker News (THN) is a leading, trusted, widely-acknowledged dedicated cybersecurity news platform, attracting over 8 million monthly readers including IT professionals, researchers, hackers, technologists, and enthusiasts. https://thehackernews.com
