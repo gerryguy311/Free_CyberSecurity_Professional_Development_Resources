@@ -39,6 +39,8 @@ https://www.hackerone.com/hacktivitycon#
 
 * **SUMMERCON 2020** -Archived- Summercon is one of the oldest hacker conventions, and the longest running such conference in America. It helped set a precedent for more modern "cons" such as H.O.P.E. and DEF CON, although it has remained smaller and more personal.  https://youtu.be/uVbrxMTrp0k
 
+* **Cybercraft Security Summit** CyberCraft is committed to connecting and enhancing the Cybersecurity and Anti-Fraud communities. After all, it’s all about fighting against the bad guys whether they are stealing data, money or both. https://cybercraftsummit.com/
+
 
 ## Training
 
