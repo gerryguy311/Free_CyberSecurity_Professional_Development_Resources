@@ -379,7 +379,7 @@ _This list was originally forked/curated from here: https://wportal.xyz/collecti
 
 
 ## Discord and Slack (Networking and Communication Opportunities)
-
+_I'm (Gerald Auger) personally a member of the following Discord/Slack groups and have validated their quality and integrity. Message me if you want in those channels Discord: Gerald.Auger | Slack Gerald_Auger_
 * **Metasploit Official Public** Slack https://metasploit.com/slack
 * **BlackHills Information Security Discord** https://discord.gg/FWykjNy
 * **The Cyber Mentor** Discord https://discord.com/invite/REfpPJB
@@ -387,10 +387,17 @@ _This list was originally forked/curated from here: https://wportal.xyz/collecti
 * **InfoSecJobs** Discord https://invite.infosecjobs.xyz/
 * **GRIMM Con - Public** Discord https://discord.gg/bDdgyaV
 
-## News and Forums
+_The follow channels I'm not a member of and cuarted but have not validated their quality and integrity personally. If you are a member and can message me about these groups I will move them into a validated category_ 
+* **OWASP** (Slack) The Open Web Application Security Project (OWASP) is an online community that produces freely-available articles, methodologies, documentation, tools, and technologies in the field of web application security.  https://owasp.slack.com/
+* **DFIR Community ** Security folks interested in Digital Forensics & Incident Response. https://rishi28.typeform.com/to/sTbTI8
+* **Binary Ninja Slack** This is a channel dedicated to reverse engineering. Reverse engineering also called back engineering is the processes of extracting knowledge or design information from anything man-made and reproducing it or reproducing anything based on the extracted information the process often involves disassembling something a mechanical device electronic component computer program or biological chemical or organic matter and analysing its components and workings in detail. https://slackin-sbhuzyheck.now.sh/
+* **Security HQ Slack** SecurityHQ is a channel most welcoming for all the security professionals and every newbie who wanted to build a career on Information Security or Cyber Security is most welcome to this channel. https://securityhq.herokuapp.com/
+* **CentralSec Slack** This is a community of people who are into everything in information security. https://launchpass.com/centralsec
+* **Penetration Testers Slack** This is a group of ethical hackers and you’re most welcome to this channel if you wanted to start pentesting and find the vulnerabilities and exploits on any website or app and get more help from the fellow members of the channel. https://pentestpractice.slack.com/
+
+## Resources
 *	**The Hacker News** - The Hacker News (THN) is a leading, trusted, widely-acknowledged dedicated cybersecurity news platform, attracting over 8 million monthly readers including IT professionals, researchers, hackers, technologists, and enthusiasts. https://thehackernews.com
 *	**HackADay** - Hackaday serves up Fresh Hacks Every Day from around the Internet. https://hackaday.com/
-*	**Darknet** - Darknet is a group of like-minded individuals founded around 1999 sharing knowledge in password cracking, cracking, cryptography, programming (C++, VB, Delphi, C, Pascal, Assembly, Python, PERL, Bash and so on), network security, Linux, Windows, UNIX and more. https://www.darknet.org.uk/
 *	**HackerSploit** - HackerSploit is the leading provider of free and open-source Infosec and cybersecurity training. https://hackersploit.org/
 *	**Exploit Database** - The Exploit Database is maintained by Offensive Security, an information security training company that provides various Information Security Certifications as well as high end penetration testing services. https://www.exploit-db.com/
 *	**SecuriTeam** - A free and independent source of vulnerability information. https://securiteam.com/
