@@ -12,7 +12,7 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
   6. Podcasts
   7. YouTube Channels
   8. Discord and Slack Servers (Networking/Communication Opportunities)
-  9. News and Forums
+  9. Resources
   
 ## Conferences
 
