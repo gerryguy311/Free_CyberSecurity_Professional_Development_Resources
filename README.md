@@ -33,13 +33,15 @@ https://www.hackerone.com/hacktivitycon#
 
 * **DataConnectors** 8/6, 8/19, 9/17, 9/24, 9/30, 10/8, 10/15, 10/22, 10/29, 11/5, 11/11, 11/18, 12/10 - Multiple event Virtual Cybercommunity con. Data Connectors has invested in a fully immersive virtual event platform, which provides every facet of our in-person conferences that can be facilitated online: Real-time speaking sessions, live keynotes and presenter Q&A Panel, Moderated CISO Panel, Solutions Showcase with interactive Virtual Exhibit Booths https://www.dataconnectors.com/attend/
 
+* **Cybercraft Security Summit** Oct 1-2 CyberCraft is committed to connecting and enhancing the Cybersecurity and Anti-Fraud communities. After all, it’s all about fighting against the bad guys whether they are stealing data, money or both. https://cybercraftsummit.com/
+
 * **ShellCon** Oct 9-10 ShellCon is an information security conference that is held annually in the beautiful beach cities of Los Angeles. Our conference is a growing event that creates an atmosphere of open communication, collaboration, and connection. We value community, technical knowledge, and getting your hands dirty. Presentations and events at the con will have a focus on practicality and real-world applications. We want you to walk away from ShellCon with an itch to try what you just learned and the knowledge to do so. https://shellcon.io/
 
 * **AWS RE:Invent** NOV. 30 – DEC. 18, 2020 - AWS Major conference. Will cover more then security, but worth being on the list. https://reinvent.awsevents.com/
 
 * **SUMMERCON 2020** -Archived- Summercon is one of the oldest hacker conventions, and the longest running such conference in America. It helped set a precedent for more modern "cons" such as H.O.P.E. and DEF CON, although it has remained smaller and more personal.  https://youtu.be/uVbrxMTrp0k
 
-* **Cybercraft Security Summit** CyberCraft is committed to connecting and enhancing the Cybersecurity and Anti-Fraud communities. After all, it’s all about fighting against the bad guys whether they are stealing data, money or both. https://cybercraftsummit.com/
+
 
 
 ## Training
