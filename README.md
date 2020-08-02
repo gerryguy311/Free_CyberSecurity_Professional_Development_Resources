@@ -46,6 +46,12 @@ https://www.hackerone.com/hacktivitycon#
 
 ## Training
 
+* **WebSecurity Academy** Free online web security training from the creators of Burp Suite https://portswigger.net/web-security
+
+* **Mosse Cyber Security Institute** Introduction to cybersecurity free certification with 100+ hours of training, no expiry/renewals, https://www.mosse-institute.com/certifications/mics-introduction-to-cyber-security.html
+
+* **BugCrowd University** Free bug hunting resources and methodologies in form of webinars, education and training. https://www.bugcrowd.com/hackers/bugcrowd-university/
+
 * **Certified Network Security Specialist** Certification and training; Expires Aug 31 2020 Use coupon code #StaySafeHome during checkout to claim your free access. Offer is valid till 31/08/2020.  £500.00 Value https://www.icsi.co.uk/courses/icsi-cnss-certified-network-security-specialist-covid-19
 
 *	**Metasploit Unleashed**	Most complete and in-depth Metasploit guide available, with contributions from the authors of the No Starch Press Metasploit Book. 	https://www.offensive-security.com/metasploit-unleashed/
@@ -253,6 +259,8 @@ _Below podcasts Added from here: https://infosec-conferences.com/cybersecurity-p
 
 * **Getting Into Infosec Podcast** Stories of how Infosec and Cybersecurity pros got jobs in the field so you can be inspired, motivated, and educated on your journey. - https://gettingintoinfosec.com/
 
+* **Unsupervised Learning** Weekly podcasts and biweekly newsletters as a curated summary intersection of security, technology, and humans, or a standalone idea to provoke thought, by Daniel Miessler. https://danielmiessler.com/podcast/ 
+
 ## Cybersecurity YouTube Channels
 _This list was originally forked/curated from here: https://wportal.xyz/collection/cybersec-yt1 on (7/29/2020) Attribution and appreciation to d4rckh_ 
 
@@ -349,6 +357,10 @@ _This list was originally forked/curated from here: https://wportal.xyz/collecti
 
 *	**HackADay** - Hackaday serves up Fresh Hacks Every Day from around the Internet. https://hackaday.com/
 
+*	**TheCyberMentor** - Heath Adams uploads regular videos related to various facets of cyber security, from bug bounty hunts to specific pentest methodologies like API, buffer overflows, networking. https://www.youtube.com/c/TheCyberMentor/
+
+*	**Grant Collins** - Grant uploads videos regarding breaking into cybersecurity, various cybersecurity projects, building up a home lab amongst many others. Also has a companion discord channel and a resource website. https://www.youtube.com/channel/UCTLUi3oc1-a7dS-2-YgEKmA/featured
+
 ## Discord and Slack (Networking and Communication Opportunities)
 _I'm (Gerald Auger) personally a member of the following Discord/Slack groups and have validated their quality and integrity. Message me if you want in those channels Discord: Gerald.Auger | Slack Gerald_Auger_
 * **Metasploit Official Public** Slack https://metasploit.com/slack
@@ -374,6 +386,14 @@ _The follow channels I'm not a member of and cuarted but have not validated thei
 * **The Hacker News** - The Hacker News (THN) is a leading, trusted, widely-acknowledged dedicated cybersecurity news platform, attracting over 8 million monthly readers including IT professionals, researchers, hackers, technologists, and enthusiasts. https://thehackernews.com
 
 * **SecuriTeam** - A free and independent source of vulnerability information. https://securiteam.com/
+
+## Virtual Networking Meets
+
+* **Cybersecurity Mentoring Hub** Global session conducted over webex with a discussion/presentation on cybersecurity topic from within the community. Regular shoutouts on LinkedIn. https://cybersecmentorship.org/
+
+* **MeetCyber** Regular sessions conducted over crowdcast, can be a training or a workshop, excellent networking and learning opportunities. https://meetcyber.net/
+
+
 
 ## TBD Section (Maybe References or Tools) _work in progress down here_
 * **Exploit Database** - The Exploit Database is maintained by Offensive Security, an information security training company that provides various Information Security Certifications as well as high end penetration testing services. https://www.exploit-db.com/
