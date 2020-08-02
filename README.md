@@ -94,8 +94,6 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
 
 * **Packt Web Development Course** Web Development Get to grips with the fundamentals of the modern web Unlock one year of free online access. https://courses.packtpub.com/pages/free?fbclid=IwAR1FtKQcYK8ycCmBMXaBGvW_7SgPVDMKMaRVwXYcSbiwvMfp75gazxRZlzY
 
-* **Learn Empire Powershell** This Tutorial contains installation of Kali Linux and Windows VM, Installation of Empire PowerShell 3.1,Exploiting Windows 10 machines by various attacks including Empire,Running Mimikatz, Privelege Escalation & Using Hashcat to crack the various password hashes https://pentestskills.teachable.com/p/empire-powershell
-
 * **Stanford University Webinar - Hacked! Security Lessons from Big Name Breaches** 50 minute cyber lecture from Stanford.You Will Learn: -- The root cause of key breaches and how to prevent them; How to measure your organization’s external security posture; How the attacker lifecycle should influence the way you allocate resources https://www.youtube.com/watch?v=V9agUAz0DwI
 
 * **Stanford University Webinar - Hash, Hack, Code: Emerging Trends in Cyber Security** Join Professor Dan Boneh as he shares new approaches to these emerging trends and dives deeper into how you can protect networks and prevent harmful viruses and threats. 50 minute cyber lecture from Stanford. https://www.youtube.com/watch?v=544rhbcDtc8
