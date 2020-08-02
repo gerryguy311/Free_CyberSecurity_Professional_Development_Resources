@@ -16,9 +16,7 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
   
 ## Conferences
 
-* **H@cktivityCon** July 31 - August 01 - h@cktivitycon is a HackerOne hosted hacker conference built by the community for the community. h@cktivitycon is a place for hackers to learn, share, and meet friends. Hear talks and panelists exploring offensive hacking techniques, recon skills, target selection and more.
-https://www.hackerone.com/hacktivitycon#
-
+### August
 * **DEFCON 28** Aug 7-9 2020 - This is a very well known, premiere conference within the cybersecurity space. Check for more information as there will be villages, events, parties, talks, etc. You cannot register yet, but details here: https://www.defcon.org/html/defcon-28/dc-28-index.html
 
 * **SXOS 2.0 SiberX** Aug 10-14 2020 - siberXchange is a global community of cybersecurity leaders and professionals representing leading organizations across the world. Led by an advisory of cybersecurity champions, this online community has groups for problem solving, custom solutioning, networking and broadcasting. Address the global community from our reporting hub with live statistics and immersive visuals: multilingual, accessible and customized outreach. https://siberx.org/event/sxos-2-0/
@@ -29,16 +27,22 @@ https://www.hackerone.com/hacktivitycon#
 
 * **The Diana Initiative Virtual Conference** - Aug 21-22, 2020 - A conference focused on Women, Diversity, and Inclusion in Information Security that embraces all genders, sexualities, and skill levels. The Diana Initiative features multiple speaker tracks, fully expanded villages with hands-on workshops, and a women-led Capture the Flag event. https://www.eventbrite.com/e/the-diana-initiative-2020-tickets-112263061840
 
+* **DataConnectors** 8/6, 8/19, 9/17, 9/24, 9/30, 10/8, 10/15, 10/22, 10/29, 11/5, 11/11, 11/18, 12/10 - Multiple event Virtual Cybercommunity con. Data Connectors has invested in a fully immersive virtual event platform, which provides every facet of our in-person conferences that can be facilitated online: Real-time speaking sessions, live keynotes and presenter Q&A Panel, Moderated CISO Panel, Solutions Showcase with interactive Virtual Exhibit Booths https://www.dataconnectors.com/attend/
+
+### September
 * **JUNC 2020** 9/29/2020-10/1/2020 - Not entirely a security conference, but there are sub-sections for securing Apple devices. Apple IT administrators from around the world have rallied at the Jamf Nation User Conference (JNUC) for community presentations, deep-dive education sessions and expert product insights.  https://www.jamf.com/events/jamf-nation-user-conference/2020/faq/
 
 * **DataConnectors** 8/6, 8/19, 9/17, 9/24, 9/30, 10/8, 10/15, 10/22, 10/29, 11/5, 11/11, 11/18, 12/10 - Multiple event Virtual Cybercommunity con. Data Connectors has invested in a fully immersive virtual event platform, which provides every facet of our in-person conferences that can be facilitated online: Real-time speaking sessions, live keynotes and presenter Q&A Panel, Moderated CISO Panel, Solutions Showcase with interactive Virtual Exhibit Booths https://www.dataconnectors.com/attend/
 
+### October
 * **Cybercraft Security Summit** Oct 1-2 CyberCraft is committed to connecting and enhancing the Cybersecurity and Anti-Fraud communities. After all, it’s all about fighting against the bad guys whether they are stealing data, money or both. https://cybercraftsummit.com/
 
 * **ShellCon** Oct 9-10 ShellCon is an information security conference that is held annually in the beautiful beach cities of Los Angeles. Our conference is a growing event that creates an atmosphere of open communication, collaboration, and connection. We value community, technical knowledge, and getting your hands dirty. Presentations and events at the con will have a focus on practicality and real-world applications. We want you to walk away from ShellCon with an itch to try what you just learned and the knowledge to do so. https://shellcon.io/
 
+### November
 * **AWS RE:Invent** NOV. 30 – DEC. 18, 2020 - AWS Major conference. Will cover more then security, but worth being on the list. https://reinvent.awsevents.com/
 
+### Archived/Replay
 * **SUMMERCON 2020** -Archived- Summercon is one of the oldest hacker conventions, and the longest running such conference in America. It helped set a precedent for more modern "cons" such as H.O.P.E. and DEF CON, although it has remained smaller and more personal.  https://youtu.be/uVbrxMTrp0k
 
 
@@ -361,7 +365,18 @@ _This list was originally forked/curated from here: https://wportal.xyz/collecti
 
 *	**Grant Collins** - Grant uploads videos regarding breaking into cybersecurity, various cybersecurity projects, building up a home lab amongst many others. Also has a companion discord channel and a resource website. https://www.youtube.com/channel/UCTLUi3oc1-a7dS-2-YgEKmA/featured
 
-## Discord and Slack (Networking and Communication Opportunities)
+
+## News
+* **Krebs On Security** In depth security news and investigation https://krebsonsecurity.com/
+
+* **Dark Reading** Cyber security's comprehensive news site is now an online community for security professionals. https://www.darkreading.com/
+
+* **The Hacker News** - The Hacker News (THN) is a leading, trusted, widely-acknowledged dedicated cybersecurity news platform, attracting over 8 million monthly readers including IT professionals, researchers, hackers, technologists, and enthusiasts. https://thehackernews.com
+
+* **SecuriTeam** - A free and independent source of vulnerability information. https://securiteam.com/
+
+## Professional Networking / (Virtual) Meetups
+### Discord and Slack (Networking and Communication Opportunities)
 _I'm (Gerald Auger) personally a member of the following Discord/Slack groups and have validated their quality and integrity. Message me if you want in those channels Discord: Gerald.Auger | Slack Gerald_Auger_
 * **Metasploit Official Public** Slack https://metasploit.com/slack
 * **BlackHills Information Security Discord** https://discord.gg/FWykjNy
@@ -378,21 +393,10 @@ _The follow channels I'm not a member of and cuarted but have not validated thei
 * **CentralSec Slack** This is a community of people who are into everything in information security. https://launchpass.com/centralsec
 * **Penetration Testers Slack** This is a group of ethical hackers and you’re most welcome to this channel if you wanted to start pentesting and find the vulnerabilities and exploits on any website or app and get more help from the fellow members of the channel. https://pentestpractice.slack.com/
 
-## News
-* **Krebs On Security** In depth security news and investigation https://krebsonsecurity.com/
-
-* **Dark Reading** Cyber security's comprehensive news site is now an online community for security professionals. https://www.darkreading.com/
-
-* **The Hacker News** - The Hacker News (THN) is a leading, trusted, widely-acknowledged dedicated cybersecurity news platform, attracting over 8 million monthly readers including IT professionals, researchers, hackers, technologists, and enthusiasts. https://thehackernews.com
-
-* **SecuriTeam** - A free and independent source of vulnerability information. https://securiteam.com/
-
-## Virtual Networking Meets
-
+### (Virtual) Meetups
 * **Cybersecurity Mentoring Hub** Global session conducted over webex with a discussion/presentation on cybersecurity topic from within the community. Regular shoutouts on LinkedIn. https://cybersecmentorship.org/
 
 * **MeetCyber** Regular sessions conducted over crowdcast, can be a training or a workshop, excellent networking and learning opportunities. https://meetcyber.net/
-
 
 
 ## TBD Section (Maybe References or Tools) _work in progress down here_
