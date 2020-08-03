@@ -17,6 +17,9 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
 ## Conferences
 
 ### August
+
+* **Google 0x0G 2020 Virtual** - August 4, 2020 12:00 PM  - 6:00 PM  EDT - We’re switching to safety mode, and hosting the first virtual 0x0G Lounge! Tune in for an inside look into the latest innovations within Google’s security teams. We’ll be hosting a series of Birds of a Feather talks, a panel discussion, and an info session about Careers at Google. https://careersonair.withgoogle.com/events/0x0g
+
 * **DEFCON 28** Aug 7-9 2020 - This is a very well known, premiere conference within the cybersecurity space. Check for more information as there will be villages, events, parties, talks, etc. You cannot register yet, but details here: https://www.defcon.org/html/defcon-28/dc-28-index.html
 
 * **SXOS 2.0 SiberX** Aug 10-14 2020 - siberXchange is a global community of cybersecurity leaders and professionals representing leading organizations across the world. Led by an advisory of cybersecurity champions, this online community has groups for problem solving, custom solutioning, networking and broadcasting. Address the global community from our reporting hub with live statistics and immersive visuals: multilingual, accessible and customized outreach. https://siberx.org/event/sxos-2-0/
