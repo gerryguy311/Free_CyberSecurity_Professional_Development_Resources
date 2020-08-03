@@ -182,6 +182,8 @@ By Heather Adkins, Betsy Beyer, Paul Blankinship, Ana Oprea, Piotr Lewandowski, 
 * **Free Springer Textbooks** 
 Valid at least through July, Springer is providing free access to several hundred titles in its eBook collection. Books are available via SpringerLink and can be viewed online or downloaded as PDF or EBUP files. Disciplines include computer science, networking, cryptography, digital forensics, and others. https://link.springer.com/search/page/1?facet-content-type=%22Book%22&package=mat-covid19_textbooks&facet-language=%22En%22&sortOrder=newestFirst&showAll=true 
 
+* **Texas A&M Security Courses** The web-based courses are designed to ensure that the privacy, reliability, and integrity of the information systems that power the global economy remain intact and secure. The web-based courses are offered through three discipline-specific tracks: general, non-technical computer users; technical IT professionals; and business managers and professionals. https://teex.org/program/dhs-cybersecurity/ 
+
 
 ## College Courses (Multi-week w/Enrollment)
 
@@ -213,6 +215,7 @@ https://www.edx.org/course/finding-your-cybersecurity-career-path
 * **Network Security**  Georgia Institute of Technology via Udacity - This course provides an introduction to computer and network security. Students successfully completing this class will be able to evaluate works in academic and commercial security, and will have rudimentary skills in security research. The course begins with a tutorial of the basic elements of cryptography, cryptanalysis, and systems security, and continues by covering a number of seminal papers and monographs in a wide range of security areas. -  https://www.udacity.com/course/network-security--ud199
 
 * **Real-Time Cyber Threat Detection and Mitigation** - New York University (NYU) via Coursera This course introduces real-time cyber security techniques and methods in the context of the TCP/IP protocol suites. Explanation of some basic TCP/IP security hacks is used to introduce the need for network security solutions such as stateless and stateful firewalls. Learners will be introduced to the techniques used to design and configure firewall solutions such as packet filters and proxies to protect enterprise assets. https://www.coursera.org/learn/real-time-cyber-threat-detection
+
 
 ## Podcasts
 
