@@ -11,8 +11,8 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
   5. College Courses (Multi-week w/Enrollment)
   6. Podcasts
   7. YouTube Channels
-  8. Discord and Slack Servers (Networking/Communication Opportunities)
-  9. News
+  8. News
+  9. Professional Networking / (Virtual) Meetups (Discord/Slack Groups)
   
 ## Conferences
 
