@@ -149,6 +149,12 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
 
 * **Pretty Little Python Secrets (Episode 1): Installing Python Tools/Libraries the *Right Way* w/ Marcello Salvati (1-Hour)** - Thu, Aug 13, 2020 1:00 PM - 2:00 PM EDT - In this Black Hills Information Security webinar, we’ll share a collection of "ez button” methods to correctly install Python tools/libraries without messing up your entire system along with “why" and “how" behind them. https://register.gotowebinar.com/register/8462083788682367503
 
+* **Fortinet Secure SD-WAN and SASE (Webinar + Hands-on #Fortinet #FastTracks)** LINK: https://events.fortinet.com/WeeklyWebinarSeries
+Secure SD-WAN and SASE: The Best of Both Worlds Webinar (pt. 1) Wednesday, August 12, 2020 1:00 PM - 2:00 PM EDT
+Fortinet Security Fabric Enabling SASE Framework Demo (pt. 2) Thursday, August 13, 2020 2:00 PM - 3:00 PM EDT
+SD-WAN Technical Hands-on AM Fast Track (pt. 3) Friday, August 14, 2020 9:00 AM - 1:00 PM EDT
+SD-WAN Technical Hands-on PM Fast Track (pt. 3) Friday, August 14, 2020 2:00 PM - 6:00 PM EDT
+
 * **Workshop: Linux and Security Basics; Hands-On w/ Bill Stearns (4-Hours)** - Tue, Aug 18, 2020 11:00 AM - 4:00 PM EDT - We'd like to invite you to get up to speed with the Linux operating system, and specifically networking and security commands!  Maybe you've not used Linux, or you have and just aren't comfortable with using the command line.  Here's your chance to see the instructor run them, try them yourself, and learn more about what they do. https://register.gotowebinar.com/register/1890954799577820683
 
 * **How to Stay Secure in the Cloud with Center for Internet Security (CIS)** August 19, 2020 12:00 PM (America/New_York) The Center for Internet Security (CIS) provides organizations with a collection of integrated cybersecurity resources. These resources help evaluate and apply secure configuration settings to various cloud environments. With our global community of cybersecurity experts, we develop the CIS Controls and CIS Benchmarks. These best practices offer prescriptive guidance and configuration recommendations for various technology groups to safeguard systems against today’s evolving cyber threats. https://microsoftcloudpartner.eventbuilder.com/event/22628?source=ACOM
