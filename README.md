@@ -18,10 +18,6 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
 
 ### August
 
-* **Google 0x0G 2020 Virtual** - August 4, 2020 12:00 PM  - 6:00 PM  EDT - We’re switching to safety mode, and hosting the first virtual 0x0G Lounge! Tune in for an inside look into the latest innovations within Google’s security teams. We’ll be hosting a series of Birds of a Feather talks, a panel discussion, and an info session about Careers at Google. https://careersonair.withgoogle.com/events/0x0g
-
-* **DEFCON 28** Aug 7-9 2020 - This is a very well known, premiere conference within the cybersecurity space. Check for more information as there will be villages, events, parties, talks, etc. You cannot register yet, but details here: https://www.defcon.org/html/defcon-28/dc-28-index.html
-
 * **SXOS 2.0 SiberX** Aug 10-14 2020 - siberXchange is a global community of cybersecurity leaders and professionals representing leading organizations across the world. Led by an advisory of cybersecurity champions, this online community has groups for problem solving, custom solutioning, networking and broadcasting. Address the global community from our reporting hub with live statistics and immersive visuals: multilingual, accessible and customized outreach. https://siberx.org/event/sxos-2-0/
 
 * **Tactical Edge Virtual Summit 2020** August 11-14 2020 - The Tactical Edge event covers a multitude of important cybersecurity topics, from the importance of awareness to pryvacy to new technological solutions using Artificial Intelligence and Machine Learning. https://tacticaledge.co/en/
@@ -146,10 +142,6 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
 ## Instructor Led Webinar/ Labs / Workshops
 
 ### August
-
-* **Excellent Architecture to Avoid Common Mistakes in Security Operations Centers w/ Chris Crowley (1-Hour)** - Mon, Aug 3, 2020 1:00 PM - 2:00 PM EDT - Attend this talk to hear the components of a SOC that make it feel like the full architecture has been considered: Organizational interfaces in strategic and tactical ways; Monitoring, Threat Intelligence, Incident Handling, Forensics, and IT self-assessment. https://attendee.gotowebinar.com/register/4670498204276058126
-
-* **Workshop: Introduction to Hacking** by Fullstack Cyber Workshops August 8 2020 - From flyer - We’ll talk about some of the most common methods used to encrypt data, and show you some of the tactics used by "black hat" hackers to break that encryption. You'll learn a bit of theory, then go "hands on" with real-world encryption tools that cybersecurity practitioners use every day. https://www.eventbrite.com/e/workshop-introduction-to-hacking-tickets-104979231708 
 
 * **Cyber Threat Hunting w/ John Strand - August Session (4-Hours)** Tue, Aug 11, 2020 11:45 AM - 4:00 PM EDT - By the end of the course, you’ll understand the tools and techniques needed to perform compromise assessments within your own environment. While the course will be available later for download, live attendees will receive a "Cyber Security Threat Hunter Level-1" certificate.https://register.gotowebinar.com/register/4039466489309086736?source=BHISdisc
 
