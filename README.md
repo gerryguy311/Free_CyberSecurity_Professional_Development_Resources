@@ -22,6 +22,8 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
 
 * **Tactical Edge Virtual Summit 2020** August 11-14 2020 - The Tactical Edge event covers a multitude of important cybersecurity topics, from the importance of awareness to pryvacy to new technological solutions using Artificial Intelligence and Machine Learning. https://tacticaledge.co/en/
 
+* **Red Con 2020 - IBM X-Force Red** August 19, 2020 from 10:00 AM – 02:00 PM ET - Go behind closed doors with the team at X-Force Red, IBM Security’s team of hackers. X-Force Red hackers have found a new zero-day vulnerability that could put millions of internet-connected devices at risk of a compromise, and they want you to know about it so you can combat it. In addition to the new zero-day research, the team will be showcasing new attack tools and techniques, all built by X-Force Red’s hackers, that can help you discover high risk vulnerabilities. https://securityintelligence.com/events/red-con-2020/
+
 * **SCYTHE's UniCon** SCYTHE invites customers, researchers, and developers to sign-up for our FREE virtual conference “UniCon” on August 20, 2020 from 10:00 am - 5:30 pm EDT. https://zoom.us/webinar/register/3815947366418/WN_b4Bm9E5BSi2rhACLwiaJGw
 
 * **The Diana Initiative Virtual Conference** - Aug 21-22, 2020 - A conference focused on Women, Diversity, and Inclusion in Information Security that embraces all genders, sexualities, and skill levels. The Diana Initiative features multiple speaker tracks, fully expanded villages with hands-on workshops, and a women-led Capture the Flag event. https://www.eventbrite.com/e/the-diana-initiative-2020-tickets-112263061840
