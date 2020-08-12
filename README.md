@@ -109,6 +109,8 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
 
 * **Federal Virtual Training Environment** - US Govt sponsored free courses. There are 6 available, no login required. They are 101 Coding for the Public,  101 Critical Infrastructure Protection for the Public, Cryptocurrency for Law Enforcement for the Public, Cyber Supply Chain Risk Management for the Public, 101 Reverse Engineering for the Public, Fundamentals of Cyber Risk Management. https://fedvte.usalearning.gov/public_fedvte.php
 
+* **Intellipaat and Microsoft** In Collaboration with Microsoft to become a successful developer in Azure and offers more than 150 courses on skills. Lean to buildup your skills in Azure. https://intellipaat.com/microsoft-azure-training/
+
 * **Harrisburg University CyberSecurity** Collection of 18 curated talks. Scroll down to CYBER SECURITY section. You will see there are 4 categories Resource Sharing, Tools & Techniques, Red Team (Offensive Security) and Blue Teaming (Defensive Security). Lot of content in here; something for everyone. https://professionaled.harrisburgu.edu/online-content/
 
 * **OnRamp 101-Level ICS Security Workshop** Starts this 4/28.  10 videos, Q&A / discussion, bonus audio, great links. Get up to speed fast on ICS security. It runs for 5 weeks. 2 videos per week. Then we keep it open for another 3 weeks for 8 in total. https://onramp-3.s4xevents.com
