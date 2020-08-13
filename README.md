@@ -407,12 +407,61 @@ _The follow channels I'm not a member of and cuarted but have not validated thei
 * **MeetCyber** Regular sessions conducted over crowdcast, can be a training or a workshop, excellent networking and learning opportunities. https://meetcyber.net/
 
 
-## TBD Section (Maybe References or Tools) _work in progress down here_
+## References / Tools _work in progress down here_
 * **Exploit Database** - The Exploit Database is maintained by Offensive Security, an information security training company that provides various Information Security Certifications as well as high end penetration testing services. https://www.exploit-db.com/
-* **VirusTotal**
-* **Any.Run**
-* **Cheatsheets** 
+* **Malware Analysis**
+* VirusTotal - Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community https://www.virustotal.com/gui/
 
+* Any.Run Malware hunting with live access to the heart of an incident https://any.run/
+
+* **Cheatsheets**
+* Privilege-Escalation: This cheasheet is aimed at the CTF Players and Beginners to help them understand the fundamentals of Privilege Escalation with examples.
+https://github.com/Ignitetechnologies/Privilege-Escalation
+
+* Malware analysis tools and resources.
+https://github.com/rshipp/awesome-malware-analysis
+
+* Analyzing Malicious Documents Cheat Sheet
+https://zeltser.com/analyzing-malicious-documents/
+
+* ReverseEngineering Cheat Sheet
+https://www.cybrary.it/wp-content/uploads/2017/11/cheat-sheet-reverse-v6.png
+
+* SQL Injection | Various DBs
+http://pentestmonkey.net/category/cheat-sheet/sql-injection
+
+* Nmap Cheat Sheet and Pro Tips
+https://hackertarget.com/nmap-cheatsheet-a-quick-reference-guide/
+
+* PENTESTING LocalFileInclude Cheat Sheet
+https://highon.coffee/blog/lfi-cheat-sheet/
+
+* Penetration Testing Tools Cheat Sheet
+https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/
+
+* Reverse Shell Cheat Sheet
+https://highon.coffee/blog/reverse-shell-cheat-sheet/
+
+* nbtscan Cheat Sheet
+https://highon.coffee/blog/nbtscan-cheat-sheet/
+
+* Linux Commands Cheat Sheet
+https://highon.coffee/blog/linux-commands-cheat-sheet/
+
+* Kali Linux Cheat Sheet
+https://i.redd.it/9bu827i9tr751.jpg
+
+* Hacking Tools Cheat Sheet (Diff tools)
+https://i.redd.it/fviaw8s43q851.jpg
+
+* Google Search Operators: The Complete List (42 Advanced Operators)
+https://ahrefs.com/blog/google-advanced-search-operators/
+
+* (Multiple) (Good) Cheat Sheets - Imgur
+https://imgur.com/gallery/U5jqgik
+
+* Active-Directory-Exploitation-Cheat-Sheet: A cheat sheet that contains common enumeration and attack methods for Windows Active Directory.
+https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet
 
 
 	
