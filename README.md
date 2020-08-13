@@ -408,13 +408,13 @@ _The follow channels I'm not a member of and cuarted but have not validated thei
 
 
 ## References / Tools _work in progress down here_
-* **Exploit Database** - The Exploit Database is maintained by Offensive Security, an information security training company that provides various Information Security Certifications as well as high end penetration testing services. https://www.exploit-db.com/
-* **Malware Analysis**
+
+**Malware Analysis**
 * VirusTotal - Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community https://www.virustotal.com/gui/
 
 * Any.Run Malware hunting with live access to the heart of an incident https://any.run/
 
-* **Cheatsheets**
+**Cheatsheets**
 * Privilege-Escalation: This cheasheet is aimed at the CTF Players and Beginners to help them understand the fundamentals of Privilege Escalation with examples.
 https://github.com/Ignitetechnologies/Privilege-Escalation
 
@@ -463,5 +463,6 @@ https://imgur.com/gallery/U5jqgik
 * Active-Directory-Exploitation-Cheat-Sheet: A cheat sheet that contains common enumeration and attack methods for Windows Active Directory.
 https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet
 
-
+**Offensive** 
+* Exploit Database - The Exploit Database is maintained by Offensive Security, an information security training company that provides various Information Security Certifications as well as high end penetration testing services. https://www.exploit-db.com/
 	
