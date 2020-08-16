@@ -18,10 +18,6 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
 
 ### August
 
-* **SXOS 2.0 SiberX** Aug 10-14 2020 - siberXchange is a global community of cybersecurity leaders and professionals representing leading organizations across the world. Led by an advisory of cybersecurity champions, this online community has groups for problem solving, custom solutioning, networking and broadcasting. Address the global community from our reporting hub with live statistics and immersive visuals: multilingual, accessible and customized outreach. https://siberx.org/event/sxos-2-0/
-
-* **Tactical Edge Virtual Summit 2020** August 11-14 2020 - The Tactical Edge event covers a multitude of important cybersecurity topics, from the importance of awareness to pryvacy to new technological solutions using Artificial Intelligence and Machine Learning. https://tacticaledge.co/en/
-
 * **Red Con 2020 - IBM X-Force Red** August 19, 2020 from 10:00 AM – 02:00 PM ET - Go behind closed doors with the team at X-Force Red, IBM Security’s team of hackers. X-Force Red hackers have found a new zero-day vulnerability that could put millions of internet-connected devices at risk of a compromise, and they want you to know about it so you can combat it. In addition to the new zero-day research, the team will be showcasing new attack tools and techniques, all built by X-Force Red’s hackers, that can help you discover high risk vulnerabilities. https://securityintelligence.com/events/red-con-2020/
 
 * **SCYTHE's UniCon** SCYTHE invites customers, researchers, and developers to sign-up for our FREE virtual conference “UniCon” on August 20, 2020 from 10:00 am - 5:30 pm EDT. https://zoom.us/webinar/register/3815947366418/WN_b4Bm9E5BSi2rhACLwiaJGw
