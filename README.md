@@ -447,6 +447,9 @@ https://imgur.com/gallery/U5jqgik
 * Active-Directory-Exploitation-Cheat-Sheet: A cheat sheet that contains common enumeration and attack methods for Windows Active Directory.
 https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet
 
+* Shodan Query Filters
+https://github.com/JavierOlmedo/shodan-filters
+
 **Offensive** 
 * Exploit Database - The Exploit Database is maintained by Offensive Security, an information security training company that provides various Information Security Certifications as well as high end penetration testing services. https://www.exploit-db.com/
 	
