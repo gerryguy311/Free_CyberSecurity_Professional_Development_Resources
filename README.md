@@ -43,6 +43,30 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
 * **SUMMERCON 2020** -Archived- Summercon is one of the oldest hacker conventions, and the longest running such conference in America. It helped set a precedent for more modern "cons" such as H.O.P.E. and DEF CON, although it has remained smaller and more personal.  https://youtu.be/uVbrxMTrp0k
 
 
+## Instructor Led Webinar/ Labs / Workshops
+
+### August
+
+* **Workshop: Linux and Security Basics; Hands-On w/ Bill Stearns (4-Hours)** - Tue, Aug 18, 2020 11:00 AM - 4:00 PM EDT - We'd like to invite you to get up to speed with the Linux operating system, and specifically networking and security commands!  Maybe you've not used Linux, or you have and just aren't comfortable with using the command line.  Here's your chance to see the instructor run them, try them yourself, and learn more about what they do. https://register.gotowebinar.com/register/1890954799577820683
+
+* **How to Stay Secure in the Cloud with Center for Internet Security (CIS)** August 19, 2020 12:00 PM (America/New_York) The Center for Internet Security (CIS) provides organizations with a collection of integrated cybersecurity resources. These resources help evaluate and apply secure configuration settings to various cloud environments. With our global community of cybersecurity experts, we develop the CIS Controls and CIS Benchmarks. These best practices offer prescriptive guidance and configuration recommendations for various technology groups to safeguard systems against today’s evolving cyber threats. https://microsoftcloudpartner.eventbuilder.com/event/22628?source=ACOM
+
+### September
+
+* **Linux Forensics Magical Mystery Tour II -- "It's All About the Logs" w/ Hal Pomeranz (1-Hour)** - Wed, Sep 2, 2020 1:00 PM - 2:00 PM EDT - Here at the Linux Forensics Magical Mystery Tour, we're just crazy about logs! Audit logs, deleted logs, logs in binary formats that require ridiculous command-line tricks to parse. Oh yes, my friends! There will be plenty to surprise and amaze... and even some knowledge that might be useful for your next Linux investigation! https://register.gotowebinar.com/register/1226335205199516171
+
+* **Workshop: Introduction to Hacking** by Fullstack Cyber Workshops Sept 5 2020 - From flyer - We’ll talk about some of the most common methods used to encrypt data, and show you some of the tactics used by "black hat" hackers to break that encryption. You'll learn a bit of theory, then go "hands on" with real-world encryption tools that cybersecurity practitioners use every day. https://www.eventbrite.com/e/workshop-introduction-to-hacking-tickets-104979231708 
+
+* **Offensive Maldocs in 2020 w/ Joe Leon & Matt Grandy (1-Hour)** - Tue, Sep 8, 2020 1:00 PM - 2:00 PM EDT - Some topics we will discuss will be generating XLM (Excel 4.0) macros for use in Microsoft Excel document delivery, using Remote Template Injection to deliver an initial benign document that pulls down a malicious template on the fly, and utilizing a new method of abusing MsoShapes in office documents to control the execution of macros and pull malicious code down remotely. We’ll also go over a tool written by Joe Leon which automates the process of creating Excel 4.0 macros and we’ll talk about some customizations you can make to increase your chance of successful delivery. https://register.gotowebinar.com/register/2914193306327867661
+
+### October
+
+* **ELI5: x86_64 Exploit Development Fundamentals w/ John Ryan & Adrian Abdala (2-Hours)** - Wed, Oct 14, 2020 12:30 PM - 3:00 PM EDT - Do the phrases “exploit development” or “buffer overflow” intimidate you? Maybe you’ve only heard the words, but they sound too advanced to learn. Maybe you performed one or two buffer overflows while pursuing a certification, but you still don’t quite understand the underlying mechanics of compiled software exploitation. In this 2-hour workshop-style webcast, we’re going to dive into key concepts of computer organization to learn how x86_64 Linux software journeys from C source code to become a functional program in computer memory – ready to be exploited. https://register.gotowebinar.com/register/6536568447332186379
+
+* **The October Roundup by Wild West Hackin' Fest: Adversary Emulation w/ Jorge Orchilles (5-Hours)** - Thu, Oct 22, 2020 12:00 PM - 5:00 PM - Adversary emulation is a type of ethical hacking engagement where a Red Team imitates how an attacker operates, leveraging frameworks like MITRE ATT&CK to identify specific tactics, techniques, and procedures (TTPs) that a real threat actor might use against an organization. Rather than focusing on attacks less likely to occur, these engagements draw upon Cyber Threat Intelligence to identify adversaries with the intent, opportunity, and capability to attack. Further, adversary emulation may proceed with the Blue Team having no knowledge of the exercise or full knowledge (Purple Team). https://register.gotowebinar.com/register/3678308807480230671
+
+### November
+* **Getting Started in Security with BHIS and MITRE ATT&CK w/ John Strand** ($0-395, Pay What You Want) Mon, Nov 16, 2020 11:00 AM – 4:00 PM EST Tue, Nov 17, 2020 12:00 PM – 4:00 PM EST Wed, Nov 18, 2020 12:00 PM – 4:00 PM EST Thu, Nov 19, 2020 12:00 PM – 4:00 PM EST - "This 16-hour (4-days, 4-hour sessions) information security training class is designed for people who are new to computer security. We will cover the core fundamentals with lots of hands-on labs demonstrating the attacks and defenses every security professional must know to be successful." https://wildwesthackinfest.com/online-training/getting-started-in-security-with-bhis-and-mitre-attk/
 
 
 ## Training
@@ -137,24 +161,6 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
 
 * **HackerSploit** - HackerSploit is the leading provider of free and open-source Infosec and cybersecurity training. https://hackersploit.org/
 
-## Instructor Led Webinar/ Labs / Workshops
-
-### August
-
-* **Workshop: Linux and Security Basics; Hands-On w/ Bill Stearns (4-Hours)** - Tue, Aug 18, 2020 11:00 AM - 4:00 PM EDT - We'd like to invite you to get up to speed with the Linux operating system, and specifically networking and security commands!  Maybe you've not used Linux, or you have and just aren't comfortable with using the command line.  Here's your chance to see the instructor run them, try them yourself, and learn more about what they do. https://register.gotowebinar.com/register/1890954799577820683
-
-* **How to Stay Secure in the Cloud with Center for Internet Security (CIS)** August 19, 2020 12:00 PM (America/New_York) The Center for Internet Security (CIS) provides organizations with a collection of integrated cybersecurity resources. These resources help evaluate and apply secure configuration settings to various cloud environments. With our global community of cybersecurity experts, we develop the CIS Controls and CIS Benchmarks. These best practices offer prescriptive guidance and configuration recommendations for various technology groups to safeguard systems against today’s evolving cyber threats. https://microsoftcloudpartner.eventbuilder.com/event/22628?source=ACOM
-
-### September
-
-* **Workshop: Introduction to Hacking** by Fullstack Cyber Workshops Sept 5 2020 - From flyer - We’ll talk about some of the most common methods used to encrypt data, and show you some of the tactics used by "black hat" hackers to break that encryption. You'll learn a bit of theory, then go "hands on" with real-world encryption tools that cybersecurity practitioners use every day. https://www.eventbrite.com/e/workshop-introduction-to-hacking-tickets-104979231708 
-
-### October
-
-* **ELI5: x86_64 Exploit Development Fundamentals w/ John Ryan & Adrian Abdala (2-Hours)** - Wed, Oct 14, 2020 12:30 PM - 3:00 PM EDT - Do the phrases “exploit development” or “buffer overflow” intimidate you? Maybe you’ve only heard the words, but they sound too advanced to learn. Maybe you performed one or two buffer overflows while pursuing a certification, but you still don’t quite understand the underlying mechanics of compiled software exploitation. In this 2-hour workshop-style webcast, we’re going to dive into key concepts of computer organization to learn how x86_64 Linux software journeys from C source code to become a functional program in computer memory – ready to be exploited. https://register.gotowebinar.com/register/6536568447332186379
-
-### November
-* **Getting Started in Security with BHIS and MITRE ATT&CK w/ John Strand** ($0-395, Pay What You Want) Mon, Nov 16, 2020 11:00 AM – 4:00 PM EST Tue, Nov 17, 2020 12:00 PM – 4:00 PM EST Wed, Nov 18, 2020 12:00 PM – 4:00 PM EST Thu, Nov 19, 2020 12:00 PM – 4:00 PM EST - "This 16-hour (4-days, 4-hour sessions) information security training class is designed for people who are new to computer security. We will cover the core fundamentals with lots of hands-on labs demonstrating the attacks and defenses every security professional must know to be successful." https://wildwesthackinfest.com/online-training/getting-started-in-security-with-bhis-and-mitre-attk/
 
 ## Books
 * **Building Secure & Reliable Systems**
