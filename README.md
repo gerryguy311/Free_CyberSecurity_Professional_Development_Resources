@@ -12,8 +12,8 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
   6. [Podcasts](#Podcasts)
   7. [YouTube Channels](#Cybersecurity-YouTube-Channels)
   8. [News](#News)
-  9. [Professional Networking / (Virtual) Meetups (Discord/Slack Groups)](#Professional-Networking-/-(Virtual)-Meetups)
-  10. [References / Tools / Cheat Sheets](#References-/-Tools)
+  9. [Professional Networking / (Virtual) Meetups (Discord/Slack Groups)](#Professional-Networking)
+  10. [References / Tools / Cheat Sheets](#ReferencesToolsCheat-Sheets)
   
 ## Conferences
 
@@ -368,7 +368,7 @@ _This list was originally forked/curated from here: https://wportal.xyz/collecti
 
 * **SANS NewsBites** - "A semiweekly high-level executive summary of the most important news articles that have been published on computer security during the last week. Each news item is very briefly summarized and includes a reference on the web for detailed information, if possible." Published for free on Tuesdays and Fridays. https://www.sans.org/newsletters/newsbites
 
-## Professional Networking / (Virtual) Meetups
+## Professional Networking
 ### Discord and Slack (Networking and Communication Opportunities)
 _I'm (Gerald Auger) personally a member of the following Discord/Slack groups and have validated their quality and integrity. Message me if you want in those channels Discord: Gerald.Auger | Slack Gerald_Auger_
 * **Metasploit Official Public** Slack https://metasploit.com/slack
@@ -392,7 +392,7 @@ _The follow channels I'm not a member of and cuarted but have not validated thei
 * **MeetCyber** Regular sessions conducted over crowdcast, can be a training or a workshop, excellent networking and learning opportunities. https://meetcyber.net/
 
 
-## References / Tools
+## References/Tools/Cheat Sheets
 
 **Malware Analysis**
 * VirusTotal - Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community https://www.virustotal.com/gui/
