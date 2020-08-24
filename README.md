@@ -5,15 +5,15 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
 
 # CATEGORIES
   1. [Conferences](#conferences)
-  2. Training
-  3. Instructor Led Webinar/Labs/Workshops
-  4. Books
-  5. College Courses (Multi-week w/Enrollment)
-  6. Podcasts
-  7. YouTube Channels
-  8. News
-  9. Professional Networking / (Virtual) Meetups (Discord/Slack Groups)
-  10. References / Tools / Cheat Sheets
+  2. [Training](#Training)
+  3. [Instructor Led Webinar/Labs/Workshops](#Instructor-Led-Webinar-/-Labs-/-Workshops)
+  4. [Books](#Books)
+  5. [College Courses (Multi-week w/Enrollment)](#College-Courses-(Multi-week-w/Enrollment))
+  6. [Podcasts](#Podcasts)
+  7. [YouTube Channels](#Cybersecurity-YouTube-Channels)
+  8. [News](#News)
+  9. [Professional Networking / (Virtual) Meetups (Discord/Slack Groups)](#Professional-Networking-/-(Virtual)-Meetups)
+  10. [References / Tools / Cheat Sheets](#References-/-Tools)
   
 ## Conferences
 
