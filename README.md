@@ -15,7 +15,7 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
   9. Professional Networking / (Virtual) Meetups (Discord/Slack Groups)
   10. References / Tools / Cheat Sheets
   
-## <a name="conferences>Conferences
+## <a name="conferences>Conferences</a>
 
 ### August
 
