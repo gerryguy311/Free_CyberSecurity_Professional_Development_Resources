@@ -13,8 +13,9 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
   7. YouTube Channels
   8. News
   9. Professional Networking / (Virtual) Meetups (Discord/Slack Groups)
+  10. References / Tools / Cheat Sheets
   
-## Conferences
+## <a name="conferences>Conferences
 
 ### August
 
@@ -397,7 +398,7 @@ _The follow channels I'm not a member of and cuarted but have not validated thei
 * **MeetCyber** Regular sessions conducted over crowdcast, can be a training or a workshop, excellent networking and learning opportunities. https://meetcyber.net/
 
 
-## References / Tools _work in progress down here_
+## References / Tools
 
 **Malware Analysis**
 * VirusTotal - Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community https://www.virustotal.com/gui/
