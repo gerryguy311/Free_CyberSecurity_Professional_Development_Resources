@@ -4,7 +4,7 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
 Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/GeraldAuger 
 
 # CATEGORIES
-  1. Conferences
+  1. [Conferences](#conferences)
   2. Training
   3. Instructor Led Webinar/Labs/Workshops
   4. Books
