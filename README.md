@@ -5,8 +5,8 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
 
 # CATEGORIES
   1. [Conferences](#conferences)
-  2. [Training](#Training)
-  3. [Instructor Led Webinar/Labs/Workshops](#Instructor-Led-Webinar-/-Labs-/-Workshops)
+  2. [Instructor Led Webinar/Labs/Workshops](#Instructor-Led-Webinar-Labs-Workshops)
+  3. [Training](#Training)
   4. [Books](#Books)
   5. [College Courses (Multi-week w/Enrollment)](#College-Courses)
   6. [Podcasts](#Podcasts)
@@ -18,12 +18,6 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
 ## Conferences
 
 ### August
-
-* **Red Con 2020 - IBM X-Force Red** August 19, 2020 from 10:00 AM – 02:00 PM ET - Go behind closed doors with the team at X-Force Red, IBM Security’s team of hackers. X-Force Red hackers have found a new zero-day vulnerability that could put millions of internet-connected devices at risk of a compromise, and they want you to know about it so you can combat it. In addition to the new zero-day research, the team will be showcasing new attack tools and techniques, all built by X-Force Red’s hackers, that can help you discover high risk vulnerabilities. https://securityintelligence.com/events/red-con-2020/
-
-* **SCYTHE's UniCon** SCYTHE invites customers, researchers, and developers to sign-up for our FREE virtual conference “UniCon” on August 20, 2020 from 10:00 am - 5:30 pm EDT. https://zoom.us/webinar/register/3815947366418/WN_b4Bm9E5BSi2rhACLwiaJGw
-
-* **The Diana Initiative Virtual Conference** - Aug 21-22, 2020 - A conference focused on Women, Diversity, and Inclusion in Information Security that embraces all genders, sexualities, and skill levels. The Diana Initiative features multiple speaker tracks, fully expanded villages with hands-on workshops, and a women-led Capture the Flag event. https://www.eventbrite.com/e/the-diana-initiative-2020-tickets-112263061840
 
 * **DataConnectors** 8/6, 8/19, 9/17, 9/24, 9/30, 10/8, 10/15, 10/22, 10/29, 11/5, 11/11, 11/18, 12/10 - Multiple event Virtual Cybercommunity con. Data Connectors has invested in a fully immersive virtual event platform, which provides every facet of our in-person conferences that can be facilitated online: Real-time speaking sessions, live keynotes and presenter Q&A Panel, Moderated CISO Panel, Solutions Showcase with interactive Virtual Exhibit Booths https://www.dataconnectors.com/attend/
 
