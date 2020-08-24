@@ -8,7 +8,7 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
   2. [Training](#Training)
   3. [Instructor Led Webinar/Labs/Workshops](#Instructor-Led-Webinar-/-Labs-/-Workshops)
   4. [Books](#Books)
-  5. [College Courses (Multi-week w/Enrollment)](#College-Courses-(Multi-week-w/Enrollment))
+  5. [College Courses (Multi-week w/Enrollment)](#College-Courses)
   6. [Podcasts](#Podcasts)
   7. [YouTube Channels](#Cybersecurity-YouTube-Channels)
   8. [News](#News)
@@ -181,7 +181,7 @@ Valid at least through July, Springer is providing free access to several hundre
 * **Texas A&M Security Courses** The web-based courses are designed to ensure that the privacy, reliability, and integrity of the information systems that power the global economy remain intact and secure. The web-based courses are offered through three discipline-specific tracks: general, non-technical computer users; technical IT professionals; and business managers and professionals. https://teex.org/program/dhs-cybersecurity/ 
 
 
-## College Courses (Multi-week w/Enrollment)
+## College Courses
 
 * **Computer Science courses with video lectures** Intent of this list is to act as Online bookmarks/lookup table for freely available online video courses. Focus would be to keep the list concise so that it is easy to browse. It would be easier to skim through 15 page list, find the course and start learning than having to read 60 pages of text. If you are student or from non-CS background, please try few courses to decide for yourself as to which course suits your learning curve best. https://github.com/Developer-Y/cs-video-courses?utm_campaign=meetedgar&utm_medium=social&utm_source=meetedgar.com
 
