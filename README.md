@@ -458,7 +458,7 @@ https://github.com/JavierOlmedo/shodan-filters
 
 **SANS Massive List of Cheat Sheets** Curated from here: https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/
 
-General IT Security
+**_General IT Security_**
 * Windows and Linux Terminals & Command Lines https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/bltea7de5267932e94b/5eb08aafcf88d36e47cf0644/Cheatsheet_SEC301-401_R7.pdf
 
 * TCP/IP and tcpdump
@@ -500,7 +500,7 @@ https://zeltser.com/ddos-incident-cheat-sheet/
 * Information Security Assessment RFP Cheat Sheet
 https://zeltser.com/cheat-sheets/
 
-Digital Forensics and Incident Response
+**_Digital Forensics and Incident Response_**
 
 * SIFT Workstation Cheat Sheet
 https://digital-forensics.sans.org/media/sift_cheat_sheet.pdf?msc=Cheat+Sheet+Blog
@@ -546,7 +546,7 @@ https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/blt61c336e02577e733
 
 * The majority of DFIR Cheat Sheets can be found here --> https://digital-forensics.sans.org/community/cheat-sheets?msc=Cheat+Sheet+Blog.
 
-Penetration Testing
+**_Penetration Testing_**
 
 * Windows Intrusion Discovery Cheat Sheet v3.0
 https://pen-testing.sans.org/retrieve/windows-cheat-sheet.pdf?msc=Cheat+Sheet+Blog
@@ -587,12 +587,12 @@ https://wiki.sans.blue/Tools/pdfs/ScapyCheatSheet_v0.2.pdf
 * Nmap Cheat Sheet
 https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/blte37ba962036d487b/5eb08aae26a7212f2db1c1da/NmapCheatSheetv1.1.pdf
 
-Cloud Security
+**_Cloud Security_**
 
 * Multicloud Cheat Sheet
 https://www.sans.org/security-resources/posters/cloud/multicloud-cheat-sheet-215?msc=blog-ultimate-list-cheat-sheets
 
-All Around Defender Primers
+**_All Around Defender Primers_**
 
 * Linux CLI 101
 https://wiki.sans.blue/Tools/pdfs/LinuxCLI101.pdf
