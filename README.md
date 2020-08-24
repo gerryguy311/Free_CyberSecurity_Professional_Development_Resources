@@ -5,7 +5,7 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
 
 # CATEGORIES
   1. [Conferences](#conferences)
-  2. [Instructor Led Webinar/Labs/Workshops](#Instructor-Led-Webinar-Labs-Workshops)
+  2. [Instructor Led Webinar/Labs/Workshops](#Instructor-Led-Webinar--Labs--Workshops)
   3. [Training](#Training)
   4. [Books](#Books)
   5. [College Courses (Multi-week w/Enrollment)](#College-Courses)
