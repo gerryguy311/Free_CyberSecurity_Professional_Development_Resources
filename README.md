@@ -5,7 +5,7 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
 
 # CATEGORIES
   1. [Conferences](#conferences)
-  2. [Instructor Led Webinar/Labs/Workshops](#Instructor-Led-Webinar--Labs--Workshops)
+  2. [Instructor Led Webinar/Labs/Workshops](#Instructor-Led-WebinarLabsWorkshops)
   3. [Training](#Training)
   4. [Books](#Books)
   5. [College Courses (Multi-week w/Enrollment)](#College-Courses)
@@ -38,7 +38,7 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
 * **SUMMERCON 2020** -Archived- Summercon is one of the oldest hacker conventions, and the longest running such conference in America. It helped set a precedent for more modern "cons" such as H.O.P.E. and DEF CON, although it has remained smaller and more personal.  https://youtu.be/uVbrxMTrp0k
 
 
-## Instructor Led Webinar/ Labs / Workshops
+## Instructor Led Webinar/Labs/Workshops
 
 ### August
 
