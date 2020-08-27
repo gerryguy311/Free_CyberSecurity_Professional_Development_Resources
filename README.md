@@ -22,6 +22,19 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
 * **DataConnectors** 8/6, 8/19, 9/17, 9/24, 9/30, 10/8, 10/15, 10/22, 10/29, 11/5, 11/11, 11/18, 12/10 - Multiple event Virtual Cybercommunity con. Data Connectors has invested in a fully immersive virtual event platform, which provides every facet of our in-person conferences that can be facilitated online: Real-time speaking sessions, live keynotes and presenter Q&A Panel, Moderated CISO Panel, Solutions Showcase with interactive Virtual Exhibit Booths https://www.dataconnectors.com/attend/
 
 ### September
+
+* **Disclosure by Okta** - September 2, 2020 9 AM - 6 PM PDT - Disclosure is an experimental security event that aims to bring together bleeding edge researchers and security professionals. Our goal is to create an environment where the latest research can be discussed. Somewhere where new techniques and threats can be disclosed to the information security community. https://www.disclosureconference.com/register/
+
+* **R2COn 2020** - September 2-5 - r2con is a the annual conference about radare2. The conference aims to gather all the r2 users and developers around the world to enjoy a 4 day event full of experiments, hacking, teaching, discussing and coding stuff while having fun and drinking beers (safely at home). https://www.youtube.com/channel/UCZo6gyBPj6Vgg8u2dfIhY4Q
+
+* **x33fcon** - September 14-15, 2020 - Welcome to x33fcon, a new gathering for IT security professionals and enthusiasts. It's a new event where blue and red teams meet to exchange views and ideas, share experiences, and discuss the latest security challenges in the industry. https://x33fcon2020online.konfeo.com/en/groups
+
+* **CISA's Cybersecurity Summit** - 9/16, 9/23, 9/30, 10/7 - We are excited to bring back our Annual National Cybersecurity Summit for its third year! This year, we’re doing things a bit differently. CISA’s Annual National Cybersecurity Summit will be held virtually as a series of webinars every Wednesday for four weeks beginning September 16 and ending October 7. The 3rd Annual National Cybersecurity Summit will bring together infrastructure stakeholders from around the world and provide a forum for meaningful conversations and collaboration on cybersecurity. https://www.eventbrite.com/e/3rd-annual-national-cybersecurity-summit-tickets-114443214736
+
+* **BSides Singapore** - September 24 & 25, 2020, 9 AM - 3 PM SGT - At BSides Singapore, together we create opportunities for individuals to both present and participate in an intimate atmosphere that encourages collaboration. It is an intense event with discussions, demos, and interaction from participants. It is where conversations for the next-big-thing are happening. https://bsidessg.org/schedule/
+
+* **Hack at The Harbor** - September 25, 10:00AM - 3:00PM ET - Hack @ The Harbor is a newly developed virtual conference created by the founders of Point3 Security. https://hackattheharbor.com/register
+
 * **JUNC 2020** 9/29/2020-10/1/2020 - Not entirely a security conference, but there are sub-sections for securing Apple devices. Apple IT administrators from around the world have rallied at the Jamf Nation User Conference (JNUC) for community presentations, deep-dive education sessions and expert product insights.  https://www.jamf.com/events/jamf-nation-user-conference/2020/faq/
 
 * **DataConnectors** 8/6, 8/19, 9/17, 9/24, 9/30, 10/8, 10/15, 10/22, 10/29, 11/5, 11/11, 11/18, 12/10 - Multiple event Virtual Cybercommunity con. Data Connectors has invested in a fully immersive virtual event platform, which provides every facet of our in-person conferences that can be facilitated online: Real-time speaking sessions, live keynotes and presenter Q&A Panel, Moderated CISO Panel, Solutions Showcase with interactive Virtual Exhibit Booths https://www.dataconnectors.com/attend/
@@ -30,6 +43,8 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
 * **Cybercraft Security Summit** Oct 1-2 CyberCraft is committed to connecting and enhancing the Cybersecurity and Anti-Fraud communities. After all, it’s all about fighting against the bad guys whether they are stealing data, money or both. https://cybercraftsummit.com/
 
 * **ShellCon** Oct 9-10 ShellCon is an information security conference that is held annually in the beautiful beach cities of Los Angeles. Our conference is a growing event that creates an atmosphere of open communication, collaboration, and connection. We value community, technical knowledge, and getting your hands dirty. Presentations and events at the con will have a focus on practicality and real-world applications. We want you to walk away from ShellCon with an itch to try what you just learned and the knowledge to do so. https://shellcon.io/
+
+* **Hacker Halted 2020** - October 12th-16th, 2020 - Hacker Halted is EC-Council’s annual IT Security Conference and plays host to over 50 speakers delivering ground breaking presentations! Hacker Halted builds on the educational foundation of EC-Councils courses in ethical hacking, computer forensics, pen testing, and many others. Hacker Halted brings the industry’s leading researchers, practitioners, ethical hackers and other top IT Security professionals together to discuss current issues facing our industry. https://www.eventbrite.com/e/hacker-halted-virtual-cyber-security-training-and-conference-2020-tickets-75038384829
 
 ### November
 * **AWS RE:Invent** NOV. 30 – DEC. 18, 2020 - AWS Major conference. Will cover more then security, but worth being on the list. https://reinvent.awsevents.com/
