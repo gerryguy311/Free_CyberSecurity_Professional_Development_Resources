@@ -17,12 +17,7 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
   
 ## Conferences
 
-### August
-
-* **DataConnectors** 8/6, 8/19, 9/17, 9/24, 9/30, 10/8, 10/15, 10/22, 10/29, 11/5, 11/11, 11/18, 12/10 - Multiple event Virtual Cybercommunity con. Data Connectors has invested in a fully immersive virtual event platform, which provides every facet of our in-person conferences that can be facilitated online: Real-time speaking sessions, live keynotes and presenter Q&A Panel, Moderated CISO Panel, Solutions Showcase with interactive Virtual Exhibit Booths https://www.dataconnectors.com/attend/
-
 ### September
-
 * **Disclosure by Okta** - September 2, 2020 9 AM - 6 PM PDT - Disclosure is an experimental security event that aims to bring together bleeding edge researchers and security professionals. Our goal is to create an environment where the latest research can be discussed. Somewhere where new techniques and threats can be disclosed to the information security community. https://www.disclosureconference.com/register/
 
 * **R2COn 2020** - September 2-5 - r2con is a the annual conference about radare2. The conference aims to gather all the r2 users and developers around the world to enjoy a 4 day event full of experiments, hacking, teaching, discussing and coding stuff while having fun and drinking beers (safely at home). https://www.youtube.com/channel/UCZo6gyBPj6Vgg8u2dfIhY4Q
@@ -39,6 +34,9 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
 
 * **DataConnectors** 8/6, 8/19, 9/17, 9/24, 9/30, 10/8, 10/15, 10/22, 10/29, 11/5, 11/11, 11/18, 12/10 - Multiple event Virtual Cybercommunity con. Data Connectors has invested in a fully immersive virtual event platform, which provides every facet of our in-person conferences that can be facilitated online: Real-time speaking sessions, live keynotes and presenter Q&A Panel, Moderated CISO Panel, Solutions Showcase with interactive Virtual Exhibit Booths https://www.dataconnectors.com/attend/
 
+* **DataConnectors** 8/6, 8/19, 9/17, 9/24, 9/30, 10/8, 10/15, 10/22, 10/29, 11/5, 11/11, 11/18, 12/10 - Multiple event Virtual Cybercommunity con. Data Connectors has invested in a fully immersive virtual event platform, which provides every facet of our in-person conferences that can be facilitated online: Real-time speaking sessions, live keynotes and presenter Q&A Panel, Moderated CISO Panel, Solutions Showcase with interactive Virtual Exhibit Booths https://www.dataconnectors.com/attend/
+
+
 ### October
 * **Cybercraft Security Summit** Oct 1-2 CyberCraft is committed to connecting and enhancing the Cybersecurity and Anti-Fraud communities. After all, it’s all about fighting against the bad guys whether they are stealing data, money or both. https://cybercraftsummit.com/
 
@@ -54,12 +52,6 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
 
 
 ## Instructor Led Webinar/Labs/Workshops
-
-### August
-
-* **Workshop: Linux and Security Basics; Hands-On w/ Bill Stearns (4-Hours)** - Tue, Aug 18, 2020 11:00 AM - 4:00 PM EDT - We'd like to invite you to get up to speed with the Linux operating system, and specifically networking and security commands!  Maybe you've not used Linux, or you have and just aren't comfortable with using the command line.  Here's your chance to see the instructor run them, try them yourself, and learn more about what they do. https://register.gotowebinar.com/register/1890954799577820683
-
-* **How to Stay Secure in the Cloud with Center for Internet Security (CIS)** August 19, 2020 12:00 PM (America/New_York) The Center for Internet Security (CIS) provides organizations with a collection of integrated cybersecurity resources. These resources help evaluate and apply secure configuration settings to various cloud environments. With our global community of cybersecurity experts, we develop the CIS Controls and CIS Benchmarks. These best practices offer prescriptive guidance and configuration recommendations for various technology groups to safeguard systems against today’s evolving cyber threats. https://microsoftcloudpartner.eventbuilder.com/event/22628?source=ACOM
 
 ### September
 
