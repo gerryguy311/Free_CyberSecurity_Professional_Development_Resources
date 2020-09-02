@@ -163,6 +163,80 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
 
 * **HackerSploit** - HackerSploit is the leading provider of free and open-source Infosec and cybersecurity training. https://hackersploit.org/
 
+**PENTESTING TRAINING LABS** (curated from https://github.com/michelbernardods/labs-pentest) 
+
+* **Academy Hackaflag** (Spanish) https://academy.hackaflag.com.br/
+
+* **Try Hack Me** https://tryhackme.com/
+
+* **Attack-Defense** https://attackdefense.com/
+
+* **alert to win** https://alf.nu/alert1
+
+* **CTF Komodo Security** https://ctf.komodosec.com/
+
+* **CMD Challenge** https://cmdchallenge.com
+
+* **Explotation Education** https://exploit.education/
+
+* **Google CTF** https://capturetheflag.withgoogle.com/
+
+* **HackTheBox** https://www.hackthebox.eu
+
+* **Hackthis** https://www.hackthis.co.uk
+
+* **Hacksplaining** https://www.hacksplaining.com/exercises
+
+* **Hacker101** https://ctf.hacker101.com
+
+* **Hacker Security** https://capturetheflag.com.br/
+
+* **Hacking-Lab** https://www.hacking-lab.com/index.html
+
+* **ImmersiveLabs** https://immersivelabs.com/
+
+* **Labs Wizard Security** https://labs.wizard-security.net
+
+* **NewbieContest** https://www.newbiecontest.org/
+
+* **OverTheWire** http://overthewire.org
+
+* **Practical Pentest Labs** https://practicalpentestlabs.com
+
+* **Pentestlab** https://pentesterlab.com/
+
+* **Penetration Testing Practice Labs** http://www.amanhardikar.com/mindmaps/Practice.html
+
+* **PentestIT LAB** https://lab.pentestit.ru
+
+* **PicoCTF** https://picoctf.com
+
+* **PWNABLE** https://pwnable.kr/play.php
+
+* **Root-Me** https://www.root-me.org/
+
+* **Root in Jail** http://ctf.rootinjail.com
+
+* **Shellter** https://shellterlabs.com/pt/
+
+* **SANS Challenger** https://www.holidayhackchallenge.com/
+
+* **SmashTheStack** http://smashthestack.org/wargames.html
+
+* **Try Hack Me** https://tryhackme.com/
+
+* **The Cryptopals Crypto Challenges** https://cryptopals.com/
+
+* **Vulnhub** https://www.vulnhub.com
+
+* **W3Challs** https://w3challs.com/
+
+* **WHO4REYOU** https://34.73.111.210
+
+* **WeChall** http://www.wechall.net/
+
+* **Zenk-Security** https://www.zenk-security.com/epreuves.php
+
 
 ## Books
 * **Building Secure & Reliable Systems**
