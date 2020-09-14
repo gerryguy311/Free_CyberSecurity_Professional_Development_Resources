@@ -534,6 +534,9 @@ https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet
 * Shodan Query Filters
 https://github.com/JavierOlmedo/shodan-filters
 
+* Getting Real with XSS - A reference on the new technquies to XSS
+https://labs.f-secure.com/blog/getting-real-with-xss/
+
 **SANS Massive List of Cheat Sheets** Curated from here: https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/
 
 **_General IT Security_**
