@@ -29,8 +29,6 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
 
 * **DataConnectors** 8/6, 8/19, 9/17, 9/24, 9/30, 10/8, 10/15, 10/22, 10/29, 11/5, 11/11, 11/18, 12/10 - Multiple event Virtual Cybercommunity con. Data Connectors has invested in a fully immersive virtual event platform, which provides every facet of our in-person conferences that can be facilitated online: Real-time speaking sessions, live keynotes and presenter Q&A Panel, Moderated CISO Panel, Solutions Showcase with interactive Virtual Exhibit Booths https://www.dataconnectors.com/attend/
 
-* **DataConnectors** 8/6, 8/19, 9/17, 9/24, 9/30, 10/8, 10/15, 10/22, 10/29, 11/5, 11/11, 11/18, 12/10 - Multiple event Virtual Cybercommunity con. Data Connectors has invested in a fully immersive virtual event platform, which provides every facet of our in-person conferences that can be facilitated online: Real-time speaking sessions, live keynotes and presenter Q&A Panel, Moderated CISO Panel, Solutions Showcase with interactive Virtual Exhibit Booths https://www.dataconnectors.com/attend/
-
 
 ### October
 * **Cybercraft Security Summit** Oct 1-2 CyberCraft is committed to connecting and enhancing the Cybersecurity and Anti-Fraud communities. After all, it’s all about fighting against the bad guys whether they are stealing data, money or both. https://cybercraftsummit.com/
