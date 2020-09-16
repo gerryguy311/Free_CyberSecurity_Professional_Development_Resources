@@ -18,11 +18,6 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
 ## Conferences
 
 ### September
-* **Disclosure by Okta** - September 2, 2020 9 AM - 6 PM PDT - Disclosure is an experimental security event that aims to bring together bleeding edge researchers and security professionals. Our goal is to create an environment where the latest research can be discussed. Somewhere where new techniques and threats can be disclosed to the information security community. https://www.disclosureconference.com/register/
-
-* **R2COn 2020** - September 2-5 - r2con is a the annual conference about radare2. The conference aims to gather all the r2 users and developers around the world to enjoy a 4 day event full of experiments, hacking, teaching, discussing and coding stuff while having fun and drinking beers (safely at home). https://www.youtube.com/channel/UCZo6gyBPj6Vgg8u2dfIhY4Q
-
-* **x33fcon** - September 14-15, 2020 - Welcome to x33fcon, a new gathering for IT security professionals and enthusiasts. It's a new event where blue and red teams meet to exchange views and ideas, share experiences, and discuss the latest security challenges in the industry. https://x33fcon2020online.konfeo.com/en/groups
 
 * **CISA's Cybersecurity Summit** - 9/16, 9/23, 9/30, 10/7 - We are excited to bring back our Annual National Cybersecurity Summit for its third year! This year, we’re doing things a bit differently. CISA’s Annual National Cybersecurity Summit will be held virtually as a series of webinars every Wednesday for four weeks beginning September 16 and ending October 7. The 3rd Annual National Cybersecurity Summit will bring together infrastructure stakeholders from around the world and provide a forum for meaningful conversations and collaboration on cybersecurity. https://www.eventbrite.com/e/3rd-annual-national-cybersecurity-summit-tickets-114443214736
 
@@ -54,12 +49,6 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
 ## Instructor Led Webinar/Labs/Workshops
 
 ### September
-
-* **Linux Forensics Magical Mystery Tour II -- "It's All About the Logs" w/ Hal Pomeranz (1-Hour)** - Wed, Sep 2, 2020 1:00 PM - 2:00 PM EDT - Here at the Linux Forensics Magical Mystery Tour, we're just crazy about logs! Audit logs, deleted logs, logs in binary formats that require ridiculous command-line tricks to parse. Oh yes, my friends! There will be plenty to surprise and amaze... and even some knowledge that might be useful for your next Linux investigation! https://register.gotowebinar.com/register/1226335205199516171
-
-* **Workshop: Introduction to Hacking** by Fullstack Cyber Workshops Sept 5 2020 - From flyer - We’ll talk about some of the most common methods used to encrypt data, and show you some of the tactics used by "black hat" hackers to break that encryption. You'll learn a bit of theory, then go "hands on" with real-world encryption tools that cybersecurity practitioners use every day. https://www.eventbrite.com/e/workshop-introduction-to-hacking-tickets-104979231708 
-
-* **Offensive Maldocs in 2020 w/ Joe Leon & Matt Grandy (1-Hour)** - Tue, Sep 8, 2020 1:00 PM - 2:00 PM EDT - Some topics we will discuss will be generating XLM (Excel 4.0) macros for use in Microsoft Excel document delivery, using Remote Template Injection to deliver an initial benign document that pulls down a malicious template on the fly, and utilizing a new method of abusing MsoShapes in office documents to control the execution of macros and pull malicious code down remotely. We’ll also go over a tool written by Joe Leon which automates the process of creating Excel 4.0 macros and we’ll talk about some customizations you can make to increase your chance of successful delivery. https://register.gotowebinar.com/register/2914193306327867661
 
 * **Releasing Suricata 6.0 RC1 and How You Can Get Involved** Thu, September 17, 2020 11:00 AM – 12:00 PM EDT - Suricata founder and lead developer Victor Julien will introduce Suricata 6.0 RC1, discuss major changes and the power of the Suricata community. We will also discuss ways in which you can get involved in supporting these releases through testing, documentation and other kinds of feedback. https://www.eventbrite.com/e/webinar-releasing-suricata-60-rc1-and-how-you-can-get-involved-tickets-119342646067?ref=estw
 
