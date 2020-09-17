@@ -618,6 +618,12 @@ https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/blt61c336e02577e733
 * Swiss Army Knife collection of PenTesting Cheatsheets
 https://github.com/swisskyrepo/PayloadsAllTheThings
 
+* SQLite Injection Cheat Sheet
+https://github.com/unicornsasfuel/sqlite_sqli_cheat_sheet
+
+* SSL/TLS Vulnerability Cheat Sheet
+https://github.com/IBM/tls-vuln-cheatsheet
+
 * Windows Intrusion Discovery Cheat Sheet v3.0
 https://pen-testing.sans.org/retrieve/windows-cheat-sheet.pdf?msc=Cheat+Sheet+Blog
 
