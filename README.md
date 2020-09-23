@@ -37,6 +37,8 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
 
 * **Hacker Halted 2020** - October 12th-16th, 2020 - Hacker Halted is EC-Council’s annual IT Security Conference and plays host to over 50 speakers delivering ground breaking presentations! Hacker Halted builds on the educational foundation of EC-Councils courses in ethical hacking, computer forensics, pen testing, and many others. Hacker Halted brings the industry’s leading researchers, practitioners, ethical hackers and other top IT Security professionals together to discuss current issues facing our industry. https://www.eventbrite.com/e/hacker-halted-virtual-cyber-security-training-and-conference-2020-tickets-75038384829
 
+* **Zeek Week** Tue, Oct 13, 2020, 12:00 PM – Thu, Oct 15, 2020, 4:20 PM EDT ZeekWeek is the annual gathering of defenders, developers, incident responders, threat hunters, and security architects who rely on Zeek.  https://www.eventbrite.com/e/virtual-zeek-week-tickets-117288632457
+
 ### November
 * **AWS RE:Invent** NOV. 30 – DEC. 18, 2020 - AWS Major conference. Will cover more then security, but worth being on the list. https://reinvent.awsevents.com/
 
