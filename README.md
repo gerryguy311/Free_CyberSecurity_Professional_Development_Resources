@@ -17,21 +17,7 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
   
 ## Conferences
 
-### September
-
-* **CISA's Cybersecurity Summit** - 9/16, 9/23, 9/30, 10/7 - We are excited to bring back our Annual National Cybersecurity Summit for its third year! This year, we’re doing things a bit differently. CISA’s Annual National Cybersecurity Summit will be held virtually as a series of webinars every Wednesday for four weeks beginning September 16 and ending October 7. The 3rd Annual National Cybersecurity Summit will bring together infrastructure stakeholders from around the world and provide a forum for meaningful conversations and collaboration on cybersecurity. https://www.eventbrite.com/e/3rd-annual-national-cybersecurity-summit-tickets-114443214736
-
-* **BSides Singapore** - September 24 & 25, 2020, 9 AM - 3 PM SGT - At BSides Singapore, together we create opportunities for individuals to both present and participate in an intimate atmosphere that encourages collaboration. It is an intense event with discussions, demos, and interaction from participants. It is where conversations for the next-big-thing are happening. https://bsidessg.org/schedule/
-
-* **Hack at The Harbor** - September 25, 10:00AM - 3:00PM ET - Hack @ The Harbor is a newly developed virtual conference created by the founders of Point3 Security. https://hackattheharbor.com/register
-
-* **JUNC 2020** 9/29/2020-10/1/2020 - Not entirely a security conference, but there are sub-sections for securing Apple devices. Apple IT administrators from around the world have rallied at the Jamf Nation User Conference (JNUC) for community presentations, deep-dive education sessions and expert product insights.  https://www.jamf.com/events/jamf-nation-user-conference/2020/faq/
-
-* **DataConnectors** 8/6, 8/19, 9/17, 9/24, 9/30, 10/8, 10/15, 10/22, 10/29, 11/5, 11/11, 11/18, 12/10 - Multiple event Virtual Cybercommunity con. Data Connectors has invested in a fully immersive virtual event platform, which provides every facet of our in-person conferences that can be facilitated online: Real-time speaking sessions, live keynotes and presenter Q&A Panel, Moderated CISO Panel, Solutions Showcase with interactive Virtual Exhibit Booths https://www.dataconnectors.com/attend/
-
-
 ### October
-* **Cybercraft Security Summit** Oct 1-2 CyberCraft is committed to connecting and enhancing the Cybersecurity and Anti-Fraud communities. After all, it’s all about fighting against the bad guys whether they are stealing data, money or both. https://cybercraftsummit.com/
 
 * **ShellCon** Oct 9-10 ShellCon is an information security conference that is held annually in the beautiful beach cities of Los Angeles. Our conference is a growing event that creates an atmosphere of open communication, collaboration, and connection. We value community, technical knowledge, and getting your hands dirty. Presentations and events at the con will have a focus on practicality and real-world applications. We want you to walk away from ShellCon with an itch to try what you just learned and the knowledge to do so. https://shellcon.io/
 
@@ -50,9 +36,6 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
 
 ## Instructor Led Webinar/Labs/Workshops
 
-### September
-
-* **Releasing Suricata 6.0 RC1 and How You Can Get Involved** Thu, September 17, 2020 11:00 AM – 12:00 PM EDT - Suricata founder and lead developer Victor Julien will introduce Suricata 6.0 RC1, discuss major changes and the power of the Suricata community. We will also discuss ways in which you can get involved in supporting these releases through testing, documentation and other kinds of feedback. https://www.eventbrite.com/e/webinar-releasing-suricata-60-rc1-and-how-you-can-get-involved-tickets-119342646067?ref=estw
 
 ### October
 
