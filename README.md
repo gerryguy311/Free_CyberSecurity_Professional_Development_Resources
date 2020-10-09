@@ -34,6 +34,10 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
 
 * **GRIMMCON 0x3** GRIMMCon 0x3 will be 30 DEC 20, 1100 - 1900 ET. Cybersecurity conference. LINK TO FOLLOW
 
+### 2021
+
+* **ICS Security Summit & Training 2021** - Virtual, US Eastern | Thu, Mar 4 - Sat, Mar 13, 2021 - Live Online The annual ICS Security Summit brings together the industry’s top practitioners and leading experts from around the globe to share actionable ideas, methods, and techniques for safeguarding critical infrastructures. In-depth talks and interactive panel discussions deliver proven advances and approaches that make a real difference for the individuals leading this fight every day. https://www.sans.org/event/ics-security-summit-2021
+
 ### Archived/Replay
 * **SUMMERCON 2020** -Archived- Summercon is one of the oldest hacker conventions, and the longest running such conference in America. It helped set a precedent for more modern "cons" such as H.O.P.E. and DEF CON, although it has remained smaller and more personal.  https://youtu.be/uVbrxMTrp0k
 
