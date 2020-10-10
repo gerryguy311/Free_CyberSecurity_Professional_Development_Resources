@@ -25,6 +25,8 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
 
 * **Hacker Halted 2020** - October 12th-16th, 2020 - Hacker Halted is EC-Council’s annual IT Security Conference and plays host to over 50 speakers delivering ground breaking presentations! Hacker Halted builds on the educational foundation of EC-Councils courses in ethical hacking, computer forensics, pen testing, and many others. Hacker Halted brings the industry’s leading researchers, practitioners, ethical hackers and other top IT Security professionals together to discuss current issues facing our industry. https://www.eventbrite.com/e/hacker-halted-virtual-cyber-security-training-and-conference-2020-tickets-75038384829
 
+* **Security Onion Conference (SOC) 2020 by Security Onion Solutions LLC** - Fri, October 16, 2020 1:00 PM – 3:30 PM EDT - If you use Security Onion, then you should definitely make plans to attend Security Onion Conference! Even if you don’t use Security Onion, most talks provide value beyond just Security Onion itself. So if you’re generally interested in things like intrusion detection, network security monitoring, enterprise security monitoring, log management, hunting, and blue teaming, then you should consider attending Security Onion Conference! https://www.eventbrite.com/e/security-onion-conference-soc-2020-tickets-123728732971
+
 * **Zeek Week** Tue, Oct 13, 2020, 12:00 PM – Thu, Oct 15, 2020, 4:20 PM EDT ZeekWeek is the annual gathering of defenders, developers, incident responders, threat hunters, and security architects who rely on Zeek.  https://www.eventbrite.com/e/virtual-zeek-week-tickets-117288632457
 
 ### November
