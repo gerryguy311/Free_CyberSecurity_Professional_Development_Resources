@@ -29,6 +29,9 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
 
 
 ### November
+
+* **CyberCrimeCon 2020** - Nov 25-27 - CyberCrimeCon brings together cutting-edge cybersecurity professionals and independent researchers from financial and tech sectors, large retail and industrial companies, and law enforcement agencies. Its purpose is to present the latest research findings and share expertise in order to prevent, detect, and respond to security challenges. CyberCrimeCon is intended for a variety of participants: CISOs, CIOs, threat hunters & threat researchers, incident responders and investigators, SOC experts, TI analysts, pentesters, and more. https://virtual.group-ib.com/
+
 * **AWS RE:Invent** NOV. 30 – DEC. 18, 2020 - AWS Major conference. Will cover more then security, but worth being on the list. https://reinvent.awsevents.com/
 
 ### December
