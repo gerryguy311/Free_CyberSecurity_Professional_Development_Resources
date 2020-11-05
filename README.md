@@ -30,6 +30,10 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
 
 ### November
 
+* **BSides Orlando** - Fri, Nov 6, 2020, 12:00 AM – Sat, Nov 7, 2020, 11:30 PM EST- Security B-Sides Orlando is a community driven event seeking to bring together anyone with a passion for making, breaking, or protecting. https://www.eventbrite.com/e/2020-security-b-sides-orlando-virtual-tickets-114836693642
+
+* **BSides DFW** - 07 Nov 2020 - Security B-Sides Dallas/Fort Worth (BSidesDFW) is back for its 11th year, sort of. Due to all things that are the homerically stupendous dumpster fire of 2020 we are officially going virtual. http://www.bsidesdfw.com/
+
 * **CyberCrimeCon 2020** - Nov 25-27 - CyberCrimeCon brings together cutting-edge cybersecurity professionals and independent researchers from financial and tech sectors, large retail and industrial companies, and law enforcement agencies. Its purpose is to present the latest research findings and share expertise in order to prevent, detect, and respond to security challenges. CyberCrimeCon is intended for a variety of participants: CISOs, CIOs, threat hunters & threat researchers, incident responders and investigators, SOC experts, TI analysts, pentesters, and more. https://virtual.group-ib.com/
 
 * **AWS RE:Invent** NOV. 30 – DEC. 18, 2020 - AWS Major conference. Will cover more then security, but worth being on the list. https://reinvent.awsevents.com/
@@ -51,7 +55,6 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
 
 ### October
 
-
 * **The October Roundup by Wild West Hackin' Fest: Adversary Emulation w/ Jorge Orchilles (5-Hours)** - Thu, Oct 22, 2020 12:00 PM - 5:00 PM - Adversary emulation is a type of ethical hacking engagement where a Red Team imitates how an attacker operates, leveraging frameworks like MITRE ATT&CK to identify specific tactics, techniques, and procedures (TTPs) that a real threat actor might use against an organization. Rather than focusing on attacks less likely to occur, these engagements draw upon Cyber Threat Intelligence to identify adversaries with the intent, opportunity, and capability to attack. Further, adversary emulation may proceed with the Blue Team having no knowledge of the exercise or full knowledge (Purple Team). https://register.gotowebinar.com/register/3678308807480230671
 
 * **The Secret Thoughts of a Successful Hacker | Nadean Tanner | 1 Hour** - Wed, Oct 28, 2020 1:00 PM - 2:00 PM EDT - This talk will help you identify those thought patterns that undermine your ability to feel as capable as others know you are and take ownership of your well deserved success. Being proactive, asking the right questions, and once you know there is a problem, start working on the solution. https://attendee.gotowebinar.com/register/7636446215083130894
@@ -59,6 +62,8 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
 * **Cyber Threat Hunting: What you need to know about getting into the Hunt | James Smith** - Thu, October 29, 2020 6:00 PM – 7:00 PM EDT - Interested in the art of Defensive Forensics, Incident Response (DFIR) and Threat Hunting? Join us as Infosec expert James Smith discusses “the thrill of the hunt” and what it takes to launch a career in this area of Infosec. https://www.eventbrite.com/e/cyber-threat-hunting-what-you-need-to-know-about-getting-into-the-hunt-tickets-125274847441
 
 ### November
+
+* **How to Cover C&C in the MITRE ATT&CK Matrix w/ Chris Brenton (1-Hour)** - Wed, Nov 11, 2020 2:00 PM - 3:00 PM EST - We all look to the Mitre ATT@CK Matrix for guidance on understanding attack techniques as well as mitigating their risks. If you want to take a strong defense in-depth approach, you will want to ensure you have coverage of each framework category. Arguably, one of the most difficult columns to both test and implement is the Command and Control column. The techniques described can be some of the most challenging to implement. In this webcast, we'll run down the command and control column to identify how we can both detect and test each described threat vector. https://register.gotowebinar.com/register/1491623173719928847
 
 * **Getting Started in Security with BHIS and MITRE ATT&CK w/ John Strand** ($0-395, Pay What You Want) Mon, Nov 16, 2020 11:00 AM – 4:00 PM EST Tue, Nov 17, 2020 12:00 PM – 4:00 PM EST Wed, Nov 18, 2020 12:00 PM – 4:00 PM EST Thu, Nov 19, 2020 12:00 PM – 4:00 PM EST - "This 16-hour (4-days, 4-hour sessions) information security training class is designed for people who are new to computer security. We will cover the core fundamentals with lots of hands-on labs demonstrating the attacks and defenses every security professional must know to be successful." https://wildwesthackinfest.com/online-training/getting-started-in-security-with-bhis-and-mitre-attk/
 
