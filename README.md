@@ -17,16 +17,6 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
   
 ## Conferences
 
-### October
-
-* **Hacker Halted 2020** - October 12th-16th, 2020 - Hacker Halted is EC-Council’s annual IT Security Conference and plays host to over 50 speakers delivering ground breaking presentations! Hacker Halted builds on the educational foundation of EC-Councils courses in ethical hacking, computer forensics, pen testing, and many others. Hacker Halted brings the industry’s leading researchers, practitioners, ethical hackers and other top IT Security professionals together to discuss current issues facing our industry. https://www.eventbrite.com/e/hacker-halted-virtual-cyber-security-training-and-conference-2020-tickets-75038384829
-
-* **Security Onion Conference (SOC) 2020 by Security Onion Solutions LLC** - Fri, October 16, 2020 1:00 PM – 3:30 PM EDT - If you use Security Onion, then you should definitely make plans to attend Security Onion Conference! Even if you don’t use Security Onion, most talks provide value beyond just Security Onion itself. So if you’re generally interested in things like intrusion detection, network security monitoring, enterprise security monitoring, log management, hunting, and blue teaming, then you should consider attending Security Onion Conference! https://www.eventbrite.com/e/security-onion-conference-soc-2020-tickets-123728732971
-
-* **Zeek Week** Tue, Oct 13, 2020, 12:00 PM – Thu, Oct 15, 2020, 4:20 PM EDT ZeekWeek is the annual gathering of defenders, developers, incident responders, threat hunters, and security architects who rely on Zeek.  https://www.eventbrite.com/e/virtual-zeek-week-tickets-117288632457
-
-* **Grayhat Conference (Frmly Texas Cyber Summit)** - Thu, Oct 29, 2020, 10:00 AM – Sat, Oct 31, 2020, 6:00 PM EDT - GRAYHAT: A fusion of Cybersecurity Professionals & World Renown Hackers, in its third year, check out dozens of live trainings #Safetime https://www.eventbrite.com/e/grayhat-conference-frmly-texas-cyber-summit-tickets-117352322957
-
 
 ### November
 
@@ -52,14 +42,6 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
 
 ## Instructor Led Webinar/Labs/Workshops
 
-
-### October
-
-* **The October Roundup by Wild West Hackin' Fest: Adversary Emulation w/ Jorge Orchilles (5-Hours)** - Thu, Oct 22, 2020 12:00 PM - 5:00 PM - Adversary emulation is a type of ethical hacking engagement where a Red Team imitates how an attacker operates, leveraging frameworks like MITRE ATT&CK to identify specific tactics, techniques, and procedures (TTPs) that a real threat actor might use against an organization. Rather than focusing on attacks less likely to occur, these engagements draw upon Cyber Threat Intelligence to identify adversaries with the intent, opportunity, and capability to attack. Further, adversary emulation may proceed with the Blue Team having no knowledge of the exercise or full knowledge (Purple Team). https://register.gotowebinar.com/register/3678308807480230671
-
-* **The Secret Thoughts of a Successful Hacker | Nadean Tanner | 1 Hour** - Wed, Oct 28, 2020 1:00 PM - 2:00 PM EDT - This talk will help you identify those thought patterns that undermine your ability to feel as capable as others know you are and take ownership of your well deserved success. Being proactive, asking the right questions, and once you know there is a problem, start working on the solution. https://attendee.gotowebinar.com/register/7636446215083130894
-
-* **Cyber Threat Hunting: What you need to know about getting into the Hunt | James Smith** - Thu, October 29, 2020 6:00 PM – 7:00 PM EDT - Interested in the art of Defensive Forensics, Incident Response (DFIR) and Threat Hunting? Join us as Infosec expert James Smith discusses “the thrill of the hunt” and what it takes to launch a career in this area of Infosec. https://www.eventbrite.com/e/cyber-threat-hunting-what-you-need-to-know-about-getting-into-the-hunt-tickets-125274847441
 
 ### November
 
