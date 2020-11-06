@@ -24,6 +24,8 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
 
 * **BSides DFW** - 07 Nov 2020 - Security B-Sides Dallas/Fort Worth (BSidesDFW) is back for its 11th year, sort of. Due to all things that are the homerically stupendous dumpster fire of 2020 we are officially going virtual. http://www.bsidesdfw.com/
 
+* **SO-CON 2020** - Mon, Nov 16 ‐ Fri, Nov 20 • 12:00 PM EST - SO-CON 2020 is a virtual event consisting of 4 training courses and free talks / workshops showcasing our team member's latest work. SO-CON 2020 is our first live virtual security conference being held on November 16 - 20, 2020. The event will consist of 4 training courses, two new and updated versions of our current courses, running November 16th-19th, 2020 (Monday - Thursday). Talks and workshops will be held live November 20th, 2020 (Friday). https://www.eventbrite.com/e/so-con-2020-tickets-118671819607
+
 * **CyberCrimeCon 2020** - Nov 25-27 - CyberCrimeCon brings together cutting-edge cybersecurity professionals and independent researchers from financial and tech sectors, large retail and industrial companies, and law enforcement agencies. Its purpose is to present the latest research findings and share expertise in order to prevent, detect, and respond to security challenges. CyberCrimeCon is intended for a variety of participants: CISOs, CIOs, threat hunters & threat researchers, incident responders and investigators, SOC experts, TI analysts, pentesters, and more. https://virtual.group-ib.com/
 
 * **AWS RE:Invent** NOV. 30 – DEC. 18, 2020 - AWS Major conference. Will cover more then security, but worth being on the list. https://reinvent.awsevents.com/
