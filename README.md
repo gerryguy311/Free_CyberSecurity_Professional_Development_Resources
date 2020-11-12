@@ -51,6 +51,9 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
 
 * **Play to Win: Getting Your Dream Cybersecurity Job w/ Kip Boyle (1-Hour)** - Wed, Nov 18, 2020 1:00 PM - 2:00 PM EST - You want your first cybersecurity job. Or, you're ready for your next promotion, maybe at another company. Do you have the right education, skills, and certifications? Which organization should you apply at? How do you actually get in front of the hiring manager? What do you say during the interview? Do you have enough experience to even get an interview? Is it a good idea to try to get a new job during a pandemic? In this session, we'll examine a proven, four-step approach that will help you navigate the road blocks, confusion, and false starts. https://attendee.gotowebinar.com/register/8356289880609584654
 
+### December
+
+* **Training Course: SOC Core Skills w/ John Strand (16 Hours - Pay What You Want)** - Mon, Dec 14, 2020 11:00 AM - 4:00 PM EST, Tue, Dec 15, 2020 12:00 PM - 4:00 PM EST, Wed, Dec 16, 2020 12:00 PM - 4:00 PM EST, Thu, Dec 17, 2020 12:00 PM - 4:00 PM EST - This 16-hour (4-days, 4-hour sessions) information security training course will cover the core security skills all Security Operation Center (SOC) analysts need to have. These are the skills that all Black Hills Information Security (BHIS) SOC team members need to have.  Topics to include:1. Core networking skills 2. Live Windows Forensics 3. Live Linux Forensics 4. Memory Forensics 5. Active Directory Analysis 6. Network Threat Hunting 7. Basics of Vulnerability Management 8. The Incident Response Process. All sections will have hands-on labs. https://register.gotowebinar.com/register/3144928021640124683
 
 ## Training
 
