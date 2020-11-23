@@ -55,6 +55,9 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
 
 * **Training Course: SOC Core Skills w/ John Strand (16 Hours - Pay What You Want)** - Mon, Dec 14, 2020 11:00 AM - 4:00 PM EST, Tue, Dec 15, 2020 12:00 PM - 4:00 PM EST, Wed, Dec 16, 2020 12:00 PM - 4:00 PM EST, Thu, Dec 17, 2020 12:00 PM - 4:00 PM EST - This 16-hour (4-days, 4-hour sessions) information security training course will cover the core security skills all Security Operation Center (SOC) analysts need to have. These are the skills that all Black Hills Information Security (BHIS) SOC team members need to have.  Topics to include:1. Core networking skills 2. Live Windows Forensics 3. Live Linux Forensics 4. Memory Forensics 5. Active Directory Analysis 6. Network Threat Hunting 7. Basics of Vulnerability Management 8. The Incident Response Process. All sections will have hands-on labs. https://register.gotowebinar.com/register/3144928021640124683
 
+* **Intro to Cybersecurity: Workshop | Online - Flatiron School** - Thursday, December 17  6:30 PM ‐ 8:00 PM EST - Looking to understand core concepts of cybersecurity? Join us for a beginner friendly overview of what you need to know about this field. In this virtual event, one of Flatiron School Cybersecurity instructors will provide insight on the knowledge areas that aspiring cyber professionals need to know. https://www.eventbrite.com/e/intro-to-cybersecurity-workshop-online-tickets-130022026381
+
+
 ## Training
 
 * **WebSecurity Academy** Free online web security training from the creators of Burp Suite https://portswigger.net/web-security
