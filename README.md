@@ -223,9 +223,6 @@ By Heather Adkins, Betsy Beyer, Paul Blankinship, Ana Oprea, Piotr Lewandowski, 
 
 * **The Beginner’s Guide to Information Security** By Limor Elbaz - Offers insight and resources to help readers embark on a career in one of the 21st century’s most important—and potentially lucrative—fields. https://www.amazon.com/Beginners-Guide-Information-Security-Kickstart-ebook/dp/B01JTDDSAM
 
-* **Free Springer Textbooks** 
-Valid at least through July, Springer is providing free access to several hundred titles in its eBook collection. Books are available via SpringerLink and can be viewed online or downloaded as PDF or EBUP files. Disciplines include computer science, networking, cryptography, digital forensics, and others. https://link.springer.com/search/page/1?facet-content-type=%22Book%22&package=mat-covid19_textbooks&facet-language=%22En%22&sortOrder=newestFirst&showAll=true 
-
 * **Texas A&M Security Courses** The web-based courses are designed to ensure that the privacy, reliability, and integrity of the information systems that power the global economy remain intact and secure. The web-based courses are offered through three discipline-specific tracks: general, non-technical computer users; technical IT professionals; and business managers and professionals. https://teex.org/program/dhs-cybersecurity/ 
 
 
