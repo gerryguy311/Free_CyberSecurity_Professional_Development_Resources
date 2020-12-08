@@ -150,6 +150,8 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
 
 * **HackerSploit** - HackerSploit is the leading provider of free and open-source Infosec and cybersecurity training. https://hackersploit.org/
 
+* **CyberStart America** - "A new program designed to give high school students in the US free access to cybersecurity learning resources written and developed by industry professionals, which can also be used to train and qualify for a National Cyber Scholarship." Sponsored by the SANS Institue and the National Cyber Scholarship Foundation, the program is open to high school students who are at least 13 years old and enrolled in 9th, 10th, 11th or 12th grade at a public or private school (or the homeschool equivalent) in the US. https://www.cyberstartamerica.org
+
 **PENTESTING TRAINING LABS** (curated from https://github.com/michelbernardods/labs-pentest) 
 
 * **Academy Hackaflag** (Spanish) https://academy.hackaflag.com.br/
