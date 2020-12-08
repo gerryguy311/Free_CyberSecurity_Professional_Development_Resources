@@ -16,17 +16,7 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
   10. [References / Tools / Cheat Sheets](#ReferencesToolsCheat-Sheets)
   
 ## Conferences
-
-
-### November
-
-* **0xcon 2020** - 14 Nov 2020 • 8AM SAST - 0xcon is a community-driven event by South African hackers and security researchers. 5 local speakers, 1 epic security challenge, 100% free. It will be online this year due to COVID-19. https://hacksouth.africa/conferences/0xcon-2020/
-
-* **SO-CON 2020** - Mon, Nov 16 ‐ Fri, Nov 20 • 12:00 PM EST - SO-CON 2020 is a virtual event consisting of 4 training courses and free talks / workshops showcasing our team member's latest work. SO-CON 2020 is our first live virtual security conference being held on November 16 - 20, 2020. The event will consist of 4 training courses, two new and updated versions of our current courses, running November 16th-19th, 2020 (Monday - Thursday). Talks and workshops will be held live November 20th, 2020 (Friday). https://www.eventbrite.com/e/so-con-2020-tickets-118671819607
-
-* **CyberCrimeCon 2020** - Nov 25-27 - CyberCrimeCon brings together cutting-edge cybersecurity professionals and independent researchers from financial and tech sectors, large retail and industrial companies, and law enforcement agencies. Its purpose is to present the latest research findings and share expertise in order to prevent, detect, and respond to security challenges. CyberCrimeCon is intended for a variety of participants: CISOs, CIOs, threat hunters & threat researchers, incident responders and investigators, SOC experts, TI analysts, pentesters, and more. https://virtual.group-ib.com/
-
-* **AWS RE:Invent** NOV. 30 – DEC. 18, 2020 - AWS Major conference. Will cover more then security, but worth being on the list. https://reinvent.awsevents.com/
+DUE TO OTHER COMMITMENTS I'VE BEEN UNABLE TO MAINTAIN CONFERENCE LISTING. DFIRDIVA MAINTAINS A GREAT SITE THAT INCLUDES CONFERENCE LISTING. PLEASE REFER THERE FOR THIS TYPE OF INFORMATION. https://dfirdiva.com/free-and-affordable-training
 
 ### December
 
@@ -42,14 +32,8 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
 
 ## Instructor Led Webinar/Labs/Workshops
 
+DUE TO OTHER COMMITMENTS I'VE BEEN UNABLE TO MAINTAIN INSTRUCTOR LED WEBINAR LISTING. DFIRDIVA MAINTAINS A GREAT SITE THAT INCLUDES FREE TRAINING LISTINGS. PLEASE REFER THERE FOR THIS TYPE OF INFORMATION. https://dfirdiva.com/free-and-affordable-training
 
-### November
-
-* **How to Cover C&C in the MITRE ATT&CK Matrix w/ Chris Brenton (1-Hour)** - Wed, Nov 11, 2020 2:00 PM - 3:00 PM EST - We all look to the Mitre ATT@CK Matrix for guidance on understanding attack techniques as well as mitigating their risks. If you want to take a strong defense in-depth approach, you will want to ensure you have coverage of each framework category. Arguably, one of the most difficult columns to both test and implement is the Command and Control column. The techniques described can be some of the most challenging to implement. In this webcast, we'll run down the command and control column to identify how we can both detect and test each described threat vector. https://register.gotowebinar.com/register/1491623173719928847
-
-* **Getting Started in Security with BHIS and MITRE ATT&CK w/ John Strand** ($0-395, Pay What You Want) Mon, Nov 16, 2020 11:00 AM – 4:00 PM EST Tue, Nov 17, 2020 12:00 PM – 4:00 PM EST Wed, Nov 18, 2020 12:00 PM – 4:00 PM EST Thu, Nov 19, 2020 12:00 PM – 4:00 PM EST - "This 16-hour (4-days, 4-hour sessions) information security training class is designed for people who are new to computer security. We will cover the core fundamentals with lots of hands-on labs demonstrating the attacks and defenses every security professional must know to be successful." https://wildwesthackinfest.com/online-training/getting-started-in-security-with-bhis-and-mitre-attk/
-
-* **Play to Win: Getting Your Dream Cybersecurity Job w/ Kip Boyle (1-Hour)** - Wed, Nov 18, 2020 1:00 PM - 2:00 PM EST - You want your first cybersecurity job. Or, you're ready for your next promotion, maybe at another company. Do you have the right education, skills, and certifications? Which organization should you apply at? How do you actually get in front of the hiring manager? What do you say during the interview? Do you have enough experience to even get an interview? Is it a good idea to try to get a new job during a pandemic? In this session, we'll examine a proven, four-step approach that will help you navigate the road blocks, confusion, and false starts. https://attendee.gotowebinar.com/register/8356289880609584654
 
 ### December
 
