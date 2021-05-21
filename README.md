@@ -18,13 +18,7 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
 ## Conferences
 DUE TO OTHER COMMITMENTS I'VE BEEN UNABLE TO MAINTAIN CONFERENCE LISTING. DFIRDIVA MAINTAINS A GREAT SITE THAT INCLUDES CONFERENCE LISTING. PLEASE REFER THERE FOR THIS TYPE OF INFORMATION. https://dfirdiva.com/free-and-affordable-training
 
-### December
 
-* **GRIMMCON 0x3** GRIMMCon 0x3 will be 30 DEC 20, 1100 - 1900 ET. Cybersecurity conference. LINK TO FOLLOW
-
-### 2021
-
-* **ICS Security Summit & Training 2021** - Virtual, US Eastern | Thu, Mar 4 - Sat, Mar 13, 2021 - Live Online The annual ICS Security Summit brings together the industry’s top practitioners and leading experts from around the globe to share actionable ideas, methods, and techniques for safeguarding critical infrastructures. In-depth talks and interactive panel discussions deliver proven advances and approaches that make a real difference for the individuals leading this fight every day. https://www.sans.org/event/ics-security-summit-2021
 
 ### Archived/Replay
 * **SUMMERCON 2020** -Archived- Summercon is one of the oldest hacker conventions, and the longest running such conference in America. It helped set a precedent for more modern "cons" such as H.O.P.E. and DEF CON, although it has remained smaller and more personal.  https://youtu.be/uVbrxMTrp0k
@@ -34,21 +28,6 @@ DUE TO OTHER COMMITMENTS I'VE BEEN UNABLE TO MAINTAIN CONFERENCE LISTING. DFIRDI
 
 DUE TO OTHER COMMITMENTS I'VE BEEN UNABLE TO MAINTAIN INSTRUCTOR LED WEBINAR LISTING. DFIRDIVA MAINTAINS A GREAT SITE THAT INCLUDES FREE TRAINING LISTINGS. PLEASE REFER THERE FOR THIS TYPE OF INFORMATION. https://dfirdiva.com/free-and-affordable-training
 
-
-
-### January
-
-* **You Don't Have to Be Crazy to Work Here | Doug Brush | 1 Hour** - Wed, Jan 27, 2021 1:00 PM - 2:00 PM EST - Cybersecurity professionals spend most of their day focused on the health and well-being of the environments in their care. However, the cost of reducing risk and keeping our networks safe often comes at the price of our professionals' mental health. Many InfoSec professionals burn out, suffer from anxiety and depression, and turn to unhealthy coping mechanisms, which further exacerbate underlying psychological and physical health issues. This talk will alleviate the stigma around mental health and stress the importance of open and frank dialog about this serious issue impacting our community. I will share my journey, reverse engineer the stigma of mental health in business, and look at ways we can hack mental health in productive and meaningful ways. https://register.gotowebinar.com/register/663760187128439051
-
-### February
-
-* **Training Course: SOC Core Skills w/ John Strand (16 Hours - Pay What You Want)** - Tue Feb 2, 2021 11:00 AM - 4:00 PM EST, Wed Feb 3, 2021 12:00 PM - 4:00 PM EST, Thu Feb 4, 2021 12:00 PM - 4:00 PM EST, Fri Feb 5, 2021 12:00 PM - 4:00 PM EST - This 16-hour (4-days, 4-hour sessions) information security training course will cover the core security skills all Security Operation Center (SOC) analysts need to have. Topics to include:1. Core networking skills 2. Live Windows Forensics 3. Live Linux Forensics 4. Memory Forensics 5. Active Directory Analysis 6. Network Threat Hunting 7. Basics of Vulnerability Management 8. The Incident Response Process. All sections will have hands-on labs. https://register.gotowebinar.com/register/5912460362618462478
-
-* **Training Course: Getting Started in Security with BHIS and MITRE ATT&CK w/ John Strand (16-Hours - Pay What You Can)** - Tue Feb 23, 2021 11:00 AM - 4:00 PM EST, Wed Feb 24, 2021 12:00 PM - 4:00 PM EST, Thu Feb 25, 2021 12:00 PM - 4:00 PM EST, Fri Feb 26, 2021 12:00 PM - 4:00 PM EST - This 16-hour (4-days, 4-hour sessions) information security training class is designed for people who are new to computer security. We will cover the core fundamentals with lots of hands-on labs demonstrating the attacks and defenses every security professional must know to be successful. While many security classes can be overwhelming with the amount of data they force on you in a short period of time, this class is designed to help you focus on what matters to your day to day job.  So no, we are not going to force you to learn archaic technologies and the underpinnings of crypto algorithms. Instead, we will focus on what actually works for repelling and detecting attackers. https://register.gotowebinar.com/register/3559987064714262542
-
-### March
-
-* **Training Course: Active Defense & Cyber Deception w/ John Strand (16 Hours - Pay What You Can)** - Tue Mar 16, 2021 11:00 AM - 4:00 PM EDT, Wed Mar 17, 2021 12:00 PM - 4:00 PM EDT, Thu Mar 18, 2021 12:00 PM - 4:00 PM EDT, Fri Mar 19, 2021 12:00 PM - 4:00 PM EDT - Active Defenses have been capturing a large amount of attention in the media lately. There are those who thirst for vengeance and want to directly attack the attackers. There are those who believe that any sort of active response directed at an attacker is wrong. We believe the answer is somewhere in between. In this class, you will learn how to force an attacker to take more moves to attack your network. These moves may increase your ability to detect them. You will learn how to gain better attribution as to who is attacking you and why. You will also find out how to get access to a bad guy’s system. And most importantly, you will find out how to do the above legally. https://register.gotowebinar.com/register/3272325136631560973
 
 
 ## Training
@@ -146,6 +125,8 @@ DUE TO OTHER COMMITMENTS I'VE BEEN UNABLE TO MAINTAIN INSTRUCTOR LED WEBINAR LIS
 * **HackerSploit** - HackerSploit is the leading provider of free and open-source Infosec and cybersecurity training. https://hackersploit.org/
 
 * **CyberStart America** - "A new program designed to give high school students in the US free access to cybersecurity learning resources written and developed by industry professionals, which can also be used to train and qualify for a National Cyber Scholarship." Sponsored by the SANS Institue and the National Cyber Scholarship Foundation, the program is open to high school students who are at least 13 years old and enrolled in 9th, 10th, 11th or 12th grade at a public or private school (or the homeschool equivalent) in the US. https://www.cyberstartamerica.org
+
+* **Hacking Loops** This blog is designed to support the numerous colleagues, friends and acquaintances who have asked me for advice on how to transition from certain Information Technology (IT) roles into the IT Security world. https://www.hackingloops.com/metasploit-commands/
 
 **PENTESTING TRAINING LABS** (curated from https://github.com/michelbernardods/labs-pentest) 
 
