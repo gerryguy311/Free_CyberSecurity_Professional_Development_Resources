@@ -3,7 +3,7 @@
 An awesome list of resources for training, conferences, speaking, labs, reading, etc that are **free** all the time that cybersecurity professionals with downtime can take advantage of to improve their skills and marketability to come out on the other side ready to rock. 
 Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/GeraldAuger 
 
-# This list is futher maintained at SimplyCyber.io
+# This list is now maintained at SimplyCyber.io
 
 # CATEGORIES
   1. [Conferences](#conferences)
