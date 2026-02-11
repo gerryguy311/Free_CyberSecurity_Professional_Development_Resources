@@ -203,6 +203,7 @@ DUE TO OTHER COMMITMENTS I'VE BEEN UNABLE TO MAINTAIN INSTRUCTOR LED WEBINAR LIS
 * **WeChall** http://www.wechall.net/
 
 * **Zenk-Security** https://www.zenk-security.com/epreuves.php
+* **CyberPython** https://pythoncyber.go.ro
 
 * **8kSec Battlegrounds** https://8ksec.io/battle/
 
