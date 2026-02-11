@@ -204,6 +204,8 @@ DUE TO OTHER COMMITMENTS I'VE BEEN UNABLE TO MAINTAIN INSTRUCTOR LED WEBINAR LIS
 
 * **Zenk-Security** https://www.zenk-security.com/epreuves.php
 
+* **8kSec Battlegrounds** https://8ksec.io/battle/
+
 
 ## Books
 * **Building Secure & Reliable Systems**
