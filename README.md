@@ -34,6 +34,8 @@ DUE TO OTHER COMMITMENTS I'VE BEEN UNABLE TO MAINTAIN INSTRUCTOR LED WEBINAR LIS
 
 ## Training
 
+* **SecuSpark** Free, gamified CompTIA certification practice tests (Security+, A+, Network+) with 1,500+ questions, AI-powered explanations, and RPG-style learning mechanics. No account required, works offline. https://www.secuspark.com
+
 * **Nox Cyber** Jay Jay Davey site full of curated cybersecurity training resources. https://noxcyber.co.uk/
 
 * **WebSecurity Academy** Free online web security training from the creators of Burp Suite https://portswigger.net/web-security
