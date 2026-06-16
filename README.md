@@ -206,6 +206,8 @@ DUE TO OTHER COMMITMENTS I'VE BEEN UNABLE TO MAINTAIN INSTRUCTOR LED WEBINAR LIS
 
 * **8kSec Battlegrounds** https://8ksec.io/battle/
 
+* **Practical DevSecOps** - Hands-on DevSecOps, AI Security, and AppSec training and certifications. Covers DevSecOps, Container Security, Kubernetes Security, API Security, Threat Modeling, and Software Supply Chain Security. https://www.practical-devsecops.com/
+
 
 ## Books
 * **Building Secure & Reliable Systems**
@@ -307,6 +309,8 @@ _Below podcasts Added from here: https://infosec-conferences.com/cybersecurity-p
 _This list was originally forked/curated from here: https://wportal.xyz/collection/cybersec-yt1 on (7/29/2020) Attribution and appreciation to d4rckh_ 
 
 *   **SimplyCyber** Weekly vids, Simply Cyber brings Information security related content to help IT or Information Security professionals take their career further, faster. Current cyber security industry topics and techniques are explored to promote a career in the field. Topics cover offense, defense, governance, risk, compliance, privacy, education, certification, conferences; all with the intent of professional development. https://www.youtube.com/c/GeraldAuger
+
+*   **Practical DevSecOps** - DevSecOps, AI Security and MCP Security Trainings https://www.youtube.com/@PracticalDevSecOps
 	
 *	**IPPSec** https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA
 	
