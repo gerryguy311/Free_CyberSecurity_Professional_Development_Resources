@@ -130,6 +130,7 @@ DUE TO OTHER COMMITMENTS I'VE BEEN UNABLE TO MAINTAIN INSTRUCTOR LED WEBINAR LIS
 
 * **Hacking Loops** This blog is designed to support the numerous colleagues, friends and acquaintances who have asked me for advice on how to transition from certain Information Technology (IT) roles into the IT Security world. https://www.hackingloops.com/metasploit-commands/
 
+* **Dark-Moon** - Open source autonomous AI pentest platform; self-hosted, run it against legal labs (HTB, DVWA, Juice Shop, kubernetes-goat) to practice web/API/AD/Kubernetes attacks. https://github.com/ASCIT31/Dark-Moon
 **PENTESTING TRAINING LABS** (curated from https://github.com/michelbernardods/labs-pentest) 
 
 * **Academy Hackaflag** (Spanish) https://academy.hackaflag.com.br/
