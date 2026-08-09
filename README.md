@@ -162,6 +162,8 @@ DUE TO OTHER COMMITMENTS I'VE BEEN UNABLE TO MAINTAIN INSTRUCTOR LED WEBINAR LIS
 
 * **ImmersiveLabs** https://immersivelabs.com/
 
+* **LabEx Cybersecurity Labs** https://labex.io/learn/cybersecurity
+
 * **Labs Wizard Security** https://labs.wizard-security.net
 
 * **NewbieContest** https://www.newbiecontest.org/
