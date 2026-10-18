@@ -415,6 +415,8 @@ _This list was originally forked/curated from here: https://wportal.xyz/collecti
 
 * **SANS NewsBites** - "A semiweekly high-level executive summary of the most important news articles that have been published on computer security during the last week. Each news item is very briefly summarized and includes a reference on the web for detailed information, if possible." Published for free on Tuesdays and Fridays. https://www.sans.org/newsletters/newsbites
 
+* **ICHI — Internet Cyber Health Index** - A free, source-transparent daily barometer of internet cyber health. Aggregates threat alerts, CVEs, and telemetry from 20+ public sources (CISA KEV, Shodan, Censys, abuse.ch, CVE/NVD, and others) into a single scored index. Useful for a quick outside-in view of current threat conditions. https://ichi.global
+
 ## Professional Networking
 ### Discord and Slack (Networking and Communication Opportunities)
 _I'm (Gerald Auger) personally a member of the following Discord/Slack groups and have validated their quality and integrity. Message me if you want in those channels Discord: Gerald.Auger | Slack Gerald_Auger_
